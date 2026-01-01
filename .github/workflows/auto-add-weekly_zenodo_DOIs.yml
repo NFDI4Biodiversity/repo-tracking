@@ -3,7 +3,8 @@ name: Run Quarterly Auto-Add Zenodo DOIs
 on:
   schedule:
     - cron: '0 11 1 1,4,7,10 *'  # This runs the job every 3 months (January, April, July, October) at 11 AM
-
+  workflow_dispatch:
+  
 jobs:
   run-quarterly-auto-add-zenodo-dois:
     runs-on: ubuntu-latest
@@ -27,4 +28,4 @@ jobs:
         GITHUB_API_KEY: "${{ secrets.GITHUB_TOKEN }}"
         GITHUB_RUN_ID: "${{ github.run_id }}"
       run: |
-        python C:\structure\code\training\scripts\add_missing_zenodo_dois.py ${{ github.repository }}
+        python scripts/add_missing_zenodo_dois.py ${{ github.repository }}
