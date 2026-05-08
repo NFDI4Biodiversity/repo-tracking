@@ -19,7 +19,8 @@ resources:
   submission_date: '2026-05-08T08:05:38.954690'
   type: GitHub Repository
   url: https://github.com/NFDI4Biodiversity/Visualization-Analysis-Transformation-VAT
-  - authors:
+
+- authors:
   - Angiolillo, M.
   - Di Lorenzo, B.
   - Bo, M.
