@@ -23,3 +23,13 @@ resources:
   url:
   - https://zenodo.org/records/17541532
   - https://doi.org/10.5281/zenodo.17541532
+- authors:
+  - JulianeRoeder
+  - Johannes Signer
+  description: Resources for the NFDI4Biodiversity & iDiv Seasonal School 2024
+  name: SeasonalSchool2024
+  publication_date: '2024-09-11'
+  submission_date: '2026-05-08T07:59:43.090146'
+  type: software
+  url:
+  - https://github.com/NFDI4Biodiversity/SeasonalSchool2024
