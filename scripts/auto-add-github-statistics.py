@@ -72,7 +72,7 @@ def main():
 
 
     # upload to github and send a pull-request
-    repository = "scads/zenodo-tracking"
+    repository = "haesleinhuepf/repo-tracking-nfdi4biodiversity"
     branch = create_branch(repository)
     with open(output_file, 'r') as file:
         file_content = file.read()

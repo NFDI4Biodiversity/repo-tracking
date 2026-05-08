@@ -49,7 +49,7 @@ The system consists of automated scripts that:
 2. Validates issue contains `https://zenodo.org/records` links
 3. Creates a new branch in the repository
 4. Fetches complete metadata from Zenodo API using `complete_zenodo_data()`
-5. Appends new entries to `resources/scadsai.yml`
+5. Appends new entries to `resources/nfdi4biodiversity.yml`
 6. Creates a pull request with the changes
 7. Closes the originating issue
 

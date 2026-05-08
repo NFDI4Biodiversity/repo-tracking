@@ -29,9 +29,9 @@ def main():
     repository = sys.argv[1]
 
     token = os.getenv('ZENODO_API_KEY')
-    communities = ['scads-ai']
+    communities = ['nfdi4biodiversity']
 
-    yml_filename = "resources/scadsai.yml"
+    yml_filename = "resources/nfdi4biodiversity.yml"
 
     # read "database"
     branch = create_branch(repository)

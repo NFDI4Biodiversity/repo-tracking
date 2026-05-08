@@ -24,7 +24,7 @@ def main():
     repository = sys.argv[1]
     issue = int(sys.argv[2])
     
-    yml_filename = "resources/scadsai.yml"
+    yml_filename = "resources/nfdi4biodiversity.yml"
     
     issue_text = get_issue_body(repository, issue)
     zenodo_urls = [line for line in issue_text.splitlines() if line.startswith("https://zenodo.org/records")]

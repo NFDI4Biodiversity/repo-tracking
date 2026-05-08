@@ -26,7 +26,7 @@ def main():
     repository = sys.argv[1]
     issue = int(sys.argv[2])
 
-    yml_filename = "resources/scadsai.yml"
+    yml_filename = "resources/nfdi4biodiversity.yml"
     
     # Get the issue body, which should contain a GitHub repository link
     whole_issue_text = get_issue_body(repository, issue)
@@ -58,7 +58,7 @@ def main():
     # Save the updated content back to GitHub and create a pull request
     write_file(repository, branch, yml_filename, file_content, "Add " + github_repo_url)
     res = send_pull_request(repository, branch, "Add " + github_repo_url, f"""This is an automatically created pull-request. Before merging this, please make sure the content is correct.
- [Read more](https://scads.github.io/repo-tracking/contributing/format.html) 
+ [Read more](https://haesleinhuepf.github.io/repo-tracking-nfdi4biodiversity/contributing/format.html) 
    
 closes #{issue}
 """)

@@ -148,7 +148,7 @@ def get_repo_metadata(repo_url):
     Returns
     -------
     dict
-        Repository metadata formatted for scadsai.yml.
+        Repository metadata formatted for nfdi4biodiversity.yml.
     """
     print(f"-> Getting metadata for: {repo_url}")
     
@@ -246,9 +246,9 @@ def main():
     """
     Main function to scan GitHub organizations and add new repositories.
     """
-    repository = sys.argv[1] if len(sys.argv) > 1 else "scads/zenodo-tracking"
+    repository = sys.argv[1] if len(sys.argv) > 1 else "haesleinhuepf/repo-tracking-nfdi4biodiversity"
     
-    yml_filename = "resources/scadsai.yml"
+    yml_filename = "resources/nfdi4biodiversity.yml"
     
     # Load existing data
     print("Loading existing database...")
