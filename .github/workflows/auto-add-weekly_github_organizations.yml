@@ -1,4 +1,4 @@
-name: Scan GitHub Organizations for New Repositories
+name: Auto-add new repositories from GitHub Organizations
 
 on:
   schedule:

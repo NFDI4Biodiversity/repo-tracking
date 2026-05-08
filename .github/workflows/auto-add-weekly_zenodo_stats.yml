@@ -1,4 +1,4 @@
-name: Run Weekly Summary Download Statistics
+name: Collect Zenodo Download Statistics
 
 on:
   schedule:

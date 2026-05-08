@@ -1,4 +1,4 @@
-name: Run Quarterly Auto-Add Zenodo DOIs
+name: Auto-Add Zenodo DOIs
 
 on:
   schedule:

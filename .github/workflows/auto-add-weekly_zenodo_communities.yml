@@ -1,4 +1,4 @@
-name: Run Weekly Summary Download Statistics
+name: Add new entries from Zenodo Communities
 
 on:
   schedule:
