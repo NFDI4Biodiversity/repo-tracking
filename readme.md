@@ -1,6 +1,6 @@
 # Repo Tracking
 
-This repository contains a collection of links to Zenodo and Github repositories maintained by members of NFDI4BioDiversity. The collection can be browsed under this URL:
+This repository contains a collection of links to Zenodo and Github repositories maintained by members of NFDI4Biodiversity. The collection can be browsed under this URL:
 
 https://haesleinhuepf.github.io/repo-tracking-nfdi4biodiversity
 
