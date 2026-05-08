@@ -74,6 +74,8 @@ def main():
 
             if not_in_data_yet:
                 data['submission_date'] = datetime.now().isoformat()
+                if "name" not in data:
+                    data["name"] = "-"
                 name = data["name"]
                 log.append(f"* [{name}]({url})")
                 new_data.append(data)
