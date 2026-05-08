@@ -33,3 +33,14 @@ resources:
   type: software
   url:
   - https://github.com/NFDI4Biodiversity/SeasonalSchool2024
+
+- authors:
+  - JulianeRoeder
+  description: An introduction to our VAT tool (Visualization-Analysis-Transformation)
+  license: Creative Commons Zero v1.0 Universal
+  name: Visualization-Analysis-Transformation-VAT
+  publication_date: '2024-06-03T07:07:09+00:00'
+  submission_date: '2026-05-08T08:05:38.954690'
+  type: GitHub Repository
+  url: https://github.com/NFDI4Biodiversity/Visualization-Analysis-Transformation-VAT
+  
