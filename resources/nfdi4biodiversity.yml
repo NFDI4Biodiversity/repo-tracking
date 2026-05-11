@@ -636,3 +636,24 @@ resources:
   url:
   - https://zenodo.org/records/20081599
   - https://doi.org/10.5281/zenodo.20081599
+- authors:
+  - JulianeRoeder
+  - elfenhelfen
+  - DanielTschink
+  - Johannes Signer
+  description: A self-paced course to learn the basics of research data management
+    for biological, ecological and environmental data.
+  name: nfdi4biodiversity-sle
+  publication_date: '2024-02-23'
+  submission_date: '2026-05-11T13:47:51.836418'
+  tags:
+  - biodiversity
+  - biodiversity-data
+  - liascript-course
+  - oer
+  - rdm
+  - research-data-management
+  - open-educational-resources
+  type: software
+  url:
+  - https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle
