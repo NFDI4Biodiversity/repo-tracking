@@ -636,3 +636,1051 @@ resources:
   url:
   - https://zenodo.org/records/20081599
   - https://doi.org/10.5281/zenodo.20081599
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestOptimus
+  num_downloads: 120
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:06.160647'
+  url:
+  - https://zenodo.org/records/20399996
+  - https://doi.org/10.5281/zenodo.20399996
+- authors:
+  - Liebig, Juri
+  license: bsd-3-clause
+  name: 'LPS: Legacy Proxy System - Reference Implementation'
+  num_downloads: 0
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:06.629824'
+  url:
+  - https://zenodo.org/records/20399773
+  - https://doi.org/10.5281/zenodo.20399773
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestMultiSampleSmartSeq2SingleNucleus
+  num_downloads: 157
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:07.076862'
+  url:
+  - https://zenodo.org/records/20399995
+  - https://doi.org/10.5281/zenodo.20399995
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestMultiome
+  num_downloads: 154
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:07.548253'
+  url:
+  - https://zenodo.org/records/20399992
+  - https://doi.org/10.5281/zenodo.20399992
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestJointGenotyping
+  num_downloads: 595
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:07.966004'
+  url:
+  - https://zenodo.org/records/20399991
+  - https://doi.org/10.5281/zenodo.20399991
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestImputationBeagle
+  num_downloads: 343
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:08.452998'
+  url:
+  - https://zenodo.org/records/20399990
+  - https://doi.org/10.5281/zenodo.20399990
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestImputation
+  num_downloads: 198
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:08.884306'
+  url:
+  - https://zenodo.org/records/20399986
+  - https://doi.org/10.5281/zenodo.20399986
+- authors:
+  - Ailene Chan
+  description: Updated codes for publication
+  license: mit-license
+  name: 'chanyca/illusory-mapping: For publication'
+  num_downloads: 5
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:09.283960'
+  url:
+  - https://zenodo.org/records/20399985
+  - https://doi.org/10.5281/zenodo.20399985
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestIlluminaGenotypingArray
+  num_downloads: 212
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:09.668710'
+  url:
+  - https://zenodo.org/records/20399982
+  - https://doi.org/10.5281/zenodo.20399982
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestGlimpse2LowPassImputationQC
+  num_downloads: 40
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:10.196941'
+  url:
+  - https://zenodo.org/records/20399979
+  - https://doi.org/10.5281/zenodo.20399979
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestGlimpse2LowPassImputation
+  num_downloads: 9
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:10.682876'
+  url:
+  - https://zenodo.org/records/20399978
+  - https://doi.org/10.5281/zenodo.20399978
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestExomeReprocessing
+  num_downloads: 273
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:11.109002'
+  url:
+  - https://zenodo.org/records/20399977
+  - https://doi.org/10.5281/zenodo.20399977
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestExomeGermlineSingleSample
+  num_downloads: 150
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:11.551259'
+  url:
+  - https://zenodo.org/records/20399976
+  - https://doi.org/10.5281/zenodo.20399976
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestCramToUnmappedBams
+  num_downloads: 125
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:12.005120'
+  url:
+  - https://zenodo.org/records/20399974
+  - https://doi.org/10.5281/zenodo.20399974
+- authors:
+  - Paradzayi, Carlton
+  - Mudawarima, Tawanda
+  license: cc-by-4.0
+  name: 'A Relational Graph Convolutional Network Framework for Trade-Based Money
+    Laundering Detection in Heterogeneous Financial Networks: Evidence from the SADC
+    Financial Ecosystem'
+  num_downloads: 0
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:12.418620'
+  url:
+  - https://zenodo.org/records/20399837
+  - https://doi.org/10.5281/zenodo.20399837
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestATAC
+  num_downloads: 260
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:12.910945'
+  url:
+  - https://zenodo.org/records/20399971
+  - https://doi.org/10.5281/zenodo.20399971
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/TestArrayImputationQC
+  num_downloads: 164
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:13.315391'
+  url:
+  - https://zenodo.org/records/20399969
+  - https://doi.org/10.5281/zenodo.20399969
+- authors:
+  - Francois Aguet
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/tensorqtl_cis_permutations
+  num_downloads: 36
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:13.751290'
+  url:
+  - https://zenodo.org/records/20399964
+  - https://doi.org/10.5281/zenodo.20399964
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/SusieR_Workflow
+  num_downloads: 170
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:14.325141'
+  url:
+  - https://zenodo.org/records/20399961
+  - https://doi.org/10.5281/zenodo.20399961
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/SubsetPhasedVcfsForFLARE
+  num_downloads: 36
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:14.761932'
+  url:
+  - https://zenodo.org/records/20399958
+  - https://doi.org/10.5281/zenodo.20399958
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/StargazerFromJointVCF
+  num_downloads: 170
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:15.157835'
+  url:
+  - https://zenodo.org/records/20399957
+  - https://doi.org/10.5281/zenodo.20399957
+- authors:
+  - broadinstitute
+  description: 'WDL Input Overview
+
+    This workflow splits a multi-sample VCF file into individual single-sample VCF
+    files. This is achieved by first
+
+    extracting all the samples from the provided multi-sample VCF file. The extracted
+    samples are then broken up into
+
+    &quot;chunks&quot; based on the specified chunk size. A new sample list is generated
+    per chunk. Finally, this new &quot;chunked&quot;
+
+    sample list is used to extract the corresponding samples from the original multi-sample
+    VCF file, creating new
+
+    single-sample VCF files. These files (and corresponding index files, if requested)
+    are then copied to the specified
+
+    output location.
+
+    Inputs:
+
+    | Parameter Name       | Description                                                                                                                                                      |
+    Type    | Required | Default                                                                     |
+
+    |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------|-----------------------------------------------------------------------------|
+
+    | multiSampleVcf   | The GCP path to the multi-sample VCF.                                                                                                                            |
+    File    | Yes      | N/A                                                                         |
+
+    | outputLocation   | Where the single-sample VCFs (and indices, if requested)
+    should be written to. Note, the user running the workflow must have write permissions
+    to this location. | String  | Yes      | N/A                                                                         |
+
+    | createIndexFiles | Whether index files should be generated for each extracted
+    single-sample VCF file.                                                                               |
+    Boolean | No       | true                                                                        |
+
+    | chunkSize        | The number of samples that should be in each chunk.                                                                                                              |
+    Int     | No       | 1000                                                                        |
+
+    | cpu              | The number of CPU cores to allocate.                                                                                                                             |
+    Int     | No       | 1                                                                           |
+
+    | memoryMb         | Memory allocation in megabytes.                                                                                                                                  |
+    Int     | No       | 6000                                                                        |
+
+    | bcftoolsDocker   | Docker image containing bcftools.                                                                                                                                |
+    String  | No       | us.gcr.io/broad-gotc-prod/imputation-bcf-vcf:1.0.7-1.10.2-0.1.16-1669908889
+    |
+
+    | diskSizeGb       | The size of the VM''s disk in GB.                                                                                                                                 |
+    Int     | No       | Calculated based on input multiSampleVcf file size                          |'
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/SplitMultisampleVcf
+  num_downloads: 401
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:15.601589'
+  url:
+  - https://zenodo.org/records/20399956
+  - https://doi.org/10.5281/zenodo.20399956
+- authors:
+  - broadinstitute
+  description: 'Warp Analysis Research Pipelines
+
+    The Warp Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/snm3C-seq
+  num_downloads: 269
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:16.003279'
+  url:
+  - https://zenodo.org/records/20399953
+  - https://doi.org/10.5281/zenodo.20399953
+- authors:
+  - broadinstitute
+  description: 'WDL Analysis Research Pipelines
+
+    The WDL Analysis Research Pipelines (WARP) repository is a collection of cloud-optimized
+    pipelines for processing biological data from the Broad Institute Data Sciences
+    Platform and collaborators.
+
+    WARP provides robust, standardized data analysis for the Broad Institute Genomics
+    Platform and large consortia like the Human Cell Atlas and the BRAIN Initiative.
+    WARP pipelines are rigorously scientifically validated, high scale, reproducible
+    and open source, released under the BSD 3-Clause license.
+
+    Pipeline releases
+
+    All pipeline releases are listed on the WARP releases page. To discover and search
+    releases, use the WARP command-line tool Wreleaser.
+
+    WARP Dockers and custom tools in warp-tools repository
+
+    All Dockers and custom tools used for WARP''s WDL Workflows are maintained in
+    a separate repository, warp-tools.
+
+    WARP documentation
+
+    Read more about our pipelines and repository on the WARP documentation site.
+
+    To contribute to WARP, please read the contribution guidelines.
+
+    Citing WARP
+
+    When citing WARP, please use the following:
+
+    Degatano, K.; Awdeh, A.; Dingman, W.; Grant, G.; Khajouei, F.; Kiernan, E.; Konwar,
+    K.; Mathews, K.; Palis, K.; Petrillo, N.; Van der Auwera, G.; Wang, C.; Way, J.;
+    Pipelines, W. WDL Analysis Research Pipelines: Cloud-Optimized Workflows for Biological
+    Data Processing and Reproducible Analysis. Preprints 2024, 2024012131. https://doi.org/10.20944/preprints202401.2131.v1
+
+    '
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/SlideTags
+  num_downloads: 149
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:17.037122'
+  url:
+  - https://zenodo.org/records/20399950
+  - https://doi.org/10.5281/zenodo.20399950
+- authors:
+  - broadinstitute
+  description: 'Processes Slide-seq bead data: aligns reads with STARsolo, computes
+    cell/gene/UMI metrics, and produces a sparse count matrix and h5ad output file'
+  license: cc-by-4.0
+  name: github.com/broadinstitute/warp/SlideSeq
+  num_downloads: 163
+  publication_date: '2026-05-26'
+  submission_date: '2026-05-26T17:29:17.464322'
+  url:
+  - https://zenodo.org/records/20399949
+  - https://doi.org/10.5281/zenodo.20399949
