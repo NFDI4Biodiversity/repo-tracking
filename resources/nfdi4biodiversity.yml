@@ -636,3 +636,820 @@ resources:
   url:
   - https://zenodo.org/records/20081599
   - https://doi.org/10.5281/zenodo.20081599
+- authors:
+  - Schaare, H. Lina
+  - "H\xF6rner, Tanja"
+  - Alberts, Teresa
+  - Backe, Christian
+  - Betancort Cabrera, Noemi
+  - Bohnebeck, Uta
+  - Brannath, Werner
+  - "B\xFCker, Sarah"
+  - Charulatha, Sree
+  - de Vogel, Susanne
+  - Drechsler, Rolf
+  - "D\xFCpont, Nils"
+  - Felden, Janine
+  - Franz, Simone
+  - Fritzsche, Franziska
+  - Frohne, Katharina
+  - Fuchs, Nele
+  - Gies, Philipp
+  - "Gl\xF6ckner, Frank Oliver"
+  - "H\xE4nzelmann, Sonja"
+  - Harfst, Stefan
+  - Hemmelskamp-Pfeiffer, Birte
+  - Hitz, Marc-Phillip
+  - Hollstein, Betina
+  - Immoor, Sebastian
+  - Junctorius, Lina
+  - Kloep, Stephan
+  - Koppe, Roland
+  - Kuhlmann, Lea
+  - Movahedifar, Maryam
+  - Mozygemba, Kati
+  - Mueller, Claudia Margrit
+  - Nolte, Annika
+  - "N\xF6lte, Manfred"
+  - Nozik, Alexandra
+  - "Op\xE4tz, Finn"
+  - Petersmann, Astrid
+  - Pigeot, Iris
+  - Riefler, Norbert
+  - Scharpenberg, Martin
+  - Schmitt, Tina
+  - Seemann, Wilken
+  - Spiegler, Andreas
+  - Steinmann, Lena
+  - Strodthoff, Nils
+  - Swirski, Sebastian
+  - Thiemann, Volker
+  - Uppenkamp, Stefan
+  - Vehlken, Sebastian
+  - Wilken, Marc
+  - Wulff, Antje
+  - "Carl von Ossietzky Universit\xE4t Oldenburg"
+  - Core Facility Biobank Structure
+  - "DATA Team, Alfred-Wegener-Institut Helmholtz-Zentrum f\xFCr Polar- und Meeresforschung"
+  - Hochschule Bremen
+  - "Gesellschaft f\xFCr Biologische Daten e.V."
+  - "G\xF6ttingen Academy of Sciences and Humanities in Lower Saxony"
+  - Landesbibliothek Oldenburg
+  - PANGAEA, Data Publisher for Earth & Environmental Science
+  - University of Bremen
+  - Bibliotheks- und Informationssystem
+  - "Koordinierungszentrum f\xFCr Klinische Studien (KKS Oldenburg)"
+  description: 'About
+
+    Research data are the foundation of responsible science, innovation, and informed
+    societal action. The Northwest region of Germany has established a strong research
+    data space, which is presented here.&nbsp;The presentation&rsquo;s goal is to
+    provide an accessible overview of regional research data initiatives and to facilitate
+    cross-location networking. Together, these data initiatives create reliable structures
+    for sustainable research data management, secure data access, and cross-institutional
+    collaboration in accordance with the FAIR principles.
+
+    The Northwest Data Space is continuously developed through a collaborative process
+    involving all participating initiatives. This project is coordinated by the lead
+    project &ldquo;Research Data Management and Data Science&rdquo; of the U Bremen
+    Research Alliance within the DataNord data competence center.
+
+    Explore the interactive Northwest Data Space
+
+    The Northwest Data Space is a two-part interactive graphical overview: one figure
+    shows the regional cooperation network of the Northwest data initiatives (pictured
+    in preview), the other figure offers a short description of each initiative and
+    links with further information. Explore the Northwest Data Space on the U Bremen
+    Research Alliance website or share it with others:
+
+
+
+    Northwest Data Space embedded on the U Bremen Research Alliance website
+
+
+    Northwest Data Space for sharing and embedding on your website
+
+    '
+  license: cc-by-sa-4.0
+  name: Meet the Northwest Data Space
+  num_downloads: 40
+  publication_date: '2026-03-13'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/18953220
+  - https://doi.org/10.5281/zenodo.18953220
+- authors:
+  - Fichtmueller, David
+  - "G\xFCntsch, Anton"
+  - Sauerland, Kristin
+  - "M\xF6ller, Lars"
+  - Luther, Katja
+  - Ernst, Marcus
+  description: 'A poster describing the work done in the Task Area 2: National and
+    international networking in the first phase of the NFDI4Biodiversity project with
+    an outlook on the second phase. It was presented at the 2025 Joint Plenary of
+    NFDI4Earth and NFDI4Biodiversity in Bremen.'
+  license: cc-by-4.0
+  name: 'TA2: Networking with NFDI4Biodiversity Outputs and Outlook'
+  num_downloads: 17
+  publication_date: '2025-09-23'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/18712651
+  - https://doi.org/10.5281/zenodo.18712651
+- authors:
+  - "M\xF6ller, Lars"
+  - Ernst, Marcus
+  - Fichtmueller, David
+  - Schindler, Uwe
+  - Pfaff, Claas-Thido
+  - Seifert, Stefan
+  - "F\xFCrstenau, Cornelia"
+  - Reimer, Lorenz Christian
+  - Witte, Julius F.
+  - Ebeling, Christian
+  description: A poster about the Bioschemas White Paper for the NFDI4Biodiversity
+    project. It was presented at the 2025 Joint Plenary of NFDI4Earth and NFDI4Biodiversity
+    in Bremen.
+  license: cc-by-4.0
+  name: Bioschemas for Biodiversity
+  num_downloads: 33
+  publication_date: '2025-09-23'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/18711701
+  - https://doi.org/10.5281/zenodo.18711701
+- authors:
+  - Ebert, Barbara
+  - Ewert, Frank
+  - "F\xF6rstner, Konrad U."
+  - "Gl\xF6ckner, Frank Oliver"
+  - McHardy, Alice Carolyn
+  - von Rummel, Philipp
+  - von Suchodoletz, Dirk
+  - Weidtkamp-Peters, Stefanie
+  - Ebeling, Mary-Ann
+  - Engel, Judith
+  - Hoffmann, Carsten
+  - Keller, Christin
+  - Lange, Matthias
+  - Magel, Maja
+  - Moore, Josh
+  - "M\xFChlhaus, Timo"
+  - Scholz, Uwe
+  - Specka, Xenia
+  - thor Straten, Mattis
+  description: 'The NFDI - German National Research Data Infrastructure - consortia
+    DataPLANT, NFDI4Microbiota, NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+    agree on a close cooperation to align their activities and offerings regarding
+    the management of biological data. The Memorandum of Understanding details the
+    foci of the consortia and their areas of cooperation, and forms the foundation
+    of the activities within the Biodata Interest Group.
+
+    The present document is an extended version of the MoU developed by DataPlant,
+    NFDI4Biodiversity and NFDI4Microbiota in 2024 (see F&ouml;rstner, K., Ebert, B.,
+    Gl&ouml;ckner, F.-O., von Suchodoletz, D., McHardy, A. C., &amp; M&uuml;hlhaus,
+    T. (2024). Memorandum of Understanding between NFDI4Biodiversity, NFDI4Microbiota
+    and DataPlant. Zenodo. https://doi.org/10.5281/zenodo.13880944).'
+  license: cc-by-4.0
+  name: Memorandum of Understanding between the NFDI consortia DataPLANT, NFDI4Microbiota,
+    NFDI4Biodiversity, FAIRagro, NFDI4Objects, and NFDI4BIOIMAGE
+  num_downloads: 249
+  publication_date: '2026-02-19'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/18694155
+  - https://doi.org/10.5281/zenodo.18694155
+- authors:
+  - Sauerland, Kristin
+  - Fichtmueller, David
+  - "G\xFCntsch, Anton"
+  description: NFDI4Biodiversity Milestone 2.1.4 report.
+  license: cc-by-4.0
+  name: Report on available cross-cutting services with NFDI4Biodiversity involvement
+  num_downloads: 13
+  publication_date: '2025-11-15'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17991208
+  - https://doi.org/10.5281/zenodo.17991208
+- authors:
+  - Singson, Lea Sophie
+  description: This presentation was held during the NFDI4Biodiversity Seasonal School
+    2025. It was a session of 90 minutes with interactive elements. Topics were the
+    Nagoya Protocol as well as data rights and obligations posed by law and licenses
+    when creating and using research data.
+  license: cc-by-4.0
+  name: '''Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity
+    Seasonal School 2025'
+  num_downloads: 55
+  publication_date: '2025-11-17'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17628099
+  - https://doi.org/10.5281/zenodo.17628099
+- authors:
+  - Placke, Manja
+  - "Hassenr\xFCck, Christiane"
+  - Feistel, Susanne
+  - "J\xFCrgensmann, Susanne"
+  description: 'Abstract:
+
+    The Leibniz Institute for Baltic Sea Research Warnem&uuml;nde (IOW) maintains
+    one of the longest continuous data series of marine observations, which began
+    in the 1950s. Over the decades, the integration of evolving technologies and methodologies
+    has played a crucial role in expanding the institute&rsquo;s research capabilities.
+    Since the turn of the millennium, the technological progress has accelerated exponentially,
+    creating new opportunities for modern marine research. At the same time, climate
+    change and other anthropogenic influences pose new challenges from which further
+    research tasks arise. Addressing these challenges requires advances across several
+    domains, including measurement technologies &amp; instrumentation, modeling, bioinformatics
+    and research data management.
+
+    The IOW is committed to evolving its data management infrastructure in line with
+    modern best practices, including the FAIR data principles and following community
+    standards for data and metadata. One key element of this approach is IOW&rsquo;s
+    new database framework "MetaTransfer". It is designed to connect metadata of the
+    often heterogeneous data outputs from the various marine scientific disciplines
+    by enriching the metadata with information about related datasets and the research
+    environment. Moreover, it aims to simplify the metadata collection process for
+    data creators. The poster presentation provides details on how this framework
+    might be achieved.'
+  license: cc-by-4.0
+  name: Advancing marine research through integrated metadata management at IOW
+  num_downloads: 78
+  publication_date: '2025-12-16'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17941146
+  - https://doi.org/10.5281/zenodo.17941146
+- authors:
+  - Zurowietz, Martin
+  - Stoye, Jens
+  - Nattkemper, Tim W.
+  license: cc-by-4.0
+  name: AI-assisted image and video annotation with BIIGLE
+  num_downloads: 44
+  publication_date: '2025-11-25'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17708536
+  - https://doi.org/10.5281/zenodo.17708536
+- authors:
+  - Schellenberger Costa, David
+  description: 'The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was initially created
+    for the NFDI Seasonal School 2024. The 2025 update features small adaptations
+    and improvements to the jupyter notebooks, reflecting changes in the GBIF API
+    and/or rgbif R package and comments from users. Additionally, the presentation
+    on the topic has been greatly expanded including a full walkthrough of the name
+    parsing and name resolution workbooks.
+
+    For those not wanting to use jupyter notebooks the html files provide the same
+    content as the ipynb files including results of computations, they are just not
+    interactive.'
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 1572
+  publication_date: '2025-10-14'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17350117
+  - https://doi.org/10.5281/zenodo.17350117
+- authors:
+  - Nozik, Alexandra
+  description: The slides accompany the practical session on "Geospatial data collection
+    with the Qfield app" as part of the 2025&nbsp;NFDI4Biodiversity &amp; HeFDI &amp;
+    iDiv Seasonal School on Data Management in Biodiversity and Environmental Science.
+    The session provided a topical input on Qfield as a geospatial data collection
+    tool and practical instructions for the practical example Qfield project.During
+    the workshop, the participants used Qfield to collect a traits dataset of 70 tree
+    points, which were synchronized directly into one QGIS project. The participants
+    learned how the project was set up in QGIS for the use in the Qfield app, with
+    a choice of data types, contraints, and default values. Further, the workshop
+    covered how collaborative data collection is enabled via QfieldCloud.
+  license: cc-by-4.0
+  name: Geospatial Data Collection with the Qfield app
+  num_downloads: 69
+  publication_date: '2025-11-16'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17623082
+  - https://doi.org/10.5281/zenodo.17623082
+- authors:
+  - Tschink, Daniel
+  - Kostadinov, Ivaylo
+  description: A slide deck used for an online traning on Research Data Management
+    for the Goethe Research Academy for Early Career Researchers GRADE.
+  license: cc-by-4.0
+  name: 'The Life of Research Data: How to Keep It Organized and Accessible'
+  num_downloads: 56
+  publication_date: '2025-11-07'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17553558
+  - https://doi.org/10.5281/zenodo.17553558
+- authors:
+  - Fischer, Marlen
+  - "R\xF6der, Juliane"
+  - Signer, Johannes
+  - Tschink, Daniel
+  - Weibulat, Tanja
+  - Brand, Ortrun
+  description: 'In NFDI4Biodiversity, we developed a self-paced online&nbsp;course
+    on research data management for both students and researchers specializing in
+    biodiversity and environmental sciences.&nbsp;This course is based on the online
+    course HeFDI Data OER: Forschungsdatenmanagement - eine Online-Einf&uuml;hrung
+    of the Hessian Research Data Infrastructures (HeFDI). Developed in collaboration
+    between several partners within NFDI4Biodiversity, this course offers essential
+    domain-specific knowledge in research data management.
+
+    We offer&nbsp;this course in different formats to facilitate accessibility and
+    re-usability:
+
+
+
+    LiaScript course (Markdown, available on GitHub): https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle
+
+
+
+    OER section of Marburg University Ilias (LiaScript import, SCORM1.2, certificate
+    for successful completion):&nbsp;https://ilias.uni-marburg.de/goto.php/crs/3219917
+
+
+
+    Document (text and figure, no questions): https://doi.org/10.5281/zenodo.10377867
+
+
+
+    Here, we additionally offer import files to use this course in your local Ilias
+    or Moodle. If you are using a different learning management system (LMS) or if
+    you want to adapt the course, you are free to clone the corresponding GitHub repository,
+    adapt the course, and export it in a format suitable to your needs.
+
+    Please note the following characteristics (different from GitHub sourced online
+    version):
+
+
+
+    SCORM1.2 format
+
+
+
+    mastery score 100 &ndash; learners need to achieve 100% correct answers in all
+    questions. You can change this value in the Ilias/Moodle course settings after
+    importing the course, or during the LiaScript export.
+
+
+
+    Unlimited trials to answer questions correctly, but no solution button
+
+
+
+    This course is subject to regular maintenance and updates. You can find the most
+    up-to-date version on GitHub:&nbsp;https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle
+
+    For inquiries or additional information, please feel free to reach out to us:
+    NFDI4Biodiversity Helpdesk.
+
+    Prerequisites - No previous knowledge is required for this course. The chapters
+    build on each other thematically but can also be worked through individually.
+    If information from other chapters is needed, they are linked.
+
+    Target audience - Graduate students, PhD students, and researchers in the field
+    of biology and environmental sciences, especially those working with biodiversity
+    data, who are looking for a first introduction to research data management.
+
+    Learning objectives - After completing this self-paced course, you will be able
+    to understand the content and purpose of research data management and apply it
+    in the field of biology. The detailed learning objectives are given at the beginning
+    of each chapter.
+
+    Content - If you prefer to read, you can access the content of this unit through
+    the text only. However, the embedded videos offer further access to the topic,
+    so those who work well with video explanations will find the content presented
+    here in a different way.
+
+    Duration - If you concentrate on reading all the texts, you can expect to spend
+    about 4-5 hours on the course. If you also watch the videos or follow the links,
+    you will need more time. And remember to take breaks.
+
+    Licensing &ndash; This course is licensed under Creative Commons Attribution-ShareAlike
+    4.0 International (CC BY-SA 4.0).&nbsp;Please note that third-party content remains
+    under its original licenses or copyright.'
+  license: cc-by-sa-4.0
+  name: NFDI4Biodiversity Self-Paced Online Course - Research Data Management for
+    Biodiversity Data
+  num_downloads: 21
+  publication_date: '2025-11-11'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17582795
+  - https://doi.org/10.5281/zenodo.17582795
+- authors:
+  - Jordan, Sabrina
+  description: 'This lecture was part of the NFDI4Biodiversity &amp; HeFDI &amp; iDiv
+    Seasonal School on Data Management in Biodiversity and Environmental Science.
+    It introduces fundamental principles of research data management (RDM) and data
+    literacy, highlighting best practices for organizing, storing, documenting, and
+    sharing data according to the FAIR principles. Participants were guided through
+    the research data life cycle and explored how to design data management strategies
+    that meet funder and institutional requirements while improving the reproducibility
+    and impact of their research.
+
+    The NFDI4Biodiversity &amp; HeFDI &amp; iDiv Seasonal School on Data Management
+    in Biodiversity and Environmental Science is a joint initiative by the NFDI4Biodiversity
+    consortium, the Hessian Research Data Infrastructure (HeFDI), and the German Centre
+    for Integrative Biodiversity Research (iDiv). The intensive five-day program combines
+    conceptual input with hands-on practice, equipping early-career researchers with
+    the skills to manage biodiversity and environmental data throughout its life cycle.
+
+    Contact: forschungsdaten@uni-kassel.de&nbsp;'
+  license: cc-by-4.0
+  name: Introduction to Research Data Management
+  num_downloads: 78
+  publication_date: '2025-11-07'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17549986
+  - https://doi.org/10.5281/zenodo.17549986
+- authors:
+  - Kostadinov, Ivaylo
+  - Tschink, Daniel
+  - "Linares G\xF3mez, Jimena"
+  description: 'This lecture was part of&nbsp;the NFDI4Biodiversity &amp; iDiv Seasonal
+    School on Data Management in Biodiversity and Environmental Science introduces
+    key principles of data management and data literacy, emphasizing best practices
+    for organizing, storing, and handling data according to FAIR principles. You will
+    explore various data types in biodiversity and environmental science and learn
+    how to align your research data management (RDM) strategies with funding requirements
+    and institutional policies.
+
+    The&nbsp;NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity
+    and Environmental Science&nbsp;was a collaboration between the&nbsp;German Centre
+    for Integrative Biodiversity Research (iDiv)&nbsp;and the&nbsp;NFDI4Biodiversity
+    consortium. This course offered cutting-edge skills and knowledge essential for
+    handling scientific data throughout its life cycle. The intensive five-day program
+    combined direct knowledge transfer with practical lessons to introduce participants
+    to fundamental and advanced tools in research data management (RDM), tailored
+    to enhance their future careers.
+
+    An updated version with a focus on Data Managemen Plans was presented at the third&nbsp;Seasonal
+    School on Data Management in Biodiversity and Environmental Science, organised
+    jointly by NFDI4Biodiversity, the Hessian Research Data Infrastructure HeFDI and
+    the German Centre for Integrative Biodiversity Research iDiv.'
+  license: cc-by-4.0
+  name: Data Management and Data Literacy
+  num_downloads: 353
+  publication_date: '2025-10-23'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17427595
+  - https://doi.org/10.5281/zenodo.17427595
+- authors:
+  - Melzer, Nina
+  - Jahnel, Ricarda Elisabeth
+  - Sarah, Fischer
+  - "Holetschek, J\xF6rg"
+  license: cc-by-4.0
+  name: How to install BioCASe on Windows
+  num_downloads: 88
+  publication_date: '2025-10-23'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/16893040
+  - https://doi.org/10.5281/zenodo.16893040
+- authors:
+  - "Scherer, C\xE9dric"
+  description: 'The slides, R script, and Jupyter notebook for the workshop lesson
+    "Data Analysis &amp; Visualisation According to FAIR Principles" as part of the
+    "NFDI4Biodiversity Seasonal School 2024" and the subsequent edition as part of
+    the follow-up course "NFDI4Biodiversity &amp; HeFDI &amp; iDiv Seasonal School
+    2025".&nbsp;
+
+    The lesson covers the principles of the data science workflow, using R and the
+    tidyverse, with a focus on data visualization principles and the grammar of graphics
+    with the ggplot2 package.'
+  license: cc-by-4.0
+  name: Data Analysis & Visualisation According to FAIR Principles
+  num_downloads: 322
+  publication_date: '2025-10-09'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17303036
+  - https://doi.org/10.5281/zenodo.17303036
+- authors:
+  - Hemmelskamp-Pfeiffer, Birte
+  - George, Helen Clara
+  - "Op\xE4tz, Finn"
+  description: 'This paper presents a case study on institutional research data tracking
+    accomplished by the Research Data Service at the Leibniz Centre for Tropical Marine
+    Research (ZMT). It first discusses the strategic relevance of systematic monitoring
+    and introduces a working definition of institutional research data. By demonstrating
+    how metadata from published datasets can be integrated into the&nbsp;ZMT DataPortal,
+    the study highlights how visibility, discoverability, and institutional oversight
+    of research outputs can be strengthened. Practical approaches for harvesting metadata
+    from major repositories are outlined, with a focus on scalable and sustainable
+    solutions. In this context, the paper examines the use of Application Programming
+    Interfaces (APIs), web-based search interfaces, Python libraries, and open-source
+    tools such as Zotero.
+
+    --
+
+    This work was supported by the German Research Foundation DFG under the grant
+    agreement number 442032008 (NFDI4Biodiversity). The project is part of NFDI, the
+    National Research Data Infrastructure Programme in Germany.
+
+    The ZMT use case #27 in the NFDI4Biodiversity focuses on institutional research
+    data management. The aim is to identify challenges in dealing with research data,
+    develop corresponding concepts and guidelines and make these available to the
+    community.'
+  license: cc-by-4.0
+  name: 'Towards Institutional Data Tracking: A Case Study from the Leibniz Centre
+    for Tropical Marine Research (ZMT)'
+  num_downloads: 92
+  publication_date: '2025-09-29'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17223681
+  - https://doi.org/10.5281/zenodo.17223681
+- authors:
+  - Hemmelskamp-Pfeiffer, Birte
+  - Gies, Philipp
+  - Nozik, Alexandra
+  - "Op\xE4tz, Finn"
+  - Swirski, Sebastian
+  description: 'High-quality research data management (RDM) is becoming increasingly
+    important at research institutions. This article discusses the challenges encountered
+    by the Research Data Service (RDS) at the Leibniz Centre for Tropical Marine Research
+    (ZMT) since its establishment and presents the solutions developed in response.
+    Building on a demand-oriented approach and the development of research infrastructure
+    over time, the article outlines ten key challenges and corresponding solutions
+    for institutional data management at ZMT &ndash; ranging from collaboration and
+    networking to storage and beyond.
+
+    --
+
+    This work was supported by the German Research Foundation DFG under the grant
+    agreementnumber 442032008 (NFDI4Biodiversity). The project is part of NFDI, the
+    National ResearchData Infrastructure Programme in Germany.The ZMT use case #27
+    in the NFDI4Biodiversity focuses on institutional research datamanagement. The
+    aim is to identify challenges in dealing with research data, developcorresponding
+    concepts and guidelines and make these available to the community.'
+  license: cc-by-4.0
+  name: "Challenges and Solutions \u2013 A Case Report of Institutional Data Management\
+    \ at the Leibniz Centre for Tropical Marine Research (ZMT)"
+  num_downloads: 76
+  publication_date: '2025-09-22'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17174275
+  - https://doi.org/10.5281/zenodo.17174275
+- authors:
+  - Kostadinov, Ivaylo
+  description: This poster summarizes the work in building the Research Data Commons
+    as part of the NFDI4Biodiverstiy consortium in the first funding phase and the
+    outlook for the second funding phase.
+  license: cc-by-4.0
+  name: 'Research Data Commons: technical and social evolution of a federated cloud'
+  num_downloads: 66
+  publication_date: '2025-09-23'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17141044
+  - https://doi.org/10.5281/zenodo.17141044
+- authors:
+  - Hartman Scholz, Amber
+  description: 'This publication contains the slides from the first part of the workshop
+    series &ldquo;Nagoya Beyond Borders: Genetic Resources &amp; Benefit Sharing&rdquo;
+    (Legal Workshop Episode II), held on&nbsp;7th May 2025. The event was organized
+    as part of the Legal Training Series &ldquo;Don&rsquo;t panic! Survival guide
+    for Law and Ethics in Research&rdquo;, which offers practical guidance for researchers
+    on navigating legal and ethical questions in scientific practice.
+
+    The workshop series is jointly organized in cooperation between NFDI4Biodiversity,
+    FAIRagro, and NFDI4Earth.
+
+    This session was led by Amber Hartman Scholz&nbsp;and Melania Mu&ntilde;oz-Garc&iacute;a.
+
+    The slides focus particularly on Digital Sequence Information (DSI) and its role
+    in the discussions on benefit-sharing under the Convention on Biological Diversity
+    (CBD) and the Nagoya Protocol. They provide an introduction to key concepts, outline
+    ongoing international policy debates, and highlight considerations for researchers
+    and stakeholders working with genetic resources and DSI in a global research context.'
+  license: cc-by-4.0
+  name: What should I know about Digital Sequence Information (DSI) and sharing benefits
+    under the CBD?
+  num_downloads: 32
+  publication_date: '2025-08-29'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/16992978
+  - https://doi.org/10.5281/zenodo.16992978
+- authors:
+  - "Mu\xF1oz Garc\xEDa, Melania"
+  description: 'This publication contains the slides from the second part of the workshop
+    Nagoya Beyond Borders: Genetic Resources &amp; Benefit Sharing&nbsp;(Legal Workshop
+    Episode II), held on 7th May 2025. The event was organized as part of the Legal
+    Training Series &ldquo;Don&rsquo;t panic! Survival guide for Law and Ethics in
+    Research&rdquo;, which offers practical guidance for researchers on navigating
+    legal and ethical questions in scientific practice.
+
+    The workshop series is jointly organized in cooperation between NFDI4Biodiversity,
+    FAIRagro, and NFDI4Earth.
+
+    This session was led by Amber Hartman Scholz and Melania Mu&ntilde;oz-Garc&iacute;a.
+
+    The slides from this second part focus on the Nagoya Protocol in practice, exploring
+    how its provisions are implemented and applied in real-world research contexts.
+    They address practical challenges, compliance requirements, and benefit-sharing
+    considerations that researchers and institutions encounter when working with genetic
+    resources across borders.'
+  license: cc-by-4.0
+  name: The Nagoya Protocol in practice
+  num_downloads: 93
+  publication_date: '2025-08-29'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/16993168
+  - https://doi.org/10.5281/zenodo.16993168
+- authors:
+  - "R\xF6der, Juliane"
+  - Tschink, Daniel
+  - Brand, Ortrun
+  description: 'In NFDI4Biodiversity, we have developed a self-paced online course
+    on Research Data Management (RDM) for biodiversity and environmental research.
+    The course is available as an Open Educational Resource (OER) in English and is
+    openly available as a LiaScript course, an Ilias course, and in a text version.
+    Our target audience are researchers, PhD students as well as Bachelor and Master
+    students, i.e. anyone interested in basics of RDM. Depending on prior knowledge
+    and interest, we offer many options for further reading.
+
+    The course was developed in a cooperative manner and is based on a generic RDM
+    course developed by the Hessian federal state initiative for research data infrastructures
+    (HeFDI). We focused on discipline-specific aspects of RDM, as the generic topics
+    are already covered by the HeFDI course.
+
+    Our goal was not only to convey good RDM content, but also to make the course,
+    i.e. the training material, itself as FAIR as possible: the implementation as
+    a LiaScript course facilitates the maintenance and further development of the
+    course, the cooperation within our consortium with over 50 partner institutions,
+    the collection and implementation of feedback from our consortium and beyond,
+    as well as reuse. The LiaScript version can be exported as a SCORM-file for a
+    large number of Learning Management Systems (LMS) such as Ilias or Moodle (e.g.
+    Open Moodle University of Kassel).
+
+    The course is designed to give an overview of RDM for biodiversity and environmental
+    science, as well as deep dives into selected topics. Learners that are interested
+    in even more details on a specific topic are guided to useful resources outside
+    the course. The chapters are structured after the Data Life Cycle (DLC) and can
+    be used individually, too. This allows for the straightforward integration of
+    additional chapters, e.g. on Open Science (available soon).
+
+    We are looking forward to share and improve this course, and to develop new courses
+    with interested partners. Possible topics could be a RDM course adapted for Citizen
+    Science projects, AI &amp; ecology, a course on legal aspects in biodiversity
+    research, and many more. Please contact us if you are interested in a collaboration!
+
+    This poster was presented at the 2nd Conference on Research Data Infrastructure
+    (CoRDI) 2025 in Aachen, and at the 54th Annual Meeting of the Ecological Society
+    of Germany, Austria, and Switzerland (Gf&Ouml;) 2025 in W&uuml;rzburg. The abstract
+    was published as part of the CoRDI 2025 conference proceedings here: https://doi.org/10.5281/zenodo.16735304.'
+  license: cc-by-4.0
+  name: 'Effective Research Data Management for Biodiversity and Environmental Research:
+    A Self-Paced Online Course by NFDI4Biodiversity'
+  num_downloads: 133
+  publication_date: '2025-09-01'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/17020251
+  - https://doi.org/10.5281/zenodo.17020251
+- authors:
+  - Rieken, Marion
+  - Hemmelskamp-Pfeiffer, Birte
+  - Monien, Donata
+  description: 'This work was supported by the German Research Foundation DFG under
+    the grant agreement number 442032008 (NFDI4Biodiversity). The project is part
+    of NFDI, the National Research Data Infrastructure Programme in Germany.
+
+    This paper is related to the use case #27 of ZMT in the NFDI4Biodiversity (https://nfdi4biodiversity.org/en/what-we-do/use-case-zmt/).
+
+    It focuses on:
+
+
+    Environmental data;
+
+    Long-term traceability of monitoring data;
+
+    Structured, semi-automatic data archiving to ensure data is uniquely identifiable
+    for content interpretation and long-term qualita data assurance.
+
+    '
+  license: cc-by-4.0
+  name: Optimizing Laboratory Data Processing at the ZMT and Guidelines for the General
+    Community
+  num_downloads: 75
+  publication_date: '2025-08-25'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/16940033
+  - https://doi.org/10.5281/zenodo.16940033
+- authors:
+  - Weibulat, Tanja Melanie
+  - Triebel, Dagmar
+  description: This lecture was part of the agenda of the 17th meeting of the participant
+    nodes from GBIF Europe and Central Asia (GBIF ECA) and held by German node staff
+    members in Waterford, Ireland (20 May 2025 - 23 May 2025). It describes the situation
+    of the Global Information Facility (GBIF) in Germany in relation to a distributed
+    national network of established data centers at recognized life and nature science
+    organisations. The federated GBIF-D Node system in Germany works technically and
+    organizationally closely together with the German National Research Data Infrastructure
+    (NFDI), GFBio e.V. and NFDI4Biodiversity consortium (supported by the German Research
+    Foundation DFG under the grant agreement number 442032008). This cooperation started
+    in 2013 and facilitates activities in data hosting, data mobilisation and preservation.
+    It is strengthening the efforts of the node to train data management and build
+    informatics capacity, e.g., at the International Training Centre &nbsp;for Environmental
+    Research, ITCER Kenya.
+  license: cc-by-4.0
+  name: GBIF Germany Activities 2025
+  num_downloads: 98
+  publication_date: '2025-07-24'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/16412325
+  - https://doi.org/10.5281/zenodo.16412325
+- authors:
+  - Singson, Lea Sophie
+  - "Bo\xDFe, Sophie"
+  description: 'Im Rahmen der Legal Training Series &bdquo;Don&rsquo;t panic! Survival
+    guide for Law and Ethics in Research&rdquo;, organisiert von FAIRagro, NFDI4Biodiversity
+    und NFDI4Earth, wurde vom 08. &ndash; 10.04.25 die erste Episode, Datenschutz
+    auf dem Silbertablett, von Lea Singson und Sophie Bo&szlig;e durchgef&uuml;hrt:
+
+    &bdquo;Du sammelst Proben auf landwirtschaftlich genutzten Fl&auml;chen, du nutzt
+    Drohnenaufnahmen, auf denen auch Menschen zu sehen sind, du nimmst im Park Vogelstimmen
+    auf und erwischt dabei ein paar Gespr&auml;che&nbsp; oder du m&ouml;chtest Interviews
+    mit Landwirt*innen oder Anwohnenden f&uuml;hren. Dabei ist eins klar: Wo Menschen
+    sind, ist die Datenschutzgrundverordnung (DSGVO) nicht weit!
+
+    Doch was will die DSGVO eigentlich und was hat das mit Dir zu tun? Musst Du datenschutzrechtliche
+    Aspekte &uuml;berhaupt beachten? In dieser Einheit arbeiten wir gemeinsam durch
+    die praktisch relevanten Aspekte des Themas Datenschutz!&nbsp; Wir kl&auml;ren
+    was die DSGVO ist, f&uuml;r welche Art der Daten sie anwendbar ist und was in
+    diesem Fall getan werden muss. Dabei unterst&uuml;tzen wir dich unter anderem
+    dabei zu lernen, informierte Einwilligungen, bzw. Datenschutzerkl&auml;rungen
+    zu verfassen, die auch verst&auml;ndlich sind. Wir zeigen, wie du datenschutzrechtlich
+    relevante Datenverarbeitungen beurteilen und begr&uuml;nden kannst und diskutieren,
+    wie Forschungsdaten gerettet werden k&ouml;nnen, wenn die eingeholte Einwilligung
+    widerrufen wird.&ldquo;
+
+    An dieser Stelle werden sowohl die Aufzeichnungen der nicht interaktiven Teile
+    der Online-Workshops als auch alle verwendeten Trainingsmaterialien zur Verf&uuml;gung
+    gestellt. Zielgruppe dieser Ver&ouml;ffentlichung sind sowohl Personen, die eigenst&auml;ndig
+    Inhalte zum Thema Datenschutz erlernen m&ouml;chten, als auch Trainer:innen, die
+    Konzept und Materialien der Workshops vollst&auml;ndig oder teilweise nachnutzen
+    m&ouml;chten. Das Lehrdrehbuch hilft bei der Konzeption von Veranstaltung und
+    gibt einen &Uuml;berblick &uuml;ber Themen, Lernziele und Zeitplanung des Workshops.
+    Dar&uuml;ber hinaus sind Pr&auml;sentationsfolien inklusive Vortragsnotizen, Arbeitsbl&auml;tter
+    und zentrale Linksdokumente, die mit den Teilnehmenden in Online-Workshops geteilt
+    werden k&ouml;nnen verf&uuml;gbar, die zur Nachnutzung angepasst werden k&ouml;nnen
+    und sollten.
+
+    Alle Materialien sind f&uuml;r optimale Nachnutzbarkeit in verschiedenen Formaten
+    verf&uuml;gbar.
+
+    &nbsp;
+
+    Eine &Uuml;bersicht und Navigationshilfe der vorhandenen Ressourcen ist in der
+    README Datei zu finden.
+
+    &nbsp;
+
+    Zielgruppe der Publikation: Lehrende und Lernende
+
+    Zielgruppe des Workshops: Forschend
+
+    Kompetenz Level: Grundstufe, Mittelstufe
+
+    Dom&auml;ne: Agrarwissenschaften, Erdsystemwissenschaften, Umweltwissenschaften,
+    Biodiversit&auml;tsforschung
+
+    Dauer: 3 Workshops &aacute; 2h
+
+    Lernressourcen-Typ: Video, Pr&auml;sentationsfolien, &Uuml;bungsmaterialien, Lehrdrehbuch
+
+    Formate: pdf, pptx, odp, xlsx, ods, docx, odt, mp4
+
+    &nbsp;
+
+    Wir w&uuml;rden uns freuen, wenn Sie uns Ihr Feedback zu unserem Schulungsmaterial
+    geben. Bitte senden Sie eine E-Mail an training@fairagro.net. Wir danken Ihnen!'
+  license: cc-by-4.0
+  name: Datenschutz auf dem Silbertablett - Trainingsmaterial
+  num_downloads: 1773
+  publication_date: '2025-06-02'
+  submission_date: '2026-06-01T08:35:24.830434'
+  url:
+  - https://zenodo.org/records/15573465
+  - https://doi.org/10.4126/FRL01-006402743
