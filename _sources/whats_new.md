@@ -1,185 +1,252 @@
 # Recently added (10)
-## Code for the CP26 article: "An Automata-Based Constraint Programming Framework for Optimal Classical Planning"
+## A Dataset of Württemberg's 19th-century fauna
 
-Van Meerbeeck, Damien, Lequen, Arnaud, Pesant, Gilles, Seipp, Jendrik
+Teich, Maximilian C.
 
-Published 2026-05-08
+Published 2026-01-10
 
 Licensed cc-by-4.0
 
 
 
-Code for the article "An Automata-Based Constraint Programming Framework for Optimal Classical Planning", published in the 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026).
+The southern German kingdom of W&uuml;rttemberg was administratively divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886, the royal statistical office published one regional study on each of the districts, including text descriptions of the local fauna.
+The CSV data represent all species documented in these sources, with the follwing information for each mention:
 
-[https://zenodo.org/records/20081551](https://zenodo.org/records/20081551)
 
-[https://doi.org/10.5281/zenodo.20081551](https://doi.org/10.5281/zenodo.20081551)
+district: Name of the district in which the species was mentioned.
+
+
+year: Year of publication of the source text.
+
+
+original_text: Excerpt from the text in which the species is mentioned.
+
+
+german_name: German name of the animal as given in the text. May be empty if a scientific name is provided.
+
+
+scientific_name: Scientific name of the animal as given in the text. May be empty if a German name is provided.
+
+
+reported_occurrence: Interpretation of whether the source text describes the species as occurring in the district. False indicates the species is explicitly reported as absent; True is assumed when False is not set. This column reflects the content of the historical text and does not imply biological presence of a species.
+
+
+normalized_name: Scientific name of the species as used by GBIF.
+
+
+GBIF_Id: Identifier assigned to the species by GBIF.
+
+
+&nbsp;
+
+[https://zenodo.org/records/18200860](https://zenodo.org/records/18200860)
+
+[https://doi.org/10.5281/zenodo.18200860](https://doi.org/10.5281/zenodo.18200860)
 
 
 ---
 
-## Conclusions on the international workshop
+## Data Policies: A Sustainability Checklist
 
-Tecnológico Nacional de México
+Parolini, Giuditta
 
-Published 2026-05-08
+Published 2025-11-21
 
 Licensed cc-by-4.0
 
 
 
-Main conclusions of the international workshop carried out on Energytran Project.
+Poster presented at the conference NFDI4Biodiversity meets NFDI4Earth &ndash; Joint Plenary 2025.
 
-[https://zenodo.org/records/20081657](https://zenodo.org/records/20081657)
+[https://zenodo.org/records/17674043](https://zenodo.org/records/17674043)
 
-[https://doi.org/10.5281/zenodo.20081657](https://doi.org/10.5281/zenodo.20081657)
+[https://doi.org/10.5281/zenodo.17674043](https://doi.org/10.5281/zenodo.17674043)
 
 
 ---
 
-## Deliberation Knowledge Graph and EU Consultation-Parliament Alignment Resource
+## Extended data for F1000 publication "Advancing FAIR Biodiversity Data: Bioschemas Implementation in NFDI4Biodiversity"
 
-Vagnoni, Simone, Rodriguez-Doncel, Victor, Palmirani, Monica
+Ernst, Marcus, Fichtmueller, David
 
-Published 2026-05-08
+Published 2025-10-02
 
 Licensed cc-by-4.0
 
 
 
-Archival package for the Deliberation Knowledge Graph (DKG) and the ISWC 2026 Resource Track EU consultation-parliament alignment extension. The deposit contains a compact reproducibility package for the paper and a clean complete DKG snapshot with RDF dumps, ontology files, example SPARQL queries, checksums, source code, pilot datasets, analysis outputs, figures, scripts, and manuscript snapshots supporting the paper "Auditing Deliberative Alignment in EU Lawmaking: Representing Public Participation as a Knowledge Graph".
+Bioschemas profiles for data types establish comprehensive guidelines that categorize properties into three distinct levels of implementation requirements: Compulsory elements that must contain information, recommended properties that should ideally be included, and optional attributes that may be added based on specific use cases or data availability.
+Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside their assigned values within the current mapping version or their equivalent ABCD 2.06 counterparts. These ABCD 2.06 elements are represented using XPath notation. Notably, the comprehensive mapping demonstrates that all mandatory Bioschemas elements can be successfully addressed through direct mappings from the ABCD 2.06 standard.
+The second table shows recommended properties that should ideally contain information about a Dataset but are not strictly required, particularly in situations where such information may be unavailable or inappropriate. The mapping analysis reveals that the vast majority of recommended Bioschemas elements can be accommodated, with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn) remaining uncovered by the current mapping approach.
+The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas properties, detailing their sub-elements such as Text or URI in the second column. The accompanying notes column provides detailed explanations regarding the necessity and relevance of these mappings within the context of dataset search use cases. It was found that only two elements have a potential benefit that might be considered relevant for dataset search applications, though this benefit remains limited and somewhat ambiguous.
 
-[https://zenodo.org/records/20081208](https://zenodo.org/records/20081208)
+[https://zenodo.org/records/17253705](https://zenodo.org/records/17253705)
 
-[https://doi.org/10.5281/zenodo.20081208](https://doi.org/10.5281/zenodo.20081208)
+[https://doi.org/10.5281/zenodo.17253705](https://doi.org/10.5281/zenodo.17253705)
 
 
 ---
 
-## FM_PA2_Part2_all_artifact
+## Interactive species habitat analysis
 
-HUANG, SHAO CHI
+Seeger, Bernhard, Brandenstein, Dominik, Dümpelmann, Henri
 
-Published 2026-05-08
+Published 2024-04-30
 
 Licensed cc-by-4.0
 
 
 
-[https://zenodo.org/records/20081636](https://zenodo.org/records/20081636)
 
-[https://doi.org/10.5281/zenodo.20081636](https://doi.org/10.5281/zenodo.20081636)
+
+
+
+VAT is a web-based GIS application backed by Geo Engine that enables researchers to visualize, analyze, and transform geospatial vector and raster data. The application allows for the creation of complex workflows with ease. An example use-case, 'Canis Lupus meets Felis silvestris,' demonstrates the ability to quickly and easily create an interactive habitat analysis based on the Ökosystematlas in just a few steps.
+
+
+
+
+
+[https://zenodo.org/records/11094085](https://zenodo.org/records/11094085)
+
+[https://doi.org/10.5281/zenodo.11094085](https://doi.org/10.5281/zenodo.11094085)
 
 
 ---
 
-## INKLYUZIV TA'LIM JARAYONIDA BOLALARNI IJTIMOIY HAYOTGA TAYYORLASHNI TAKOMILASHTIRISH
+## Legal aspects in research data management: Data Licensing and Copyright
 
-Shavkatova, Gulidabonu
+Schindler, Uwe
 
-Published 2026-05-08
+Published 2024-12-03
 
 Licensed cc-by-4.0
 
 
 
-Ushbu maqolada inklyuziv ta&rsquo;lim sharoitida alohida ta&rsquo;lim ehtiyojlari bo&lsquo;lgan bolalarni ijtimoiy hayotga moslashtirish va ularning ijtimoiy ko&lsquo;nikmalarini rivojlantirish masalalari tahlil qilinadi. Tadqiqot davomida bolalarni jamiyatga integratsiya qilishning pedagogik va psixologik usullari o&lsquo;rganilib, ijtimoiy hayotga tayyorlash jarayonini takomillashtirish bo&lsquo;yicha amaliy takliflar ishlab chiqilgan.
+Open Source Software licenses have a long history going back to the early 80s with the GNU Manifesto by Richard Stallman. In this talk, Uwe Schindler will give a short history of Open Source Software licenses and how they influenced licenses for sharing and publishing data. He will then present an overview about suitable licenses from the Creative Commons (CC) stack of licenses, while mentioning some of the licensing / copyright issues that may affect users and publishers in some legislatives. This talk will summarize the important aspects of copyright law with regards to &ldquo;scientific data&rdquo; and &ldquo;threshold of originality&rdquo;, and will explain how licensing works for newcomers of FAIR data publishing (but not as legal advice).
 
-[https://zenodo.org/records/20081655](https://zenodo.org/records/20081655)
+[https://zenodo.org/records/14268397](https://zenodo.org/records/14268397)
 
-[https://doi.org/10.5281/zenodo.20081655](https://doi.org/10.5281/zenodo.20081655)
+[https://doi.org/10.5281/zenodo.14268397](https://doi.org/10.5281/zenodo.14268397)
 
 
 ---
 
-## Le concept unifié d'espèce et les Culicidae
+## Mapping to (Bio)schema(s).org from ABCD2.06 for Dataset Search
 
-Moiroux, Nicolas
+Ernst, Marcus, Fichtmueller, David
 
-Published 2023-12
+Published 2025-09-01
 
 Licensed cc-by-4.0
 
 
 
-Pr&eacute;sentation &agrave; l'Ecole d&rsquo;&eacute;t&eacute; Jacques Hamon, Dakar, d&eacute;c. 2023
+This table systematically documents how elements of the ABCD 2.06 vocabulary for biodiversity datasets are translated into Bioschemas (and schema.org) properties and types to support NFDI4Biodiversity's aim of FAIRifying biodiversity data and beyond.&nbsp;
+Structure
+Each row corresponds to one ABCD element - organized by functional "Element Group" - and shows:
 
-[https://zenodo.org/records/20081586](https://zenodo.org/records/20081586)
+ABCD 2.06 Element: XML path for that element in the ABCD schema
+Element URI: Uniform Resource Identifier for that ABCD element
+Bioschemas/schema.org Property: equivalent schema.org or Bioschemas property
+Bioschemas/schema.org (Data)Types: expected types for that property (e.g., Text, URL, Person, BioSample, Taxon, GeoCoordinates)
+Description: concise explanation of the element's meaning
+Mapping Notes: implementation guidance
 
-[https://doi.org/10.5281/zenodo.20081586](https://doi.org/10.5281/zenodo.20081586)
+Purpose
+In essence, the mapping table translates ABCD 2.06 into schema.org/Bioschemas markup to enhance dataset discoverability. For this, it maps ABCD:Dataset-level information to Bioschemas:Dataset properties while simultaneously aggregating and summarizing ABCD:Unit-level specimen data in a reasonable way. This structured metadata approach enables search platforms - including NFDI4Biodiversity's consortium-wide discovery infrastructure and Google Dataset Search - to effectively index, retrieve, and present biodiversity datasets to researchers and practitioners seeking relevant data for their work.
+
+[https://zenodo.org/records/17019239](https://zenodo.org/records/17019239)
+
+[https://doi.org/10.5281/zenodo.17019239](https://doi.org/10.5281/zenodo.17019239)
 
 
 ---
 
-## Promoting open and reproducible workflows for bioimage analysis
+## NFDI4Biodiversity - Proposal for the second funding phase of the National Research Data Infrastructure (NFDI)
 
-Barry, David
+Glöckner, Frank Oliver, Bonn, Aletta, Brand, Ortrun, Ebert, Barbara, Gemeinholzer, Birgit, Goesmann, Alexander, Güntsch, Anton, König-Ries, Birgitta, Kostadinov, Ivaylo, Overmann, Jörg, Scholz, Uwe, Seeger, Bernhard, Seifert, Stefan, Stoye, Jens, Yahyapour, Ramin
 
-Published 2026-05-08
+Published 2026-03-03
 
 Licensed cc-by-4.0
 
 
 
-Microscopy has been a cornerstone of biological research for centuries. However, while technological advancements have made microscopy increasingly quantitative, the analytical approaches used by many researchers still often lack reproducibility.
-In tandem with these technological advances, the role of the &ldquo;bioimage analyst&rdquo; has emerged. Often associated with microscopy core facilities, these experts possess the unique combination of skills and knowledge to optimise computational analyses of microscopy images. At the Francis Crick Institute, our team endeavours to do this primarily via training and method/workflow development, adhering to FAIR principles wherever possible.
-However, the barriers to fully implementing FAIR workflows in bioimaging remain significant. Many bio researchers lack computational skills and require extensive training and support to implement reproducible pipelines to analyse their own data. The data itself can be challenging, even for seasoned analysts, as microscopy file formats are many and varied, despite much progress on standardisation from groups such as the Open Microscopy Environment. Furthermore, modern microscopy systems allow the routine acquisition of large, complex, multi-dimensional datasets, requiring substantial computational resources to analyse, which many researchers do not have access to. These are not Crick-specific challenges - they are systemic across the life sciences and represent an area where programmes like BioFAIR could have a transformative impact.
-Here we present an overview of our efforts to tackle these challenges. These include the development of open-source analysis workflows, training programmes aimed at building computational literacy among bench scientists, and community-building initiatives to connect knowledge silos distributed around the UK and beyond.
+Human induced global change in combination with loss of biodiversity are the main threats mankind is facing these days. To determine management options and devise conservation responses, research on the status, trends and drivers of biodiversity is key. To analyse the state of biodiversity and its drivers properly comprehensive data across time, space, taxa and ecosystems is urgently needed. NFDI4Biodiversity&rsquo;s aim is to provide domain stakeholders with the know-how, tools and services they need in order to share, find and access data following the FAIR data principles.
+In the first funding phase, NFDI4Biodiversity has become 'the' relevant hub for biodiversity research data and tools by cultivating collaborations between several data- and method-oriented communities in Germany and beyond. It has successfully raised awareness for data management in the community and fostered an appreciation of existing tools and solutions among stakeholders, as the growing number of use cases shows. The consortium has significantly grown its data and service provider network, bringing together previously unconnected initiatives within and outside the traditional academic sphere. Stakeholders show a high interest in collaborating, as indicated by more than two dozen requests to collaborate in third-party projects. The consortium is a prominent figure in the NFDI ecosystem, serving as a role model and driving joint infrastructure developments towards oneNFDI.
+In the second funding phase, we aim for scalability by consolidation and a broader dissemination of good practices. This will be archived through our nine key objectives: 1. Stakeholder engagement: To enable biodiversity subcommunities to advance their research data management practices in a self-organised manner. 2. Training and education: To provide a scalable, needs-based training programme for the biodiversity community, in high synergy with related NFDI consortia and RDM initiatives. 3. User support: To offer a central point of contact and individual user support, backed by a strong Helpdesk and expert network across consortia and RDM initiatives. 4. International partnerships: To foster robust partnerships with key initiatives and services in the international community. 5. Data Center network: To enhance their capabilities of serving the community including long-term data archiving. 6. Portfolio management: To establish and maintain a community service portfolio and catalogue with shared responsibilities. 7. Data and service integration: To implement harmonised, community-driven workflows and services. 8. Research Data Commons platform: To provide and maintain core functions and self-service capabilities for data and service providers in the shared cloud infrastructure and 9. Integration with NFDI and sustainability: To align activities for the biodiversity community with the greater NFDI and large domain stakeholders over time. These objectives are implemented by the NFDI4Biodiversity work programme and its five task areas.
+--
+Added as an addendum is the&nbsp;Adapted Work Programme, which was adopted by the NFDI4Biodiversity Steering Committee in February 2026 after the approved funding was approximately 30 percent less than the amount originally requested.
 
-[https://zenodo.org/records/20081639](https://zenodo.org/records/20081639)
+[https://zenodo.org/records/18846091](https://zenodo.org/records/18846091)
 
-[https://doi.org/10.5281/zenodo.20081639](https://doi.org/10.5281/zenodo.20081639)
+[https://doi.org/10.5281/zenodo.18846091](https://doi.org/10.5281/zenodo.18846091)
 
 
 ---
 
-## QARAQALPAQ TILI SÓZ JASALISI MÁSELELERINIŃ RAWAJLANIY BASQISHLARI HAQQINDA
+## Sustainability in Biodiversity Science
 
-Oteniyazova X.E.
+Parolini, Giuditta, Petersen, Mareike
 
-Published 2026-03-15
+Published 2024-07-10
 
 Licensed cc-by-4.0
 
 
 
-[https://zenodo.org/records/20081599](https://zenodo.org/records/20081599)
+Poster presented at NFDI4Biodiversity All Hands Conference (2024).
 
-[https://doi.org/10.5281/zenodo.20081599](https://doi.org/10.5281/zenodo.20081599)
+[https://zenodo.org/records/12705118](https://zenodo.org/records/12705118)
+
+[https://doi.org/10.5281/zenodo.12705118](https://doi.org/10.5281/zenodo.12705118)
 
 
 ---
 
-## VOICE BASED COMPLAINT REGISTRATION SYSTEM
+## Unlocking BioZeit's Data Treasures through FAIR
 
-Narra Anjali, Sandela Purnananda, Rachuti Rithvika, Guide: Mrs. J. Jyotsna
+Hoffmann, Jörg
 
-Published 2026-05-08
+Published 2025-09-21
 
 Licensed cc-by-4.0
 
 
 
-[https://zenodo.org/records/20081630](https://zenodo.org/records/20081630)
+We use the user case BIOZEIT to ensure the long-term availability and usability of biodiversity data&mdash;on plants, insects, and birds&mdash;to support research and environmental management.
+The already finished BioZeit project provides data of a 30-year long-term study (1991&ndash;1993, 2018&ndash;2021) with datasets on avifauna, segetal flora, and butterflies. It presents valuable insights into agricultural practices and biodiversity in arable landscapes.
+We developed a FAIR-compliant workflow for BioZeit&rsquo;s long-term data, managed in BEXIS2 and prepared for submission to PANGAEA to enable integration and reuse.
 
-[https://doi.org/10.5281/zenodo.20081630](https://doi.org/10.5281/zenodo.20081630)
+[https://zenodo.org/records/17672444](https://zenodo.org/records/17672444)
+
+[https://doi.org/10.5281/zenodo.17672444](https://doi.org/10.5281/zenodo.17672444)
 
 
 ---
 
-## ҚАРАҚАЛПАҚ ПОЭЗИЯСЫ ЖАНРЛАРЫНЫҢ РАЎАЖЛАНЫЎ ТЕНДЕНЦИЯЛАРЫ: 2002–2012-ЖЫЛЛАР
+## Yellow Dice Snakes at Vrana Lake in Croatia
 
-Тлеуниязова Г.Б.
+Wilms, Michael
 
-Published 2026-03-15
+Published 2025-10-23
 
-Licensed cc-by-4.0
+Licensed cc-by-sa-4.0
 
 
 
-[https://zenodo.org/records/20081659](https://zenodo.org/records/20081659)
 
-[https://doi.org/10.5281/zenodo.20081659](https://doi.org/10.5281/zenodo.20081659)
+The article describes an unusual color morph of the dice snake (Natrix tessellata var. flavescens) at Vrana Lake in Croatia. This variant displays a yellowish base coloration, intense black speckling, and red eyes and tongue. Based on personal field-herpetological observations and photographic documentation, the distribution, morphology, and possible genetic stability of this form are discussed. In addition, historical descriptions and taxonomic classifications from the scientific literature are referenced to trace the development of knowledge regarding the &ldquo;flavescens&rdquo; color morph. The contribution highlights the herpetological significance of the habitat and points to open questions concerning genetics and species conservation.
+
+Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). This version serves the purpose of digital archiving and free accessibility for scientific and natural history audiences. The original article is available on Zenodo under DOI: 10.5281/zenodo.17410521.
+
+
+
+[https://zenodo.org/records/17424079](https://zenodo.org/records/17424079)
+
+[https://doi.org/10.5281/zenodo.17424079](https://doi.org/10.5281/zenodo.17424079)
 
 
 ---
