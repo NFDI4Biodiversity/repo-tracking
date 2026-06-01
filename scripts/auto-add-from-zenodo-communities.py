@@ -116,7 +116,7 @@ def main():
             
 
     import yaml
-    zenodo_yml = yaml.dump(new_data) #.replace("\n", "\n  ")
+    zenodo_yml = yaml.dump(new_data, allow_unicode=True) #.replace("\n", "\n  ")
     
 
     # save data in repository
