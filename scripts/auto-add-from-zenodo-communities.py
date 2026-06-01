@@ -2,7 +2,10 @@
 # In case the issue text consists only of a single line starting like a zenodo link, 
 # it will retrieve all important details from the zenodo record, add it to a yml file
 # and send a pull-request
+import math
+import math
 import sys
+from urllib import response
 from _github_utilities import create_branch, get_file_in_repository, get_issue_body, write_file, send_pull_request
 import yaml
 import os
@@ -29,7 +32,7 @@ def main():
     repository = sys.argv[1]
 
     token = os.getenv('ZENODO_API_KEY')
-    communities = ['nfdi4biodiversity']
+    communities = ['nfdi4biodiv']
 
     yml_filename = "resources/nfdi4biodiversity.yml"
 
@@ -46,23 +49,50 @@ def main():
     for community in communities:
         log.append(f"# {community}")
         log.append(f"https://zenodo.org/communities/{community}")
-        # new data
-        response = requests.get('https://zenodo.org/api/records',
-                                params={'communities': community,
-                                        'access_token': token})
-        try:
-            online_data = response.json()
-            hits = online_data["hits"]["hits"]
-            urls = [u["links"]["self_html"] for u in hits]
-        except requests.exceptions.JSONDecodeError:
-            print(f"Error decoding JSON for community: {community}")
-            continue
+        
+        page_size = 10
+        all_records = []
+    
+        # First page
+        response = requests.get(
+            "https://zenodo.org/api/records",
+            params={
+                "communities": community,
+                "access_token": token,
+                "page": 1,
+                "size": page_size,
+            },
+        )
+        response.raise_for_status()
 
-        # compare which new is not in old
+        data = response.json()
+        all_records.extend(data["hits"]["hits"])
 
-        for url in urls:
-            print(url)
-            data = complete_zenodo_data(url)
+        total = data["hits"]["total"]
+        num_pages = math.ceil(total / page_size)
+        num_pages
+
+        # Remaining pages
+        for page in range(2, num_pages + 1):
+            print("Reading page ", page)
+            response = requests.get(
+                "https://zenodo.org/api/records",
+                params={
+                    "communities": community,
+                    "access_token": token,
+                    "page": page,
+                    "size": page_size,
+                },
+            )
+            response.raise_for_status()
+            
+            all_records.extend(response.json()["hits"]["hits"])
+
+        print(f"Collected {len(all_records)} records")
+
+        for record in all_records:
+            data = zenodo_to_yml(record)
+            url = record["links"]["self_html"]
 
             if isinstance(data["url"], str):
                 data["url"] = [data["url"]]
@@ -82,10 +112,12 @@ def main():
 
                 # deal with entries listed in multiple communities
                 all_urls = all_urls + "\n" + "\n".join([u for u in data["url"]])
+        
+            
 
     import yaml
     zenodo_yml = yaml.dump(new_data) #.replace("\n", "\n  ")
-    #print(zenodo_yml)
+    
 
     # save data in repository
     file_content = get_file_in_repository(repository, branch, yml_filename).decoded_content.decode()
@@ -102,7 +134,49 @@ def main():
     res = send_pull_request(repository, branch, "Add content from communities: " + ", ".join(communities), f"Added contents:\n{log}")
 
     print("Done.", res)
+
+
+def remove_html_tags(text):
+    """
+    Clean HTML code and turn it into plain text.
+    """
+    import re
+    cleaned_text = re.sub('<.*?>', '', text)
+    return cleaned_text
+
+def zenodo_to_yml(zenodo_data):
+    zenodo_url = zenodo_data["links"]["self_html"]
     
+    entry = {}
+    urls = [zenodo_url]
+
+    if 'doi_url' in zenodo_data.keys():
+        doi_url = zenodo_data['doi_url']
+
+        # Add DOI URL to the URLs list if it's not already there
+        if doi_url not in urls:
+            urls.append(doi_url)
+    entry['url'] = urls
+
+    if 'metadata' in zenodo_data.keys():
+        metadata = zenodo_data['metadata']
+        # Update entry with Zenodo metadata and statistics
+        entry['name'] = metadata['title']
+        if 'publication_date' in metadata.keys():
+            entry['publication_date'] = metadata['publication_date']
+        if 'description' in metadata.keys():
+            entry['description'] = remove_html_tags(metadata['description'])
+        if 'creators' in metadata.keys():
+            creators = metadata['creators']
+            entry['authors'] = [c['name'] for c in creators]
+        if 'license' in metadata.keys():
+            entry['license'] = metadata['license']['id']
+
+    if 'stats' in zenodo_data.keys():
+        entry['num_downloads'] = zenodo_data['stats']['downloads']
+
+    return entry
+
 
 
 if __name__ == "__main__":

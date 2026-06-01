@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from datetime import datetime
+import sys
 
 def extract_github_repos(yaml_data):
     """Extract GitHub repository URLs from the YAML data.
@@ -72,7 +73,7 @@ def main():
 
 
     # upload to github and send a pull-request
-    repository = "haesleinhuepf/repo-tracking-nfdi4biodiversity"
+    repository = sys.argv[1]
     branch = create_branch(repository)
     with open(output_file, 'r') as file:
         file_content = file.read()
