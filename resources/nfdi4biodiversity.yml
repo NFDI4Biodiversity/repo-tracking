@@ -4776,3 +4776,17 @@ resources:
   url:
   - https://zenodo.org/records/11094085
   - https://doi.org/10.5281/zenodo.11094085
+- authors:
+  - Martin Zurowietz
+  - Röder, Juliane
+  description: 'Pre-release.
+
+    Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0'
+  license: cc-by-4.0
+  name: 'biigle/biigle4beginners: v0.1.0'
+  num_downloads: 0
+  publication_date: '2026-06-02'
+  submission_date: '2026-06-02T18:07:59.818401'
+  url:
+  - https://zenodo.org/records/20505832
+  - https://doi.org/10.5281/zenodo.20505832
