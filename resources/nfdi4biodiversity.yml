@@ -4776,3 +4776,29 @@ resources:
   url:
   - https://zenodo.org/records/11094085
   - https://doi.org/10.5281/zenodo.11094085
+- authors:
+  - Martin Zurowietz
+  description: 'Pre-release.
+
+    Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0'
+  license: cc-by-4.0
+  name: 'biigle/biigle4beginners: v0.1.0'
+  num_downloads: 0
+  publication_date: '2026-06-02'
+  submission_date: '2026-06-09T16:33:54.131815'
+  url:
+  - https://zenodo.org/records/20505832
+  - https://doi.org/10.5281/zenodo.20505832
+- authors:
+  - Ernst, Marcus
+  description: This presentation outlines the results of the work carried out by the
+    Bioschemas Implementation Interest Group in NFDI4Biodiversity.&nbsp;
+  license: cc-by-4.0
+  name: NFDI4Biodiversity x Bioschemas - Achievements, Mapping Gaps, and Community
+    Requests
+  num_downloads: 7
+  publication_date: '2026-06-03'
+  submission_date: '2026-06-09T16:33:54.133914'
+  url:
+  - https://zenodo.org/records/20528163
+  - https://doi.org/10.5281/zenodo.20528163
