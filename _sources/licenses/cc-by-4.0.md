@@ -1,4 +1,4 @@
-# Cc-by-4.0 (153)
+# Cc-by-4.0 (155)
 ## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2025
 
 Singson, Lea Sophie
@@ -2403,6 +2403,25 @@ Poster about the work and recent activities of the NFDI4Biodiversity Bioschemas 
 
 ---
 
+## NFDI4Biodiversity x Bioschemas - Achievements, Mapping Gaps, and Community Requests
+
+Ernst, Marcus
+
+Published 2026-06-03
+
+Licensed cc-by-4.0
+
+
+
+This presentation outlines the results of the work carried out by the Bioschemas Implementation Interest Group in NFDI4Biodiversity.&nbsp;
+
+[https://zenodo.org/records/20528163](https://zenodo.org/records/20528163)
+
+[https://doi.org/10.5281/zenodo.20528163](https://doi.org/10.5281/zenodo.20528163)
+
+
+---
+
 ## Neue Wege zur FAIRen Archivierung von digitalen Forschungsdaten aus Bayern
 
 Weibulat, Tanja Melanie
@@ -3543,6 +3562,26 @@ Weitere Informationen auf der NFDI4Biodiversity-Webseite.&nbsp;
 [https://zenodo.org/records/11620702](https://zenodo.org/records/11620702)
 
 [https://doi.org/10.5281/zenodo.11620702](https://doi.org/10.5281/zenodo.11620702)
+
+
+---
+
+## biigle/biigle4beginners: v0.1.0
+
+Martin Zurowietz
+
+Published 2026-06-02
+
+Licensed cc-by-4.0
+
+
+
+Pre-release.
+Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0
+
+[https://zenodo.org/records/20505832](https://zenodo.org/records/20505832)
+
+[https://doi.org/10.5281/zenodo.20505832](https://doi.org/10.5281/zenodo.20505832)
 
 
 ---

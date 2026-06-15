@@ -1,6 +1,6 @@
 # NFDI4Biodiversity Repositories
 
-This Jupyter Book contains 165 links to code / data / models and other materials by members of NFDI4Biodiversity published e.g. on Zenodo or Github. Last updated: 2026-06-15.
+This Jupyter Book contains 167 links to code / data / models and other materials by members of NFDI4Biodiversity published e.g. on Zenodo or Github. Last updated: 2026-06-15.
 
 This is a **preliminary** / **experimental** search index allowing us to explore how such a database could look like. We follow the principle [_release early, release often_](https://en.wikipedia.org/wiki/Release_early,_release_often) and aim at having a functional prototype of the index at any time. We will use this resource to 
 * explore what kind of meta-data we need to collect for our materials

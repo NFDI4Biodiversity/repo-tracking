@@ -1,51 +1,4 @@
 # Recently added (10)
-## A Dataset of Württemberg's 19th-century fauna
-
-Teich, Maximilian C.
-
-Published 2026-01-10
-
-Licensed cc-by-4.0
-
-
-
-The southern German kingdom of W&uuml;rttemberg was administratively divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886, the royal statistical office published one regional study on each of the districts, including text descriptions of the local fauna.
-The CSV data represent all species documented in these sources, with the follwing information for each mention:
-
-
-district: Name of the district in which the species was mentioned.
-
-
-year: Year of publication of the source text.
-
-
-original_text: Excerpt from the text in which the species is mentioned.
-
-
-german_name: German name of the animal as given in the text. May be empty if a scientific name is provided.
-
-
-scientific_name: Scientific name of the animal as given in the text. May be empty if a German name is provided.
-
-
-reported_occurrence: Interpretation of whether the source text describes the species as occurring in the district. False indicates the species is explicitly reported as absent; True is assumed when False is not set. This column reflects the content of the historical text and does not imply biological presence of a species.
-
-
-normalized_name: Scientific name of the species as used by GBIF.
-
-
-GBIF_Id: Identifier assigned to the species by GBIF.
-
-
-&nbsp;
-
-[https://zenodo.org/records/18200860](https://zenodo.org/records/18200860)
-
-[https://doi.org/10.5281/zenodo.18200860](https://doi.org/10.5281/zenodo.18200860)
-
-
----
-
 ## Data Policies: A Sustainability Checklist
 
 Parolini, Giuditta
@@ -164,25 +117,21 @@ In essence, the mapping table translates ABCD 2.06 into schema.org/Bioschemas ma
 
 ---
 
-## NFDI4Biodiversity - Proposal for the second funding phase of the National Research Data Infrastructure (NFDI)
+## NFDI4Biodiversity x Bioschemas - Achievements, Mapping Gaps, and Community Requests
 
-Glöckner, Frank Oliver, Bonn, Aletta, Brand, Ortrun, Ebert, Barbara, Gemeinholzer, Birgit, Goesmann, Alexander, Güntsch, Anton, König-Ries, Birgitta, Kostadinov, Ivaylo, Overmann, Jörg, Scholz, Uwe, Seeger, Bernhard, Seifert, Stefan, Stoye, Jens, Yahyapour, Ramin
+Ernst, Marcus
 
-Published 2026-03-03
+Published 2026-06-03
 
 Licensed cc-by-4.0
 
 
 
-Human induced global change in combination with loss of biodiversity are the main threats mankind is facing these days. To determine management options and devise conservation responses, research on the status, trends and drivers of biodiversity is key. To analyse the state of biodiversity and its drivers properly comprehensive data across time, space, taxa and ecosystems is urgently needed. NFDI4Biodiversity&rsquo;s aim is to provide domain stakeholders with the know-how, tools and services they need in order to share, find and access data following the FAIR data principles.
-In the first funding phase, NFDI4Biodiversity has become 'the' relevant hub for biodiversity research data and tools by cultivating collaborations between several data- and method-oriented communities in Germany and beyond. It has successfully raised awareness for data management in the community and fostered an appreciation of existing tools and solutions among stakeholders, as the growing number of use cases shows. The consortium has significantly grown its data and service provider network, bringing together previously unconnected initiatives within and outside the traditional academic sphere. Stakeholders show a high interest in collaborating, as indicated by more than two dozen requests to collaborate in third-party projects. The consortium is a prominent figure in the NFDI ecosystem, serving as a role model and driving joint infrastructure developments towards oneNFDI.
-In the second funding phase, we aim for scalability by consolidation and a broader dissemination of good practices. This will be archived through our nine key objectives: 1. Stakeholder engagement: To enable biodiversity subcommunities to advance their research data management practices in a self-organised manner. 2. Training and education: To provide a scalable, needs-based training programme for the biodiversity community, in high synergy with related NFDI consortia and RDM initiatives. 3. User support: To offer a central point of contact and individual user support, backed by a strong Helpdesk and expert network across consortia and RDM initiatives. 4. International partnerships: To foster robust partnerships with key initiatives and services in the international community. 5. Data Center network: To enhance their capabilities of serving the community including long-term data archiving. 6. Portfolio management: To establish and maintain a community service portfolio and catalogue with shared responsibilities. 7. Data and service integration: To implement harmonised, community-driven workflows and services. 8. Research Data Commons platform: To provide and maintain core functions and self-service capabilities for data and service providers in the shared cloud infrastructure and 9. Integration with NFDI and sustainability: To align activities for the biodiversity community with the greater NFDI and large domain stakeholders over time. These objectives are implemented by the NFDI4Biodiversity work programme and its five task areas.
---
-Added as an addendum is the&nbsp;Adapted Work Programme, which was adopted by the NFDI4Biodiversity Steering Committee in February 2026 after the approved funding was approximately 30 percent less than the amount originally requested.
+This presentation outlines the results of the work carried out by the Bioschemas Implementation Interest Group in NFDI4Biodiversity.&nbsp;
 
-[https://zenodo.org/records/18846091](https://zenodo.org/records/18846091)
+[https://zenodo.org/records/20528163](https://zenodo.org/records/20528163)
 
-[https://doi.org/10.5281/zenodo.18846091](https://doi.org/10.5281/zenodo.18846091)
+[https://doi.org/10.5281/zenodo.20528163](https://doi.org/10.5281/zenodo.20528163)
 
 
 ---
@@ -247,6 +196,26 @@ Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). Th
 [https://zenodo.org/records/17424079](https://zenodo.org/records/17424079)
 
 [https://doi.org/10.5281/zenodo.17424079](https://doi.org/10.5281/zenodo.17424079)
+
+
+---
+
+## biigle/biigle4beginners: v0.1.0
+
+Martin Zurowietz
+
+Published 2026-06-02
+
+Licensed cc-by-4.0
+
+
+
+Pre-release.
+Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0
+
+[https://zenodo.org/records/20505832](https://zenodo.org/records/20505832)
+
+[https://doi.org/10.5281/zenodo.20505832](https://doi.org/10.5281/zenodo.20505832)
 
 
 ---
