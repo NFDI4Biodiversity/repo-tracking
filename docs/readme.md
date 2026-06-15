@@ -8,7 +8,7 @@ This is a **preliminary** / **experimental** search index allowing us to explore
 * how we could potentially inject our list of materials into the other indices
 * how to collect links to materials following the FAIR principles (findable, accessible, interoperable, reusable)
 
-Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/haesleinhuepf/repo-tracking-nfdi4iodiversity/issues).
+Feedback and contributions are very welcome, e.g. as [github issue](https://github.com/NFDI4Biodiversity/repo-tracking/issues).
 
 ## How to use this resource
 
@@ -20,7 +20,7 @@ Enter terms such as 'LLM' to find all training materials related to large langua
 
 ## Contributing
 
-TBD, [create a Github Issue](https://github.com/haesleinhuepf/repo-tracking-nfdi4iodiversity/issues/new?title=Add%20resource) providing a link to the resource you would like to add to the list.
+TBD, [create a Github Issue](https://github.com/NFDI4Biodiversity/repo-tracking/issues/new?title=Add%20resource) providing a link to the resource you would like to add to the list.
 
 ## License
 
