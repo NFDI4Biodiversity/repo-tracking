@@ -4802,3 +4802,14 @@ resources:
   url:
   - https://zenodo.org/records/20528163
   - https://doi.org/10.5281/zenodo.20528163
+- authors:
+  - Martin Zurowietz
+  description: 'Full Changelog: https://github.com/biigle/biigle4beginners/compare/v0.1.0...v1.0.0'
+  license: cc-by-4.0
+  name: 'biigle/biigle4beginners: v1.0.0'
+  num_downloads: 1
+  publication_date: '2026-06-16'
+  submission_date: '2026-06-16T18:29:00.878727'
+  url:
+  - https://zenodo.org/records/20718316
+  - https://doi.org/10.5281/zenodo.20718316
