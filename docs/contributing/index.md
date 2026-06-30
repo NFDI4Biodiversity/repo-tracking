@@ -2,12 +2,12 @@
 
 This repository contains lists of training materials. It is extensible using github pull requests. You find a how-to guide on the bottom of this page. The format for entries in the repository is documented on the next page.
 
-To add a resource to this repository, please create a [github issue](https://github.com/ScaDS/repo-tracking/issues/new?title=Add%20resource) with a link to the materials you want to include in our list. 
+To add a resource to this repository, please create a [github issue](https://github.com/nfdi4biodiversity/repo-tracking/issues/new?title=Add%20resource) with a link to the materials you want to include in our list. 
 We take care of the details.
 
 ## Inclusion criteria
 
-We will consider merging links to all materials which are authored by [ScaDS.AI](https://scads.ai) members, associates and affiliates.
+We will consider merging links to all materials which are authored by [NFDI4Biodiversity](https://www.nfdi4biodiversity.org) partners, associates and affiliates.
 
 We would like to collect links to resources including various formats / content types:
 * Code
