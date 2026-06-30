@@ -155,27 +155,6 @@ Poster presented at NFDI4Biodiversity All Hands Conference (2024).
 
 ---
 
-## Unlocking BioZeit's Data Treasures through FAIR
-
-Hoffmann, Jörg
-
-Published 2025-09-21
-
-Licensed cc-by-4.0
-
-
-
-We use the user case BIOZEIT to ensure the long-term availability and usability of biodiversity data&mdash;on plants, insects, and birds&mdash;to support research and environmental management.
-The already finished BioZeit project provides data of a 30-year long-term study (1991&ndash;1993, 2018&ndash;2021) with datasets on avifauna, segetal flora, and butterflies. It presents valuable insights into agricultural practices and biodiversity in arable landscapes.
-We developed a FAIR-compliant workflow for BioZeit&rsquo;s long-term data, managed in BEXIS2 and prepared for submission to PANGAEA to enable integration and reuse.
-
-[https://zenodo.org/records/17672444](https://zenodo.org/records/17672444)
-
-[https://doi.org/10.5281/zenodo.17672444](https://doi.org/10.5281/zenodo.17672444)
-
-
----
-
 ## Yellow Dice Snakes at Vrana Lake in Croatia
 
 Wilms, Michael
@@ -216,6 +195,25 @@ Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0
 [https://zenodo.org/records/20505832](https://zenodo.org/records/20505832)
 
 [https://doi.org/10.5281/zenodo.20505832](https://doi.org/10.5281/zenodo.20505832)
+
+
+---
+
+## biigle/biigle4beginners: v1.0.0
+
+Martin Zurowietz
+
+Published 2026-06-16
+
+Licensed cc-by-4.0
+
+
+
+Full Changelog: https://github.com/biigle/biigle4beginners/compare/v0.1.0...v1.0.0
+
+[https://zenodo.org/records/20718316](https://zenodo.org/records/20718316)
+
+[https://doi.org/10.5281/zenodo.20718316](https://doi.org/10.5281/zenodo.20718316)
 
 
 ---

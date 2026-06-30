@@ -1,4 +1,4 @@
-# Martin zurowietz (5)
+# Martin zurowietz (6)
 ## BIIGLE: Bild- und Videoannotation für die Biodiversitätsforschung
 
 Martin Zurowietz, Jens Stoye, Tim W. Nattkemper
@@ -61,6 +61,25 @@ Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0
 [https://zenodo.org/records/20505832](https://zenodo.org/records/20505832)
 
 [https://doi.org/10.5281/zenodo.20505832](https://doi.org/10.5281/zenodo.20505832)
+
+
+---
+
+## biigle/biigle4beginners: v1.0.0
+
+Martin Zurowietz
+
+Published 2026-06-16
+
+Licensed cc-by-4.0
+
+
+
+Full Changelog: https://github.com/biigle/biigle4beginners/compare/v0.1.0...v1.0.0
+
+[https://zenodo.org/records/20718316](https://zenodo.org/records/20718316)
+
+[https://doi.org/10.5281/zenodo.20718316](https://doi.org/10.5281/zenodo.20718316)
 
 
 ---
