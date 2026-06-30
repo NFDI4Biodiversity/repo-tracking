@@ -58,6 +58,7 @@ def main():
             "https://zenodo.org/api/records",
             params={
                 "communities": community,
+                "allversions": "true",
                 "access_token": token,
                 "page": 1,
                 "size": page_size,
@@ -79,6 +80,7 @@ def main():
                 "https://zenodo.org/api/records",
                 params={
                     "communities": community,
+                    "allversions": "true",
                     "access_token": token,
                     "page": page,
                     "size": page_size,
