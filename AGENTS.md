@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This repository maintains a searchable collection of Zenodo and GitHub resources created by ScaDS.AI members. It automatically aggregates, tracks, and publishes materials through a Jupyter Book website hosted at https://scads.github.io/zenodo-tracking.
+This repository maintains a searchable collection of Zenodo and GitHub resources created in the context of NFDI4Biodiversity. It automatically aggregates, tracks, and publishes materials through a Jupyter Book website hosted at https://nfdi4biodiversity.github.io/repo-tracking/.
 
 ## Core Architecture
 
