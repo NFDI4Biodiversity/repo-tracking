@@ -4813,3 +4813,1198 @@ resources:
   url:
   - https://zenodo.org/records/20718316
   - https://doi.org/10.5281/zenodo.20718316
+- authors:
+  - Ebert, Barbara
+  - Ewert, Frank
+  - Förstner, Konrad U.
+  - Glöckner, Frank Oliver
+  - Keller, Christin
+  - McHardy, Alice Carolyn
+  - von Suchodoletz, Dirk
+  - Weidtkamp-Peters, Stefanie
+  - Baldenius, Marie Tovelill
+  - Boße, Sophie
+  - Ebeling, Mary-Ann
+  - Engel, Judith
+  - Gerber, Anja
+  - Gillis, Rosalind
+  - Hoffmann, Carsten
+  - Mühlhaus, Timo
+  - Röder, Juliane
+  - Schmale Rodrigues, Cristina
+  - Schmidt, Christian
+  - Scholz, Uwe
+  - Specka, Xenia
+  - Vandendorpe, Justine
+  - Wetzker, Cornelia
+  description: 'The NFDI&mdash;German National Research Data Infrastructure&mdash;consortia
+    DataPLANT, FAIRagro, NFDI4Biodiversity, NFDI4BIOIMAGE, NFDI4Microbiota, and NFDI4Objects
+    convened on April 15&ndash;16, 2026, at the Julius K&uuml;hn Institute in Berlin
+    for the Biodata Interest Group workshop. The workshop served to operationalize
+    the group''s Memorandum of Understanding by identifying synergies in services,
+    training, and infrastructure. Workshop discussions facilitated the exchange of
+    perspectives on a potential strategic roadmap for 2026&ndash;2035, the exploration
+    of functional data modalities for cross-consortial integration, and the identification
+    of areas for future coordination to support a more sustainable and collaborative
+    research data infrastructure in the biological sciences.
+
+    This report summarizes the workshop&rsquo;s collaborative mapping, discussion
+    sessions, and the resulting shared interests for the Biodata Interest Group.'
+  license: cc-by-4.0
+  name: 'Biodata Interest Group Workshop Report:  Strategic Alignment and Infrastructure
+    Integration'
+  num_downloads: 3
+  publication_date: '2026-07-13'
+  submission_date: '2026-07-14T15:26:17.319965'
+  url:
+  - https://zenodo.org/records/21235788
+  - https://doi.org/10.5281/zenodo.21235788
+- authors:
+  - Schellenberger Costa, David
+  description: 'The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was initially created
+    for the NFDI Seasonal School 2024. The 2025 update features small adaptations
+    and improvements to the jupyter notebooks, reflecting changes in the GBIF API
+    and/or rgbif R package and comments from users. Additionally, the presentation
+    on the topic has been greatly expanded including a full walkthrough of the name
+    parsing and name resolution workbooks.
+
+    For those not wanting to use jupyter notebooks the html files provide the same
+    content as the ipynb files including results of computations, they are just not
+    interactive.'
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 1838
+  publication_date: '2025-10-09'
+  submission_date: '2026-07-14T15:26:17.320218'
+  url:
+  - https://zenodo.org/records/17305261
+  - https://doi.org/10.5281/zenodo.17305261
+- authors:
+  - Weibulat, Tanja Melanie
+  - Triebel, Dagmar
+  description: This lecture was part of the agenda of the 17th meeting of the participant
+    nodes from GBIF Europe and Central Asia (GBIF ECA) and held by German node staff
+    members in Waterford, Ireland (20 May 2025 - 23 May 2025). It describes the situation
+    of the Global Information Facility (GBIF) in Germany in relation to a distributed
+    national network of established data centers at recognized life and nature science
+    organisations. The federated GBIF-D Node system in Germany works technically and
+    organizationally closely together with the German National Research Data Infrastructure
+    (NFDI), GFBio e.V. and NFDI4Biodiversity consortium (supported by the German Research
+    Foundation DFG under the grant agreement number 442032008). This cooperation started
+    in 2013 and facilitates activities in data hosting, data mobilisation and preservation.
+    It is strengthening the efforts of the node to train data management and build
+    informatics capacity, e.g., at the International Training Centre &nbsp;for Environmental
+    Research, ITCER Kenya.
+  license: cc-by-4.0
+  name: GBIF Germany Activities 2025
+  num_downloads: 111
+  publication_date: '2025-07-22'
+  submission_date: '2026-07-14T15:26:17.320332'
+  url:
+  - https://zenodo.org/records/16332169
+  - https://doi.org/10.5281/zenodo.16332169
+- authors:
+  - Kostadinov, Ivaylo
+  - Tschink, Daniel
+  - Linares Gómez, Jimena
+  description: 'This lecture was part of&nbsp;the NFDI4Biodiversity &amp; iDiv Seasonal
+    School on Data Management in Biodiversity and Environmental Science introduces
+    key principles of data management and data literacy, emphasizing best practices
+    for organizing, storing, and handling data according to FAIR principles. You will
+    explore various data types in biodiversity and environmental science and learn
+    how to align your research data management (RDM) strategies with funding requirements
+    and institutional policies.
+
+    The&nbsp;NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity
+    and Environmental Science&nbsp;was a collaboration between the&nbsp;German Centre
+    for Integrative Biodiversity Research (iDiv)&nbsp;and the&nbsp;NFDI4Biodiversity
+    consortium. This course offered cutting-edge skills and knowledge essential for
+    handling scientific data throughout its life cycle. The intensive five-day program
+    combined direct knowledge transfer with practical lessons to introduce participants
+    to fundamental and advanced tools in research data management (RDM), tailored
+    to enhance their future careers.'
+  license: cc-by-4.0
+  name: Data Management and Data Literacy
+  num_downloads: 387
+  publication_date: '2025-04-02'
+  submission_date: '2026-07-14T15:26:17.320454'
+  url:
+  - https://zenodo.org/records/15124025
+  - https://doi.org/10.5281/zenodo.15124025
+- authors:
+  - Kusch, Erik
+  license: cc-by-4.0
+  name: Investigating Biodiversity Data Using Open-Access Databases
+  num_downloads: 331
+  publication_date: '2024-12-01'
+  submission_date: '2026-07-14T15:26:17.320633'
+  url:
+  - https://zenodo.org/records/14254042
+  - https://doi.org/10.5281/zenodo.14254042
+- authors:
+  - Scherer, Cédric
+  description: The slides, R script, and Jupyter notebook for the workshop lesson
+    "Data Analysis &amp; Visualisation According to FAIR Principles" as part of the
+    NFDI4Biodiversity Seasonal School 2024. The lesson covers the principles of the
+    data science workflow, using R and the tidyverse, with a focus on data visualization
+    principles and the grammar of graphics with the ggplot2 package.
+  license: cc-by-4.0
+  name: Data Analysis & Visualisation According to FAIR Principles
+  num_downloads: 385
+  publication_date: '2024-12-04'
+  submission_date: '2026-07-14T15:26:17.320652'
+  url:
+  - https://zenodo.org/records/14275834
+  - https://doi.org/10.5281/zenodo.14275834
+- authors:
+  - Schellenberger Costa, David
+  description: The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was created for the
+    NFDI Seasonal School 2024.
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 1838
+  publication_date: '2024-12-04'
+  submission_date: '2026-07-14T15:26:17.320676'
+  url:
+  - https://zenodo.org/records/14273559
+  - https://doi.org/10.5281/zenodo.14273559
+- authors:
+  - Scherer, Cédric
+  description: The slides and R script for the workshop lesson "Data Analysis &amp;
+    Visualisation According to FAIR Principles" as part of the NFDI4Biodiversity Seasonal
+    School 2024. The lesson covers the principles of the data science workflow, using
+    R and the tidyverse, with a focus on data visualization principles and the grammar
+    of graphics with the ggplot2 package.
+  license: cc-by-4.0
+  name: Data Analysis & Visualisation According to FAIR Principles
+  num_downloads: 385
+  publication_date: '2024-12-02'
+  submission_date: '2026-07-14T15:26:17.320704'
+  url:
+  - https://zenodo.org/records/14262444
+  - https://doi.org/10.5281/zenodo.14262444
+- authors:
+  - Scherer, Cédric
+  description: The slides and R script for the workshop lesson "Data Analysis &amp;
+    Visualisation According to FAIR Principles" as part of the NFDI4Biodiversity Seasonal
+    School 2024. The lesson covers the principles of the data science workflow, using
+    R and the tidyverse, with a focus on data visualization principles and the grammar
+    of graphics with the ggplot2 package.
+  license: cc-by-4.0
+  name: Data Analysis & Visualisation According to FAIR Principles
+  num_downloads: 385
+  publication_date: '2024-12-01'
+  submission_date: '2026-07-14T15:26:17.320725'
+  url:
+  - https://zenodo.org/records/14254186
+  - https://doi.org/10.5281/zenodo.14254186
+- authors:
+  - Röder, Juliane
+  description: 'In this 60 min talk, I introduced participants of the Biodiversity
+    of Plants Lab at the Philipps University of Marburg to basic aspects of research
+    data management.&nbsp;
+
+    The first part discusses motivations and solutions for improved research data
+    management specific for ecological and biodiversity data. The second part gives
+    an overview of simple, hands-on improvements of research data management along
+    the data life cycle. The third part showcases some tools and services for research
+    data management provided by NFDI4Biodiversity (discipline specific), by the Hessian
+    Research Data Management Infrastructures (HeFDI) (generic) and by the eResearch
+    Center of the Philipps University of Marburg (generic).
+
+    To get started with research data management, feel free to take a look at the
+    available&nbsp;NFDI4Biodiversity training resources, and at workshops and Open
+    Educational Resources (OERs) provided by HeFDI. The Philipps University of Marburg
+    further offers various courses on research data management for Bachelor and Master
+    students (MarSkills) and for PhD students (MARA), as well as generic and discipline
+    specific OER in Ilias and more (e.g. Environmental Informatics working group).
+    Finally, the Uni Marburg project EnableD curates a list of self-paced online tutorials
+    on digital literacy for students, lecturers, researchers and administrative and
+    technical staff.'
+  license: cc-by-4.0
+  name: Introduction to research data management
+  num_downloads: 1146
+  publication_date: '2024-11-27'
+  submission_date: '2026-07-14T15:26:17.320774'
+  url:
+  - https://zenodo.org/records/14230765
+  - https://doi.org/10.5281/zenodo.14230765
+- authors:
+  - Schellenberger Costa, David
+  description: The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was created for the
+    NFDI Seasonal School 2024.
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 1838
+  publication_date: '2024-11-26'
+  submission_date: '2026-07-14T15:26:17.320790'
+  url:
+  - https://zenodo.org/records/14226532
+  - https://doi.org/10.5281/zenodo.14226532
+- authors:
+  - Schellenberger Costa, David
+  description: The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was created for the
+    NFDI Seasonal School 2024.
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 1838
+  publication_date: '2024-11-26'
+  submission_date: '2026-07-14T15:26:17.320805'
+  url:
+  - https://zenodo.org/records/14224726
+  - https://doi.org/10.5281/zenodo.14224726
+- authors:
+  - Rehbein, Malte
+  - Escobari Vargas, Andrea Belen
+  - Fischer, Sarah
+  - Güntsch, Anton
+  - Haas, Bettina
+  - Matheisen, Giada
+  - Perschl, Tobias
+  - Wieshuber, Alois
+  - Engel, Thore
+  description: 'In 1845, under the scientific direction of Andreas Wagner, the Bavarian
+    government recorded the occurrence of 44 selected vertebrate species across the
+    entire country. To this end, Wagner had a survey questionnaire sent to all 119
+    forestry offices in the state. The foresters'' responses were now systematically
+    recorded and analyzed for the first time. This data set represents the result
+    of this survey. Among other things, it contains 5,467 geo-coded animal observation
+    data.
+
+    The data is the result of an interdisciplinary collaboration between scientists
+    from the Chair of Computational Humanities at the University of Passau, the Directorate
+    General of the Bavarian State Archives Munich, the German Centre for Integrative
+    Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Center for Biodiversity Informatics
+    and Collection Data Integration at the Botanical Garden Berlin, and the NFDI4Biodiversity
+    consortium.'
+  license: cc-by-4.0
+  name: Historical Animal Observation Records by Bavarian Forestry Offices (1845)
+  num_downloads: 5563
+  publication_date: '2024-10-29'
+  submission_date: '2026-07-14T15:26:17.320841'
+  url:
+  - https://zenodo.org/records/14008158
+  - https://doi.org/10.5281/zenodo.14008158
+- authors:
+  - Rehbein, Malte
+  - Escobari Vargas, Andrea Belen
+  - Fischer, Sarah
+  - Güntsch, Anton
+  - Haas, Bettina
+  - Matheisen, Giada
+  - Perschl, Tobias
+  - Wieshuber, Alois
+  - Engel, Thore
+  description: 'In 1845, under the scientific direction of Andreas Wagner, the Bavarian
+    government recorded the occurrence of 44 selected vertebrate species across the
+    entire country. To this end, Wagner had a survey questionnaire sent to all 119
+    forestry offices in the state. The foresters'' responses were now systematically
+    recorded and analyzed for the first time. This data set represents the result
+    of this survey. Among other things, it contains 5,464 geo-coded animal observation
+    data.
+
+    The data is the result of an interdisciplinary collaboration between scientists
+    from the Chair of Computational Humanities at the University of Passau, the Directorate
+    General of the Bavarian State Archives Munich, the German Centre for Integrative
+    Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Center for Biodiversity Informatics
+    and Collection Data Integration at the Botanical Garden Berlin, and the NFDI4Biodiversity
+    consortium.'
+  license: cc-by-4.0
+  name: Historical Animal Observation Records by Bavarian Forestry Offices (1845)
+  num_downloads: 5563
+  publication_date: '2024-10-23'
+  submission_date: '2026-07-14T15:26:17.320864'
+  url:
+  - https://zenodo.org/records/13982840
+  - https://doi.org/10.5281/zenodo.13982840
+- authors:
+  - Rehbein, Malte
+  - Escobari Vargas, Andrea Belen
+  - Fischer, Sarah
+  - Güntsch, Anton
+  - Haas, Bettina
+  - Matheisen, Giada
+  - Perschl, Tobias
+  - Wieshuber, Alois
+  - Engel, Thore
+  description: 'In 1845, under the scientific direction of Andreas Wagner, the Bavarian
+    government recorded the occurrence of 44 selected vertebrate species across the
+    entire country. To this end, Wagner had a survey questionnaire sent to all 119
+    forestry offices in the state. The foresters'' responses were now systematically
+    recorded and analyzed for the first time. This data set represents the result
+    of this survey. Among other things, it contains 5,464 geo-coded animal observation
+    data.
+
+    The data is the result of an interdisciplinary collaboration between scientists
+    from the Chair of Computational Humanities at the University of Passau, the Directorate
+    General of the Bavarian State Archives Munich, the German Centre for Integrative
+    Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Center for Biodiversity Informatics
+    and Collection Data Integration at the Botanical Garden Berlin, and the NFDI4Biodiversity
+    consortium.'
+  license: cc-by-4.0
+  name: Historical Animal Observation Records by Bavarian Forestry Offices (1845)
+  num_downloads: 5563
+  publication_date: '2024-10-20'
+  submission_date: '2026-07-14T15:26:17.320884'
+  url:
+  - https://zenodo.org/records/13957365
+  - https://doi.org/10.5281/zenodo.13957365
+- authors:
+  - Rehbein, Malte
+  - Escobari Vargas, Andrea Belen
+  - Fischer, Sarah
+  - Güntsch, Anton
+  - Haas, Bettina
+  - Matheisen, Giada
+  - Perschl, Tobias
+  - Wieshuber, Alois
+  - Engel, Thore
+  description: 'In 1845, under the scientific direction of Andreas Wagner, the Bavarian
+    government recorded the occurrence of 44 selected vertebrate species across the
+    entire country. To this end, Wagner had a survey questionnaire sent to all 119
+    forestry offices in the state. The foresters'' responses were now systematically
+    recorded and analyzed for the first time. This data set represents the result
+    of this survey. Among other things, it contains 5,464 geo-coded animal observation
+    data.
+
+    The data is the result of an interdisciplinary collaboration between scientists
+    from the Chair of Computational Humanities at the University of Passau, the Directorate
+    General of the Bavarian State Archives Munich, the German Centre for Integrative
+    Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Center for Biodiversity Informatics
+    and Collection Data Integration at the Botanical Garden Berlin, and the NFDI4Biodiversity
+    consortium.'
+  license: cc-by-4.0
+  name: Historical Animal Observation Records by Bavarian Forestry Offices (1845)
+  num_downloads: 5563
+  publication_date: '2024-10-07'
+  submission_date: '2026-07-14T15:26:17.320902'
+  url:
+  - https://zenodo.org/records/13899541
+  - https://doi.org/10.5281/zenodo.13899541
+- authors:
+  - Röder, Juliane
+  description: 'In this 30 min talk, I introduce participants of the workshop "Data
+    Management in Biodiversity and Environmental Science" to basic aspects of research
+    data management. This is a pre-meeting workshop of the Biogeography &amp; Gf&Ouml;
+    Macroecology meeting 2024 at the Philipps University of Marburg.
+
+    The first part discusses motivations and solutions for improved research data
+    management specific for ecological and biodiversity data. The second part gives
+    an overview of simple, hands-on improvements of research data management along
+    the data life cycle. Many of the discipline specific tools and services presented
+    in the talk are provided by the NFDI4Biodiversity consortium.
+
+    For further details on research data management for biodiversity data, feel free
+    to take a look at the available NFDI4Biodiversity training resources.'
+  license: cc-by-4.0
+  name: Introduction to research data management
+  num_downloads: 1146
+  publication_date: '2024-06-05'
+  submission_date: '2026-07-14T15:26:17.321249'
+  url:
+  - https://zenodo.org/records/11491277
+  - https://doi.org/10.5281/zenodo.11491277
+- authors:
+  - Harpke, Alexander
+  - Brünecke, Jörg
+  - Bohring, Hannes
+  - Grescho, Volker
+  - Haase, Kristina
+  - Kühn, Elisabeth
+  - Kuhnert, Tobias
+  - Musche, Martin
+  - Petruschke, Sven
+  - Schnicke, Thomas
+  - Sielaff, Daniel
+  - Strätling, Jeremy
+  - Bumberger, Jan
+  description: 'Butterfly Monitoring Germany -&nbsp;Based on the modular BioMe - infrastructure
+    for biodiversity monitoring projects
+
+    Butterfly Monitoring Germany (Tagfalter-Monitoring Deutschland / TMD) is a citizen
+    science project to assess the status and trends of butterfly populations in Germany.
+    The data collected is used to analyse the impacts of environmental change such
+    as habitat loss and climate change, to support evidence-based conservation, and
+    to inform decision makers and the general public about the state of biodiversity.
+    Citizen science programs like TMD are also used in other fields, e.g. the monitoring
+    of other insect groups, small watercourses and streams, or certain vertebrate
+    species.&nbsp;
+
+    The TMD apps and BioMe&nbsp;
+
+    Programmes for biodiversity monitoring require complex infrastructures to collect,
+    manage and prepare the data for various purposes. The TMD project is the first
+    use case using the BioMe framework. The project aimes to provide a framework and
+    infrastructure to implement applications for data collection and data curation
+    in the context of biodiversity monitoring initiatives. This primarily addresses
+    species or environmental status monitoring, but also data management, in particular
+    the data quality workflow and data visualisation. For this purpose, BioMe supports
+    data integration and synthesis for cross-thematic/interdisciplinary networking
+    as a prerequisite for data products and further analyses. The role/rights-based
+    data access and options for aggregated data preparation and its visualisation
+    in diagrams or maps contribute to knowledge transfer and facilitate the involvement
+    of strategic stakeholders.&nbsp;
+
+    Requirements for the technical platform&nbsp;
+
+
+    Focused on science - modular approach with reusable components for content-driven
+    requirements of scientific communities within the scope of monitoring projects
+    and field trails/data collection projects&nbsp;
+
+    Open and FAIR by design providing data and metadata based on community proven
+    standards using open interfaces
+
+    Flexible and location independent through support of mobile apps
+
+    Support for data collection through the use of AI
+
+
+    Technical Features&nbsp;
+
+
+    Future proof modular technical stack built on open source products
+
+    Integrated into a portable container microservice architecture&nbsp;
+
+    Identity and access management supporting Helmholtz AAI&nbsp;&nbsp;
+
+    Customized, encapsulated web application based on project specific adaptable packages&nbsp;
+
+    Project specific database&nbsp;
+
+    Additional project independent databases&nbsp;&nbsp;
+
+
+    trait/taxonomic database (project taxonomic concept)&nbsp;
+
+    geo/spatial database&nbsp;
+
+
+
+    Role-based communication between databases front and backend based on respective
+    APIs (data views can be managed based on roles)
+
+    Cloud based asset management and object storage based on S3 technology&nbsp;
+
+
+
+    Modular construction toolbox for content related components&nbsp;
+
+    BioMe pursues the most generic, modular approach possible in order to fulfil a
+    wide range of requirements in various projects. This should enable simple deployment
+    for other projects and enable&nbsp; integration into the local it infrastructure.
+
+
+
+    &nbsp;Table 1: components of BioMe and their features&nbsp;
+
+
+
+
+
+
+    Module
+
+
+
+    Features
+
+
+
+
+
+
+    user management&nbsp;
+
+
+
+
+
+
+    Implements
+
+
+    basic roles and permissions&nbsp;
+
+    show and edit user data&nbsp;
+
+    show user lists&nbsp;
+
+
+
+
+
+
+
+
+
+    base layout
+
+
+
+
+
+
+    Enables customization through&nbsp;
+
+
+    project title&nbsp;
+
+    colour scheme
+
+    logo &amp; favicon&nbsp;&nbsp;
+
+    navigation menu&nbsp;
+
+    footer with links&nbsp;
+
+
+
+
+
+
+
+
+
+    landing page&nbsp;
+
+
+
+
+
+
+    &nbsp;
+
+
+    Provides slots for
+
+
+    presentation of project-specific content
+
+    user-specific news feeds
+
+    individual messages e.g. through the integrated quality assurance-system&nbsp;
+
+
+
+
+
+
+
+
+    tables&nbsp;
+
+
+
+
+
+
+    Generates and manages
+
+
+    tables with specific configuration and settings &nbsp;
+
+    user-specific visibility of columns&nbsp;
+
+
+
+
+
+
+
+    filters
+
+
+
+
+    Handles&nbsp;&nbsp;
+
+
+    definition and management of individual queries
+
+    services to load list of filters&nbsp;
+
+    possibility to save and remove specific filterconfigurations&nbsp;
+
+
+
+
+
+
+
+    &nbsp;publications
+
+    &nbsp;The editorial module allows to
+
+
+
+    manage categories&nbsp;
+
+
+
+    create and edit e.g.
+
+
+    news&nbsp;
+
+    legal documents&nbsp;
+
+    tutorials&nbsp;
+
+
+
+
+
+
+
+    &nbsp;
+
+
+    observations and quality assurance&nbsp;
+
+
+
+
+
+
+    Provide the possibility to
+
+
+    define&nbsp;qa-status&nbsp;
+
+    propose&nbsp;qa-status&nbsp;
+
+    set qa-status&nbsp;
+
+
+
+
+
+
+
+    &nbsp;
+
+
+    transects&nbsp;
+
+
+
+    &nbsp;Allows to manage
+
+
+
+    a transect establishing workflow
+
+    transect proposals
+
+    release of transect proposals
+
+    transect specific habitat characteristics
+
+
+
+
+
+
+    &nbsp;
+
+
+    species catalogue&nbsp;
+
+
+
+
+    &nbsp;Allows to visualize and manage
+
+
+    taxonomic trees
+
+    characteristics for taxonomic items like species or genus
+
+    a search function within the taxonomic tree and catalogue
+
+
+
+
+
+    &nbsp;
+
+
+    species identification guide
+
+
+
+
+    &nbsp;Provides
+
+
+    dichotomous determination key for several species groups
+
+    supports correct identification of species
+
+
+
+
+
+
+
+    &nbsp;
+
+
+
+
+    Additional project specific features for TMD&nbsp;
+
+
+
+    Extended customization of the landing page based on widget system&nbsp;
+
+
+    Most recent observations or images&nbsp;
+
+    Several basic project statistics&nbsp;
+
+    Most active users&nbsp;
+
+    Individual diagram views&nbsp;
+
+
+
+    Basic Webgis functionalities, e.g. geographical location of transects and species
+    observation&nbsp;
+
+    Diagram-based&nbsp;visualisation of the data&nbsp;
+
+    Mobile app for TMD that uses the same backend. The mobile app has an offline mode
+    that enables the data to be entered even without an internet connection. The app
+    is available in the respective store for iOS free of charge&nbsp;
+
+
+    https://apps.apple.com/de/app/tagfaltermonitoringdeutschland/&nbsp;
+
+
+
+
+
+
+
+    The mobile App can be reused when using the same methodological approach as for
+    butterfly monitoring but then has to be treated as a separate app that needs to
+    be customised and further developed independently.
+
+    Contact Information
+
+
+
+    In case of any question please contact: biome@ufz.de.&nbsp;
+
+    &nbsp;
+
+
+    Techstack, dependencies and third party open source products&nbsp;
+
+
+    Vue / Vuetify Vue.js - The Progressive JavaScript Framework | Vue.js (vuejs.org)&nbsp;
+
+    Capacitor Capacitor by Ionic - Cross-platform apps with web technology (capacitorjs.com)&nbsp;
+
+    Leaflet Leaflet - a JavaScript library for interactive maps (leafletjs.com)&nbsp;
+
+    NodeJS&nbsp;&nbsp;
+
+    PHP /&nbsp;Symfony Symfony, High Performance PHP Framework for Web Development&nbsp;
+
+    PostgreSQL / PostGIS PostgreSQL: The world''s most advanced open source database&nbsp;
+
+    Keycloak with integrated Helmholtz ID Keycloak&nbsp;
+
+    MinIO MinIO | S3 &amp; Kubernetes Native Object Storage for AI&nbsp;
+
+    Docker CE / Docker Compose Docker: Accelerated Container Application Development&nbsp;
+
+
+
+
+    &nbsp;
+
+
+    Internal Interfaces:&nbsp;
+
+
+
+    ApiPlatform API Platform (api-platform.com)&nbsp;
+
+
+    GraphQL&nbsp;GraphQL | A query language for your API&nbsp;
+
+    REST&nbsp;
+
+
+
+
+
+
+    Available basic data:&nbsp;&nbsp;
+
+
+
+
+    The plattform contains an extandable taxonomy backbone for the used target species
+    groups
+
+
+
+    This includes the taxonomy tree of the species with scientific names and the trivial
+    synonyms
+
+
+
+    Short descriptions of the species characteristics&nbsp;
+
+
+
+    BioMe architecture
+
+    The architecture of a BioMe usecase includes the frontend components, consisting
+    of a web application and a mobile app. The backend structure consists of a project-specific
+    API and database, as well as trait/taxonomy and geo API and databases shared across
+    all BioMe projects.
+
+    Acknowledgements
+
+    &nbsp;RDM
+
+    This project was made possible by the Research Data Management Team (RDM) at the
+    Helmholtz Center for Environmental Research - UFZ. RDM at the UFZ is part of of
+    the Helmholtz Earth and Environment DataHub initiative.
+
+    DataHub
+
+    We thank the Helmholtz Association and the Federal Ministry of Education and Research
+    (BMBF) for supporting the DataHub Initiative of the Research Field Earth and Environment.
+
+    The DataHub enables an overarching and comprehensive research data management,
+    following FAIR principles, for all Topics in the Program Changing Earth &ndash;
+    Sustaining our Future.
+
+    NFDI4Biodiversity
+
+    The realisation of the project was made possible by NFDI4Biodiversity flexfund
+    resources and personnel support.
+
+    Natura Incognita
+
+    The AI-supported identification of butterflies was realised as part of the AI
+    lighthouse project &lsquo;Natura Incognita&rsquo; funded by the Federal Ministry
+    for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection
+    (BMUV) in close cooperation with the Ilmenau University of Technology and the
+    Max Planck Institute for Biogeochemistry.
+
+
+
+
+
+
+
+    '
+  license: cc-by-4.0
+  name: BioMe - The butterfly monitoring Germany usecase
+  num_downloads: 416
+  publication_date: '2024-05-14'
+  submission_date: '2026-07-14T15:26:17.321366'
+  url:
+  - https://zenodo.org/records/11190783
+  - https://doi.org/10.5281/zenodo.11190783
+- authors:
+  - Röder, Juliane
+  description: 'In this 1 h talk, Juliane R&ouml;der introduced students of the "Biodiversity
+    and Conservation" master''s program of the Philipps University of Marburg to basic
+    aspects of research data management.
+
+    The first part discusses motivations and solutions for improved research data
+    management specific for ecological and biodiversity data. The second part gives
+    an overview of simple, hands-on improvements of research data management along
+    the data life cycle. Many of the discipline specific tools and services presented
+    in the talk are provided by the NFDI4Biodiversity consortium. Included is also
+    an overview of generic tools and services provided by the local eResearch Center
+    of the Philipps University of Marburg in close collaboration with the Hessian
+    Research Data Infrastructures (HeFDI).
+
+    For further details on research data management for biodiversity data, feel free
+    to take a look at the available NFDI4Biodiversity training resources as well as
+    information on the HeFDI initiative and the eResearch Center of the University
+    of Marburg.'
+  license: cc-by-4.0
+  name: Introduction to research data management
+  num_downloads: 1146
+  publication_date: '2024-05-21'
+  submission_date: '2026-07-14T15:26:17.321415'
+  url:
+  - https://zenodo.org/records/11235458
+  - https://doi.org/10.5281/zenodo.11235458
+- authors:
+  - Köpke, Robert
+  - Wolf, Sophie
+  - Koppernock, Maximilian
+  - Engel,Thore
+  description: 'In spring 2023, the German Centre for Integrative Biodiversity Research
+    (iDiv) Halle-Jena-Leipzig and the Helmholtz Center for Environmental Research
+    (UFZ) invited four transdisciplinary conceptual artists &ndash; Snow Paik, Steph
+    Joyce, Nike K&uuml;hn, and Julie Hart &ndash; to delve deeper into their artistic
+    exploration of biodiversity and ecological research during a three-month artist
+    residency. The exhibition &ldquo;From the Perspective of the Safety Net&rdquo;
+    showcased the results of the collaboration between the residency artists and various
+    iDiv scientists from multiple research fields, spanning investigations into physical
+    and mental health benefits of biodiversity on humans to global macroecology of
+    invasive plant species. The project was enabled by NFDI4Biodiversity.
+
+
+    This Zenodo publication contains the exhibition catalogue which documents the
+    residency, the exhibition and the artworks.'
+  license: cc-by-4.0
+  name: FROM THE PERSPECTIVE OF THE SAFETY NET. Documentation of the art residency
+    and exhibition 2023 organised by iDiv, UFZ and NFDI4Biodiversity
+  num_downloads: 1039
+  publication_date: '2023-09-06'
+  submission_date: '2026-07-14T15:26:17.321724'
+  url:
+  - https://zenodo.org/records/8263199
+  - https://doi.org/10.5281/zenodo.8263199
+- authors:
+  - Tschink, Daniel
+  - Ebert, Barbara
+  - Brand, Ortrun
+  description: 'The NFDI4Biodiversity Training and Education Report presents a comprehensive
+    overview of the advancements and achievements made by the NFDI4Biodiversity consortia
+    in their mission to enhance training and education in the realm of biodiversity
+    and environmental research. As part of the National Research Data Infrastructure,
+    this report showcases the consortium&#39;s dedication to promoting knowledge dissemination,
+    skill development, and collaboration within the vibrant field of biodiversity
+    and environmental science.&nbsp;Over the project years 2020 to 2023, our unwavering
+    commitment to fostering data management excellence, forging collaborations, and
+    raising awareness has driven a profound cultural shift towards more effective
+    data management practices in biodiversity research.
+
+
+    Readers are invited to explore the multifaceted strategies and milestones reached
+    by the consortium through two documents: the full-text report and an overview
+    slide. The report illuminates the diverse range of activities undertaken to nurture
+    a culture of learning and expertise exchange, fostering a dynamic network of researchers,
+    educators, and learners passionate about biodiversity preservation and exploration.'
+  license: cc-by-4.0
+  name: NFDI4Biodiversity - Training and Education Report
+  num_downloads: 492
+  publication_date: '2023-08-11'
+  submission_date: '2026-07-14T15:26:17.321803'
+  url:
+  - https://zenodo.org/records/8239319
+  - https://doi.org/10.5281/zenodo.8239319
+- authors:
+  - Röder, Juliane
+  - Fischer, Marlen
+  - Tschink, Daniel
+  - Brand, Ortrun
+  description: 'This&nbsp;publication showcases the NFDI4Biodiversity &amp; Gf&Ouml;
+    Winter School 2022, a transformative one-week course program designed to equip
+    young scientists with essential Research Data Management (RDM) skills tailored
+    for biodiversity and environmental data. Organized by the NFDI4Biodiversity consortium,
+    the Winter School&nbsp;fostered&nbsp;data literacy and promoted sustainable research
+    practices within the ecological and environmental science communities.
+
+
+    The publication offers an&nbsp;overview of the Winter School&#39;s structure,
+    curriculum, and highlights. Throughout the course, participants engaged in a series
+    of expert-led lectures and hands-on practical sessions, delivered by renowned
+    academics, data specialists, and research institutions in the biodiversity domain.
+    These sessions covered critical aspects of RDM, encompassing data collection,
+    curation, analysis, visualization, and long-term preservation.
+
+
+    The curriculum extensively explored state-of-the-art software tools for data handling,
+    including Jupyter notebook, R, Python, RightField, and OpenRefine. By providing
+    hands-on training with these tools, the Winter School empowered participants to
+    enhance their data management workflows and produce robust research outcomes.
+
+
+    Targeting PhD students&nbsp;and Early-Career Researchers, the Winter School nurtured
+    the next generation of scientists, equipping them with the necessary skills to
+    navigate the challenges posed by increasingly complex and diverse ecological datasets.
+
+
+    By sharing insights, lessons learned, and practical guidance, this publication
+    serves as an invaluable reference and guide for organizers, educators, and researchers
+    seeking to create impactful and inclusive training programs in research data management
+    for biodiversity and related studies.
+
+
+    The Winter School&#39;s legacy lies not only in the skills acquired by participants
+    but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental
+    science community. It exemplifies the commitment of NFDI4Biodiversity to advance
+    data-driven research and&nbsp;contribute to a more sustainable and biodiverse
+    planet.'
+  license: cc-by-4.0
+  name: Template for the NFDI4Biodiversity & GfÖ Winter School
+  num_downloads: 577
+  publication_date: '2023-08-08'
+  submission_date: '2026-07-14T15:26:17.321825'
+  url:
+  - https://zenodo.org/records/8221511
+  - https://doi.org/10.5281/zenodo.8221511
+- authors:
+  - Weibulat, Tanja
+  - Schwartz, Anna Lisa
+  - Seifert, Stefan
+  - Schmalzl, Markus
+  - Triebel, Dagmar
+  description: Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der
+    Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen
+    Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der
+    SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
+  license: cc-by-4.0
+  name: Was haben Mehltaupilze mit digitaler Langzeitarchivierung zu tun?
+  num_downloads: 368
+  publication_date: '2023-07-25'
+  submission_date: '2026-07-14T15:26:17.321863'
+  url:
+  - https://zenodo.org/records/8182883
+  - https://doi.org/10.5281/zenodo.8182883
+- authors:
+  - Puchta, Michael
+  - Schmalzl, Markus
+  description: 'Vortrag zur digitalen Langzeitarchivierung von Datenbanken im Rahmen
+    der Veranstaltung &quot;Database History - Histories of Datebasing and Databasing
+    of History&quot;: Vergleich zweier Archivierungskonzepte.'
+  license: cc-by-4.0
+  name: Archival Preservation of Digital Databases - Teilautomatisierung oder Standardformat?
+  num_downloads: 125
+  publication_date: '2023-07-10'
+  submission_date: '2026-07-14T15:26:17.321919'
+  url:
+  - https://zenodo.org/records/8131546
+  - https://doi.org/10.5281/zenodo.8131546
+- authors:
+  - Martin Zurowietz
+  description: 'Full Changelog: https://github.com/biigle/laravel-aruna-driver/compare/v1.0...v1.1'
+  license: mit-license
+  name: 'biigle/laravel-aruna-driver: v1.1'
+  num_downloads: 21
+  publication_date: '2023-05-17'
+  submission_date: '2026-07-14T15:26:17.321963'
+  url:
+  - https://zenodo.org/records/8059145
+  - https://doi.org/10.5281/zenodo.8059145
+- authors:
+  - Linares, Jimena
+  - Tschink, Daniel
+  - Timmermann, Britta
+  description: DMPs as part of the Data Cycle and to assess FAIRness in Research Data
+    Management
+  license: cc-by-4.0
+  name: DMPs as part of local organization for FAIRnes and policy compliance
+  num_downloads: 113
+  publication_date: '2022-12-20'
+  submission_date: '2026-07-14T15:26:17.322312'
+  url:
+  - https://zenodo.org/records/7462136
+  - https://doi.org/10.5281/zenodo.7462136
+- authors:
+  - Wilms, Michael
+  description: '
+
+    The article describes an unusual color morph of the dice snake (Natrix tessellata
+    var. flavescens) at Vrana Lake in Croatia. This variant displays a yellowish base
+    coloration, intense black speckling, and red eyes and tongue. Based on personal
+    field-herpetological observations and photographic documentation, the distribution,
+    morphology, and possible genetic stability of this form are discussed. In addition,
+    historical descriptions and taxonomic classifications from the scientific literature
+    are referenced to trace the development of knowledge regarding the &ldquo;flavescens&rdquo;
+    color morph. The contribution highlights the herpetological significance of the
+    habitat and points to open questions concerning genetics and species conservation.
+
+
+    Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474).
+    This version serves the purpose of digital archiving and free accessibility for
+    scientific and natural history audiences. The original article is available on
+    Zenodo under DOI: 10.5281/zenodo.17410521.
+
+
+    '
+  license: cc-by-sa-4.0
+  name: Yellow Dice Snakes at Vrana Lake in Croatia
+  num_downloads: 93
+  publication_date: '2025-10-23'
+  submission_date: '2026-07-14T15:26:17.322520'
+  url:
+  - https://zenodo.org/records/17422679
+  - https://doi.org/10.5281/zenodo.17422679
+- authors:
+  - Teich, Maximilian C.
+  description: 'The southern German kingdom of W&uuml;rttemberg was administratively
+    divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886,
+    the royal statistical office published one regional study on each of the districts,
+    including text descriptions of the local fauna.
+
+    The CSV data represent all species documented in these sources, with the name
+    of the district, the year of publication, the original text, the species names
+    as given in the original text, information on the presence of the species, a normalized
+    species name, and a GBIF identifier.
+
+    To reference the provided district names geographically, the GeoJSON data show
+    the borders of the districts as they appeared around 1848 in a map by Franz von
+    Mittnacht.'
+  license: cc-by-4.0
+  name: Dataset of Württemberg's 19th-century fauna
+  num_downloads: 412
+  publication_date: '2025-10-06'
+  submission_date: '2026-07-14T15:26:17.322539'
+  url:
+  - https://zenodo.org/records/17277242
+  - https://doi.org/10.5281/zenodo.17277242
+- authors:
+  - Ernst, Marcus
+  - Fichtmueller, David
+  description: 'Bioschemas profiles for data types establish comprehensive guidelines
+    that categorize properties into three distinct levels of implementation requirements:
+    Compulsory elements that must contain information, recommended properties that
+    should ideally be included, and optional attributes that may be added based on
+    specific use cases or data availability.
+
+    Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside
+    their assigned values within the current mapping version or their equivalent ABCD
+    2.06 counterparts. These ABCD 2.06 elements are represented using XPath notation.
+    Notably, the comprehensive mapping demonstrates that all mandatory Bioschemas
+    elements can be successfully addressed through direct mappings from the ABCD 2.06
+    standard.
+
+    The second table shows recommended properties that should ideally contain information
+    about a Dataset but are not strictly required, particularly in situations where
+    such information may be unavailable or inappropriate. The mapping analysis reveals
+    that the vast majority of recommended Bioschemas elements can be accommodated,
+    with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn)
+    remaining uncovered by the current mapping approach.
+
+    The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas
+    properties, detailing their sub-elements such as Text or URI in the second column.
+    The accompanying notes column provides detailed explanations regarding the necessity
+    and relevance of these mappings within the context of dataset search use cases.
+    It was found that only two elements have a potential benefit that might be considered
+    relevant for dataset search applications, though this benefit remains limited
+    and somewhat ambiguous.'
+  license: cc-by-4.0
+  name: 'Extended data for F1000 publication "Advancing FAIR Biodiversity Data: Bioschemas
+    Implementation in NFDI4Biodiversity"'
+  num_downloads: 124
+  publication_date: '2025-09-29'
+  submission_date: '2026-07-14T15:26:17.322573'
+  url:
+  - https://zenodo.org/records/17225216
+  - https://doi.org/10.5281/zenodo.17225216
