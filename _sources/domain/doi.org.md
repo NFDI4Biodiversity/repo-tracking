@@ -1,4 +1,4 @@
-# Doi.org (165)
+# Doi.org (170)
 ## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2025
 
 Singson, Lea Sophie
@@ -339,9 +339,9 @@ Licensed cc-by-4.0
 
 Vortrag zur digitalen Langzeitarchivierung von Datenbanken im Rahmen der Veranstaltung &quot;Database History - Histories of Datebasing and Databasing of History&quot;: Vergleich zweier Archivierungskonzepte.
 
-[https://zenodo.org/records/8133541](https://zenodo.org/records/8133541)
+[https://zenodo.org/records/8131546](https://zenodo.org/records/8131546)
 
-[https://doi.org/10.5281/zenodo.8133541](https://doi.org/10.5281/zenodo.8133541)
+[https://doi.org/10.5281/zenodo.8131546](https://doi.org/10.5281/zenodo.8131546)
 
 
 ---
@@ -411,9 +411,9 @@ In the spirit of our common interest to build what could become an international
 
 ## BioMe - The butterfly monitoring Germany usecase
 
-Harpke, Alexander, Brünecke, Jörg, Bohring, Hannes, Grescho, Volker, Haase, Kristina, Kühn, Elisabeth, Kuhnert, Tobias, Musche, Martin, Petruschke, Sven, Schnicke, Thomas, Sielaff, Daniel, Strätling, Jeremy, Voigt, Michael, Bumberger, Jan
+Harpke, Alexander, Brünecke, Jörg, Bohring, Hannes, Grescho, Volker, Haase, Kristina, Kühn, Elisabeth, Kuhnert, Tobias, Musche, Martin, Petruschke, Sven, Schnicke, Thomas, Sielaff, Daniel, Strätling, Jeremy, Bumberger, Jan
 
-Published 2024-08-28
+Published 2024-05-14
 
 Licensed cc-by-4.0
 
@@ -736,9 +736,29 @@ The AI-supported identification of butterflies was realised as part of the AI li
 
 
 
-[https://zenodo.org/records/13387849](https://zenodo.org/records/13387849)
+[https://zenodo.org/records/11190783](https://zenodo.org/records/11190783)
 
-[https://doi.org/10.5281/zenodo.13387849](https://doi.org/10.5281/zenodo.13387849)
+[https://doi.org/10.5281/zenodo.11190783](https://doi.org/10.5281/zenodo.11190783)
+
+
+---
+
+## Biodata Interest Group Workshop Report:  Strategic Alignment and Infrastructure Integration
+
+Ebert, Barbara, Ewert, Frank, Förstner, Konrad U., Glöckner, Frank Oliver, Keller, Christin, McHardy, Alice Carolyn, von Suchodoletz, Dirk, Weidtkamp-Peters, Stefanie, Baldenius, Marie Tovelill, Boße, Sophie, Ebeling, Mary-Ann, Engel, Judith, Gerber, Anja, Gillis, Rosalind, Hoffmann, Carsten, Mühlhaus, Timo, Röder, Juliane, Schmale Rodrigues, Cristina, Schmidt, Christian, Scholz, Uwe, Specka, Xenia, Vandendorpe, Justine, Wetzker, Cornelia
+
+Published 2026-07-13
+
+Licensed cc-by-4.0
+
+
+
+The NFDI&mdash;German National Research Data Infrastructure&mdash;consortia DataPLANT, FAIRagro, NFDI4Biodiversity, NFDI4BIOIMAGE, NFDI4Microbiota, and NFDI4Objects convened on April 15&ndash;16, 2026, at the Julius K&uuml;hn Institute in Berlin for the Biodata Interest Group workshop. The workshop served to operationalize the group's Memorandum of Understanding by identifying synergies in services, training, and infrastructure. Workshop discussions facilitated the exchange of perspectives on a potential strategic roadmap for 2026&ndash;2035, the exploration of functional data modalities for cross-consortial integration, and the identification of areas for future coordination to support a more sustainable and collaborative research data infrastructure in the biological sciences.
+This report summarizes the workshop&rsquo;s collaborative mapping, discussion sessions, and the resulting shared interests for the Biodata Interest Group.
+
+[https://zenodo.org/records/21235788](https://zenodo.org/records/21235788)
+
+[https://doi.org/10.5281/zenodo.21235788](https://doi.org/10.5281/zenodo.21235788)
 
 
 ---
@@ -975,6 +995,25 @@ The first step in the data life cycle involves planning. A data management plan 
 
 ---
 
+## DMPs as part of local organization for FAIRnes and policy compliance
+
+Linares, Jimena, Tschink, Daniel, Timmermann, Britta
+
+Published 2022-12-20
+
+Licensed cc-by-4.0
+
+
+
+DMPs as part of the Data Cycle and to assess FAIRness in Research Data Management
+
+[https://zenodo.org/records/7462136](https://zenodo.org/records/7462136)
+
+[https://doi.org/10.5281/zenodo.7462136](https://doi.org/10.5281/zenodo.7462136)
+
+
+---
+
 ## DMPs as part of local organization for FAIRness and policy compliance
 
 Linares, Jimena, Tschink, Daniel, Timmermann, Britta
@@ -1034,37 +1073,37 @@ Das NFDI4Biodiversity-Konsortium besteht aus einem Netzwerk von Ressourcen-Anbie
 
 Scherer, Cédric
 
-Published 2025-10-09
+Published 2024-12-01
 
 Licensed cc-by-4.0
 
 
 
-The slides, R script, and Jupyter notebook for the workshop lesson "Data Analysis &amp; Visualisation According to FAIR Principles" as part of the "NFDI4Biodiversity Seasonal School 2024" and the subsequent edition as part of the follow-up course "NFDI4Biodiversity &amp; HeFDI &amp; iDiv Seasonal School 2025".&nbsp;
-The lesson covers the principles of the data science workflow, using R and the tidyverse, with a focus on data visualization principles and the grammar of graphics with the ggplot2 package.
+The slides and R script for the workshop lesson "Data Analysis &amp; Visualisation According to FAIR Principles" as part of the NFDI4Biodiversity Seasonal School 2024. The lesson covers the principles of the data science workflow, using R and the tidyverse, with a focus on data visualization principles and the grammar of graphics with the ggplot2 package.
 
-[https://zenodo.org/records/17303036](https://zenodo.org/records/17303036)
+[https://zenodo.org/records/14254186](https://zenodo.org/records/14254186)
 
-[https://doi.org/10.5281/zenodo.17303036](https://doi.org/10.5281/zenodo.17303036)
+[https://doi.org/10.5281/zenodo.14254186](https://doi.org/10.5281/zenodo.14254186)
 
 
 ---
 
 ## Data Management and Data Literacy
 
-Kostadinov, Ivaylo, Tschink, Daniel
+Kostadinov, Ivaylo, Tschink, Daniel, Linares Gómez, Jimena
 
-Published 2023-11-06
+Published 2025-04-02
 
 Licensed cc-by-4.0
 
 
 
-This presentation at the NFDI4Biodiversity &amp; GfÖ Winter School 2022 focused on the fundamentals of Data Management and Data Literacy in the context of biodiversity research. Attendees gained insights into best practices for data collection, storage, sharing, and preservation. Further, the presentation emphasized the vital roles of NFDI4Biodiversity and GFBio services in fostering data-driven research, supporting data curation, and promoting a culture of data literacy within the biodiversity community.
+This lecture was part of&nbsp;the NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science introduces key principles of data management and data literacy, emphasizing best practices for organizing, storing, and handling data according to FAIR principles. You will explore various data types in biodiversity and environmental science and learn how to align your research data management (RDM) strategies with funding requirements and institutional policies.
+The&nbsp;NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science&nbsp;was a collaboration between the&nbsp;German Centre for Integrative Biodiversity Research (iDiv)&nbsp;and the&nbsp;NFDI4Biodiversity consortium. This course offered cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combined direct knowledge transfer with practical lessons to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
 
-[https://zenodo.org/records/10075417](https://zenodo.org/records/10075417)
+[https://zenodo.org/records/15124025](https://zenodo.org/records/15124025)
 
-[https://doi.org/10.5281/zenodo.10075417](https://doi.org/10.5281/zenodo.10075417)
+[https://doi.org/10.5281/zenodo.15124025](https://doi.org/10.5281/zenodo.15124025)
 
 
 ---
@@ -1137,6 +1176,27 @@ The NFDI4Biodiversity consortium provides support, services and tools for everyo
 [https://zenodo.org/records/11207886](https://zenodo.org/records/11207886)
 
 [https://doi.org/10.5281/zenodo.11207886](https://doi.org/10.5281/zenodo.11207886)
+
+
+---
+
+## Dataset of Württemberg's 19th-century fauna
+
+Teich, Maximilian C.
+
+Published 2025-10-06
+
+Licensed cc-by-4.0
+
+
+
+The southern German kingdom of W&uuml;rttemberg was administratively divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886, the royal statistical office published one regional study on each of the districts, including text descriptions of the local fauna.
+The CSV data represent all species documented in these sources, with the name of the district, the year of publication, the original text, the species names as given in the original text, information on the presence of the species, a normalized species name, and a GBIF identifier.
+To reference the provided district names geographically, the GeoJSON data show the borders of the districts as they appeared around 1848 in a map by Franz von Mittnacht.
+
+[https://zenodo.org/records/17277242](https://zenodo.org/records/17277242)
+
+[https://doi.org/10.5281/zenodo.17277242](https://doi.org/10.5281/zenodo.17277242)
 
 
 ---
@@ -1328,7 +1388,7 @@ Die hier gezeigten Tools unterst&uuml;tzen verl&auml;ssliche, nachvollziehbare T
 
 Ernst, Marcus, Fichtmueller, David
 
-Published 2025-10-02
+Published 2025-09-29
 
 Licensed cc-by-4.0
 
@@ -1339,9 +1399,9 @@ Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside
 The second table shows recommended properties that should ideally contain information about a Dataset but are not strictly required, particularly in situations where such information may be unavailable or inappropriate. The mapping analysis reveals that the vast majority of recommended Bioschemas elements can be accommodated, with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn) remaining uncovered by the current mapping approach.
 The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas properties, detailing their sub-elements such as Text or URI in the second column. The accompanying notes column provides detailed explanations regarding the necessity and relevance of these mappings within the context of dataset search use cases. It was found that only two elements have a potential benefit that might be considered relevant for dataset search applications, though this benefit remains limited and somewhat ambiguous.
 
-[https://zenodo.org/records/17253705](https://zenodo.org/records/17253705)
+[https://zenodo.org/records/17225216](https://zenodo.org/records/17225216)
 
-[https://doi.org/10.5281/zenodo.17253705](https://doi.org/10.5281/zenodo.17253705)
+[https://doi.org/10.5281/zenodo.17225216](https://doi.org/10.5281/zenodo.17225216)
 
 
 ---
@@ -1379,9 +1439,9 @@ In spring 2023, the German Centre for Integrative Biodiversity Research (iDiv) H
 
 This Zenodo publication contains the exhibition catalogue which documents the residency, the exhibition and the artworks.
 
-[https://zenodo.org/records/8335238](https://zenodo.org/records/8335238)
+[https://zenodo.org/records/8263199](https://zenodo.org/records/8263199)
 
-[https://doi.org/10.5281/zenodo.8335238](https://doi.org/10.5281/zenodo.8335238)
+[https://doi.org/10.5281/zenodo.8263199](https://doi.org/10.5281/zenodo.8263199)
 
 
 ---
@@ -1474,7 +1534,7 @@ The poster was presented on the NFDI4Biodiversity All Hands Conference in Munich
 
 Weibulat, Tanja Melanie, Triebel, Dagmar
 
-Published 2025-07-24
+Published 2025-07-22
 
 Licensed cc-by-4.0
 
@@ -1482,9 +1542,9 @@ Licensed cc-by-4.0
 
 This lecture was part of the agenda of the 17th meeting of the participant nodes from GBIF Europe and Central Asia (GBIF ECA) and held by German node staff members in Waterford, Ireland (20 May 2025 - 23 May 2025). It describes the situation of the Global Information Facility (GBIF) in Germany in relation to a distributed national network of established data centers at recognized life and nature science organisations. The federated GBIF-D Node system in Germany works technically and organizationally closely together with the German National Research Data Infrastructure (NFDI), GFBio e.V. and NFDI4Biodiversity consortium (supported by the German Research Foundation DFG under the grant agreement number 442032008). This cooperation started in 2013 and facilitates activities in data hosting, data mobilisation and preservation. It is strengthening the efforts of the node to train data management and build informatics capacity, e.g., at the International Training Centre &nbsp;for Environmental Research, ITCER Kenya.
 
-[https://zenodo.org/records/16412325](https://zenodo.org/records/16412325)
+[https://zenodo.org/records/16332169](https://zenodo.org/records/16332169)
 
-[https://doi.org/10.5281/zenodo.16412325](https://doi.org/10.5281/zenodo.16412325)
+[https://doi.org/10.5281/zenodo.16332169](https://doi.org/10.5281/zenodo.16332169)
 
 
 ---
@@ -1631,18 +1691,18 @@ The poster was presented at the NFDI4Biodiversity All Hands Conference in Munich
 
 Rehbein, Malte, Escobari Vargas, Andrea Belen, Fischer, Sarah, Güntsch, Anton, Haas, Bettina, Matheisen, Giada, Perschl, Tobias, Wieshuber, Alois, Engel, Thore
 
-Published 2024-12-13
+Published 2024-10-07
 
 Licensed cc-by-4.0
 
 
 
-In 1845, under the scientific direction of Andreas Wagner, the Bavarian government recorded the occurrence of 44 selected vertebrate species across the entire country. To this end, Wagner had a survey questionnaire sent to all 119 forestry offices in the state. The foresters' responses were now systematically recorded and analyzed for the first time. This data set represents the result of this survey. Among other things, it contains 5,467 geo-coded animal observation data.
+In 1845, under the scientific direction of Andreas Wagner, the Bavarian government recorded the occurrence of 44 selected vertebrate species across the entire country. To this end, Wagner had a survey questionnaire sent to all 119 forestry offices in the state. The foresters' responses were now systematically recorded and analyzed for the first time. This data set represents the result of this survey. Among other things, it contains 5,464 geo-coded animal observation data.
 The data is the result of an interdisciplinary collaboration between scientists from the Chair of Computational Humanities at the University of Passau, the Directorate General of the Bavarian State Archives Munich, the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, the Center for Biodiversity Informatics and Collection Data Integration at the Botanical Garden Berlin, and the NFDI4Biodiversity consortium.
 
-[https://zenodo.org/records/14452998](https://zenodo.org/records/14452998)
+[https://zenodo.org/records/13899541](https://zenodo.org/records/13899541)
 
-[https://doi.org/10.5281/zenodo.14452998](https://doi.org/10.5281/zenodo.14452998)
+[https://doi.org/10.5281/zenodo.13899541](https://doi.org/10.5281/zenodo.13899541)
 
 
 ---
@@ -1810,19 +1870,40 @@ Contact: forschungsdaten@uni-kassel.de&nbsp;
 
 ---
 
-## Investigating Biodiversity Data Using Open-Access Databases
+## Introduction to research data management
 
-Kusch, Erik
+Röder, Juliane
 
-Published 2025-03-27
+Published 2024-05-21
 
 Licensed cc-by-4.0
 
 
 
-[https://zenodo.org/records/15097622](https://zenodo.org/records/15097622)
+In this 1 h talk, Juliane R&ouml;der introduced students of the "Biodiversity and Conservation" master's program of the Philipps University of Marburg to basic aspects of research data management.
+The first part discusses motivations and solutions for improved research data management specific for ecological and biodiversity data. The second part gives an overview of simple, hands-on improvements of research data management along the data life cycle. Many of the discipline specific tools and services presented in the talk are provided by the NFDI4Biodiversity consortium. Included is also an overview of generic tools and services provided by the local eResearch Center of the Philipps University of Marburg in close collaboration with the Hessian Research Data Infrastructures (HeFDI).
+For further details on research data management for biodiversity data, feel free to take a look at the available NFDI4Biodiversity training resources as well as information on the HeFDI initiative and the eResearch Center of the University of Marburg.
 
-[https://doi.org/10.5281/zenodo.15097622](https://doi.org/10.5281/zenodo.15097622)
+[https://zenodo.org/records/11235458](https://zenodo.org/records/11235458)
+
+[https://doi.org/10.5281/zenodo.11235458](https://doi.org/10.5281/zenodo.11235458)
+
+
+---
+
+## Investigating Biodiversity Data Using Open-Access Databases
+
+Kusch, Erik
+
+Published 2024-12-01
+
+Licensed cc-by-4.0
+
+
+
+[https://zenodo.org/records/14254042](https://zenodo.org/records/14254042)
+
+[https://doi.org/10.5281/zenodo.14254042](https://doi.org/10.5281/zenodo.14254042)
 
 
 ---
@@ -2330,9 +2411,9 @@ The NFDI4Biodiversity Training and Education Report presents a comprehensive ove
 
 Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
 
-[https://zenodo.org/records/8271924](https://zenodo.org/records/8271924)
+[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
 
-[https://doi.org/10.5281/zenodo.8271924](https://doi.org/10.5281/zenodo.8271924)
+[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
 
 
 ---
@@ -3246,18 +3327,17 @@ An up-to-date version of this material is also available on GitHub: https://gith
 
 Schellenberger Costa, David
 
-Published 2025-10-14
+Published 2024-11-26
 
 Licensed cc-by-4.0
 
 
 
-The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was initially created for the NFDI Seasonal School 2024. The 2025 update features small adaptations and improvements to the jupyter notebooks, reflecting changes in the GBIF API and/or rgbif R package and comments from users. Additionally, the presentation on the topic has been greatly expanded including a full walkthrough of the name parsing and name resolution workbooks.
-For those not wanting to use jupyter notebooks the html files provide the same content as the ipynb files including results of computations, they are just not interactive.
+The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was created for the NFDI Seasonal School 2024.
 
-[https://zenodo.org/records/17350117](https://zenodo.org/records/17350117)
+[https://zenodo.org/records/14224726](https://zenodo.org/records/14224726)
 
-[https://doi.org/10.5281/zenodo.17350117](https://doi.org/10.5281/zenodo.17350117)
+[https://doi.org/10.5281/zenodo.14224726](https://doi.org/10.5281/zenodo.14224726)
 
 
 ---
@@ -3303,9 +3383,9 @@ By sharing insights, lessons learned, and practical guidance, this publication s
 
 The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
 
-[https://zenodo.org/records/8272156](https://zenodo.org/records/8272156)
+[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
 
-[https://doi.org/10.5281/zenodo.8272156](https://doi.org/10.5281/zenodo.8272156)
+[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
 
 
 ---
@@ -3634,9 +3714,9 @@ Licensed cc-by-4.0
 
 Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
 
-[https://zenodo.org/records/8268840](https://zenodo.org/records/8268840)
+[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
 
-[https://doi.org/10.5281/zenodo.8268840](https://doi.org/10.5281/zenodo.8268840)
+[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
 
 
 ---
@@ -3761,9 +3841,9 @@ Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). Th
 
 
 
-[https://zenodo.org/records/17424079](https://zenodo.org/records/17424079)
+[https://zenodo.org/records/17422679](https://zenodo.org/records/17422679)
 
-[https://doi.org/10.5281/zenodo.17424079](https://doi.org/10.5281/zenodo.17424079)
+[https://doi.org/10.5281/zenodo.17422679](https://doi.org/10.5281/zenodo.17422679)
 
 
 ---
@@ -3826,6 +3906,25 @@ Full Changelog: https://github.com/biigle/flysystem-aruna/commits/v1.0
 [https://zenodo.org/records/8059139](https://zenodo.org/records/8059139)
 
 [https://doi.org/10.5281/zenodo.8059139](https://doi.org/10.5281/zenodo.8059139)
+
+
+---
+
+## biigle/laravel-aruna-driver: v1.1
+
+Martin Zurowietz
+
+Published 2023-05-17
+
+Licensed mit-license
+
+
+
+Full Changelog: https://github.com/biigle/laravel-aruna-driver/compare/v1.0...v1.1
+
+[https://zenodo.org/records/8059145](https://zenodo.org/records/8059145)
+
+[https://doi.org/10.5281/zenodo.8059145](https://doi.org/10.5281/zenodo.8059145)
 
 
 ---

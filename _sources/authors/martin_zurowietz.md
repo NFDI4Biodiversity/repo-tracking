@@ -1,4 +1,4 @@
-# Martin zurowietz (6)
+# Martin zurowietz (7)
 ## BIIGLE: Bild- und Videoannotation für die Biodiversitätsforschung
 
 Martin Zurowietz, Jens Stoye, Tim W. Nattkemper
@@ -103,6 +103,25 @@ Full Changelog: https://github.com/biigle/flysystem-aruna/commits/v1.0
 [https://zenodo.org/records/8059139](https://zenodo.org/records/8059139)
 
 [https://doi.org/10.5281/zenodo.8059139](https://doi.org/10.5281/zenodo.8059139)
+
+
+---
+
+## biigle/laravel-aruna-driver: v1.1
+
+Martin Zurowietz
+
+Published 2023-05-17
+
+Licensed mit-license
+
+
+
+Full Changelog: https://github.com/biigle/laravel-aruna-driver/compare/v1.0...v1.1
+
+[https://zenodo.org/records/8059145](https://zenodo.org/records/8059145)
+
+[https://doi.org/10.5281/zenodo.8059145](https://doi.org/10.5281/zenodo.8059145)
 
 
 ---

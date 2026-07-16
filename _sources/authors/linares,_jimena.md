@@ -1,4 +1,4 @@
-# Linares, jimena (10)
+# Linares, jimena (11)
 ## A Data Management Plan (DMP) for my research? Do I need one?
 
 Linares, Jimena
@@ -56,6 +56,25 @@ The NFDI4Bio &amp; iDiv Seasonal School on Data Management in Biodiversity and E
 [https://zenodo.org/records/14162304](https://zenodo.org/records/14162304)
 
 [https://doi.org/10.5281/zenodo.14162304](https://doi.org/10.5281/zenodo.14162304)
+
+
+---
+
+## DMPs as part of local organization for FAIRnes and policy compliance
+
+Linares, Jimena, Tschink, Daniel, Timmermann, Britta
+
+Published 2022-12-20
+
+Licensed cc-by-4.0
+
+
+
+DMPs as part of the Data Cycle and to assess FAIRness in Research Data Management
+
+[https://zenodo.org/records/7462136](https://zenodo.org/records/7462136)
+
+[https://doi.org/10.5281/zenodo.7462136](https://doi.org/10.5281/zenodo.7462136)
 
 
 ---

@@ -60,9 +60,9 @@ The NFDI4Biodiversity Training and Education Report presents a comprehensive ove
 
 Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
 
-[https://zenodo.org/records/8271924](https://zenodo.org/records/8271924)
+[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
 
-[https://doi.org/10.5281/zenodo.8271924](https://doi.org/10.5281/zenodo.8271924)
+[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
 
 
 ---
@@ -205,9 +205,9 @@ By sharing insights, lessons learned, and practical guidance, this publication s
 
 The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
 
-[https://zenodo.org/records/8272156](https://zenodo.org/records/8272156)
+[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
 
-[https://doi.org/10.5281/zenodo.8272156](https://doi.org/10.5281/zenodo.8272156)
+[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
 
 
 ---

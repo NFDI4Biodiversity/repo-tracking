@@ -11,9 +11,9 @@ Licensed cc-by-4.0
 
 Vortrag zur digitalen Langzeitarchivierung von Datenbanken im Rahmen der Veranstaltung &quot;Database History - Histories of Datebasing and Databasing of History&quot;: Vergleich zweier Archivierungskonzepte.
 
-[https://zenodo.org/records/8133541](https://zenodo.org/records/8133541)
+[https://zenodo.org/records/8131546](https://zenodo.org/records/8131546)
 
-[https://doi.org/10.5281/zenodo.8133541](https://doi.org/10.5281/zenodo.8133541)
+[https://doi.org/10.5281/zenodo.8131546](https://doi.org/10.5281/zenodo.8131546)
 
 
 ---
@@ -112,9 +112,9 @@ Licensed cc-by-4.0
 
 Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
 
-[https://zenodo.org/records/8268840](https://zenodo.org/records/8268840)
+[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
 
-[https://doi.org/10.5281/zenodo.8268840](https://doi.org/10.5281/zenodo.8268840)
+[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
 
 
 ---

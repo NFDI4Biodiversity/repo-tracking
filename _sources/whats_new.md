@@ -1,19 +1,59 @@
 # Recently added (10)
-## Data Policies: A Sustainability Checklist
+## Archival Preservation of Digital Databases - Teilautomatisierung oder Standardformat?
 
-Parolini, Giuditta
+Puchta, Michael, Schmalzl, Markus
 
-Published 2025-11-21
+Published 2023-07-10
 
 Licensed cc-by-4.0
 
 
 
-Poster presented at the conference NFDI4Biodiversity meets NFDI4Earth &ndash; Joint Plenary 2025.
+Vortrag zur digitalen Langzeitarchivierung von Datenbanken im Rahmen der Veranstaltung &quot;Database History - Histories of Datebasing and Databasing of History&quot;: Vergleich zweier Archivierungskonzepte.
 
-[https://zenodo.org/records/17674043](https://zenodo.org/records/17674043)
+[https://zenodo.org/records/8131546](https://zenodo.org/records/8131546)
 
-[https://doi.org/10.5281/zenodo.17674043](https://doi.org/10.5281/zenodo.17674043)
+[https://doi.org/10.5281/zenodo.8131546](https://doi.org/10.5281/zenodo.8131546)
+
+
+---
+
+## DMPs as part of local organization for FAIRnes and policy compliance
+
+Linares, Jimena, Tschink, Daniel, Timmermann, Britta
+
+Published 2022-12-20
+
+Licensed cc-by-4.0
+
+
+
+DMPs as part of the Data Cycle and to assess FAIRness in Research Data Management
+
+[https://zenodo.org/records/7462136](https://zenodo.org/records/7462136)
+
+[https://doi.org/10.5281/zenodo.7462136](https://doi.org/10.5281/zenodo.7462136)
+
+
+---
+
+## Dataset of Württemberg's 19th-century fauna
+
+Teich, Maximilian C.
+
+Published 2025-10-06
+
+Licensed cc-by-4.0
+
+
+
+The southern German kingdom of W&uuml;rttemberg was administratively divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886, the royal statistical office published one regional study on each of the districts, including text descriptions of the local fauna.
+The CSV data represent all species documented in these sources, with the name of the district, the year of publication, the original text, the species names as given in the original text, information on the presence of the species, a normalized species name, and a GBIF identifier.
+To reference the provided district names geographically, the GeoJSON data show the borders of the districts as they appeared around 1848 in a map by Franz von Mittnacht.
+
+[https://zenodo.org/records/17277242](https://zenodo.org/records/17277242)
+
+[https://doi.org/10.5281/zenodo.17277242](https://doi.org/10.5281/zenodo.17277242)
 
 
 ---
@@ -22,7 +62,7 @@ Poster presented at the conference NFDI4Biodiversity meets NFDI4Earth &ndash; Jo
 
 Ernst, Marcus, Fichtmueller, David
 
-Published 2025-10-02
+Published 2025-09-29
 
 Licensed cc-by-4.0
 
@@ -33,124 +73,99 @@ Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside
 The second table shows recommended properties that should ideally contain information about a Dataset but are not strictly required, particularly in situations where such information may be unavailable or inappropriate. The mapping analysis reveals that the vast majority of recommended Bioschemas elements can be accommodated, with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn) remaining uncovered by the current mapping approach.
 The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas properties, detailing their sub-elements such as Text or URI in the second column. The accompanying notes column provides detailed explanations regarding the necessity and relevance of these mappings within the context of dataset search use cases. It was found that only two elements have a potential benefit that might be considered relevant for dataset search applications, though this benefit remains limited and somewhat ambiguous.
 
-[https://zenodo.org/records/17253705](https://zenodo.org/records/17253705)
+[https://zenodo.org/records/17225216](https://zenodo.org/records/17225216)
 
-[https://doi.org/10.5281/zenodo.17253705](https://doi.org/10.5281/zenodo.17253705)
+[https://doi.org/10.5281/zenodo.17225216](https://doi.org/10.5281/zenodo.17225216)
 
 
 ---
 
-## Interactive species habitat analysis
+## FROM THE PERSPECTIVE OF THE SAFETY NET. Documentation of the art residency and exhibition 2023 organised by iDiv, UFZ and NFDI4Biodiversity
 
-Seeger, Bernhard, Brandenstein, Dominik, Dümpelmann, Henri
+Köpke, Robert, Wolf, Sophie, Koppernock, Maximilian, Engel,Thore
 
-Published 2024-04-30
+Published 2023-09-06
 
 Licensed cc-by-4.0
 
 
 
+In spring 2023, the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig and the Helmholtz Center for Environmental Research (UFZ) invited four transdisciplinary conceptual artists &ndash; Snow Paik, Steph Joyce, Nike K&uuml;hn, and Julie Hart &ndash; to delve deeper into their artistic exploration of biodiversity and ecological research during a three-month artist residency. The exhibition &ldquo;From the Perspective of the Safety Net&rdquo; showcased the results of the collaboration between the residency artists and various iDiv scientists from multiple research fields, spanning investigations into physical and mental health benefits of biodiversity on humans to global macroecology of invasive plant species. The project was enabled by NFDI4Biodiversity.
 
+This Zenodo publication contains the exhibition catalogue which documents the residency, the exhibition and the artworks.
 
+[https://zenodo.org/records/8263199](https://zenodo.org/records/8263199)
 
-
-VAT is a web-based GIS application backed by Geo Engine that enables researchers to visualize, analyze, and transform geospatial vector and raster data. The application allows for the creation of complex workflows with ease. An example use-case, 'Canis Lupus meets Felis silvestris,' demonstrates the ability to quickly and easily create an interactive habitat analysis based on the Ökosystematlas in just a few steps.
-
-
-
-
-
-[https://zenodo.org/records/11094085](https://zenodo.org/records/11094085)
-
-[https://doi.org/10.5281/zenodo.11094085](https://doi.org/10.5281/zenodo.11094085)
+[https://doi.org/10.5281/zenodo.8263199](https://doi.org/10.5281/zenodo.8263199)
 
 
 ---
 
-## Legal aspects in research data management: Data Licensing and Copyright
+## NFDI4Biodiversity - Training and Education Report
 
-Schindler, Uwe
+Tschink, Daniel, Ebert, Barbara, Brand, Ortrun
 
-Published 2024-12-03
+Published 2023-08-11
 
 Licensed cc-by-4.0
 
 
 
-Open Source Software licenses have a long history going back to the early 80s with the GNU Manifesto by Richard Stallman. In this talk, Uwe Schindler will give a short history of Open Source Software licenses and how they influenced licenses for sharing and publishing data. He will then present an overview about suitable licenses from the Creative Commons (CC) stack of licenses, while mentioning some of the licensing / copyright issues that may affect users and publishers in some legislatives. This talk will summarize the important aspects of copyright law with regards to &ldquo;scientific data&rdquo; and &ldquo;threshold of originality&rdquo;, and will explain how licensing works for newcomers of FAIR data publishing (but not as legal advice).
+The NFDI4Biodiversity Training and Education Report presents a comprehensive overview of the advancements and achievements made by the NFDI4Biodiversity consortia in their mission to enhance training and education in the realm of biodiversity and environmental research. As part of the National Research Data Infrastructure, this report showcases the consortium&#39;s dedication to promoting knowledge dissemination, skill development, and collaboration within the vibrant field of biodiversity and environmental science.&nbsp;Over the project years 2020 to 2023, our unwavering commitment to fostering data management excellence, forging collaborations, and raising awareness has driven a profound cultural shift towards more effective data management practices in biodiversity research.
 
-[https://zenodo.org/records/14268397](https://zenodo.org/records/14268397)
+Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
 
-[https://doi.org/10.5281/zenodo.14268397](https://doi.org/10.5281/zenodo.14268397)
+[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
+
+[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
 
 
 ---
 
-## Mapping to (Bio)schema(s).org from ABCD2.06 for Dataset Search
+## Template for the NFDI4Biodiversity & GfÖ Winter School
 
-Ernst, Marcus, Fichtmueller, David
+Röder, Juliane, Fischer, Marlen, Tschink, Daniel, Brand, Ortrun
 
-Published 2025-09-01
+Published 2023-08-08
 
 Licensed cc-by-4.0
 
 
 
-This table systematically documents how elements of the ABCD 2.06 vocabulary for biodiversity datasets are translated into Bioschemas (and schema.org) properties and types to support NFDI4Biodiversity's aim of FAIRifying biodiversity data and beyond.&nbsp;
-Structure
-Each row corresponds to one ABCD element - organized by functional "Element Group" - and shows:
+This&nbsp;publication showcases the NFDI4Biodiversity &amp; Gf&Ouml; Winter School 2022, a transformative one-week course program designed to equip young scientists with essential Research Data Management (RDM) skills tailored for biodiversity and environmental data. Organized by the NFDI4Biodiversity consortium, the Winter School&nbsp;fostered&nbsp;data literacy and promoted sustainable research practices within the ecological and environmental science communities.
 
-ABCD 2.06 Element: XML path for that element in the ABCD schema
-Element URI: Uniform Resource Identifier for that ABCD element
-Bioschemas/schema.org Property: equivalent schema.org or Bioschemas property
-Bioschemas/schema.org (Data)Types: expected types for that property (e.g., Text, URL, Person, BioSample, Taxon, GeoCoordinates)
-Description: concise explanation of the element's meaning
-Mapping Notes: implementation guidance
+The publication offers an&nbsp;overview of the Winter School&#39;s structure, curriculum, and highlights. Throughout the course, participants engaged in a series of expert-led lectures and hands-on practical sessions, delivered by renowned academics, data specialists, and research institutions in the biodiversity domain. These sessions covered critical aspects of RDM, encompassing data collection, curation, analysis, visualization, and long-term preservation.
 
-Purpose
-In essence, the mapping table translates ABCD 2.06 into schema.org/Bioschemas markup to enhance dataset discoverability. For this, it maps ABCD:Dataset-level information to Bioschemas:Dataset properties while simultaneously aggregating and summarizing ABCD:Unit-level specimen data in a reasonable way. This structured metadata approach enables search platforms - including NFDI4Biodiversity's consortium-wide discovery infrastructure and Google Dataset Search - to effectively index, retrieve, and present biodiversity datasets to researchers and practitioners seeking relevant data for their work.
+The curriculum extensively explored state-of-the-art software tools for data handling, including Jupyter notebook, R, Python, RightField, and OpenRefine. By providing hands-on training with these tools, the Winter School empowered participants to enhance their data management workflows and produce robust research outcomes.
 
-[https://zenodo.org/records/17019239](https://zenodo.org/records/17019239)
+Targeting PhD students&nbsp;and Early-Career Researchers, the Winter School nurtured the next generation of scientists, equipping them with the necessary skills to navigate the challenges posed by increasingly complex and diverse ecological datasets.
 
-[https://doi.org/10.5281/zenodo.17019239](https://doi.org/10.5281/zenodo.17019239)
+By sharing insights, lessons learned, and practical guidance, this publication serves as an invaluable reference and guide for organizers, educators, and researchers seeking to create impactful and inclusive training programs in research data management for biodiversity and related studies.
+
+The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
+
+[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
+
+[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
 
 
 ---
 
-## NFDI4Biodiversity x Bioschemas - Achievements, Mapping Gaps, and Community Requests
+## Was haben Mehltaupilze mit digitaler Langzeitarchivierung zu tun?
 
-Ernst, Marcus
+Weibulat, Tanja, Schwartz, Anna Lisa, Seifert, Stefan, Schmalzl, Markus, Triebel, Dagmar
 
-Published 2026-06-03
+Published 2023-07-25
 
 Licensed cc-by-4.0
 
 
 
-This presentation outlines the results of the work carried out by the Bioschemas Implementation Interest Group in NFDI4Biodiversity.&nbsp;
+Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
 
-[https://zenodo.org/records/20528163](https://zenodo.org/records/20528163)
+[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
 
-[https://doi.org/10.5281/zenodo.20528163](https://doi.org/10.5281/zenodo.20528163)
-
-
----
-
-## Sustainability in Biodiversity Science
-
-Parolini, Giuditta, Petersen, Mareike
-
-Published 2024-07-10
-
-Licensed cc-by-4.0
-
-
-
-Poster presented at NFDI4Biodiversity All Hands Conference (2024).
-
-[https://zenodo.org/records/12705118](https://zenodo.org/records/12705118)
-
-[https://doi.org/10.5281/zenodo.12705118](https://doi.org/10.5281/zenodo.12705118)
+[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
 
 
 ---
@@ -172,48 +187,28 @@ Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). Th
 
 
 
-[https://zenodo.org/records/17424079](https://zenodo.org/records/17424079)
+[https://zenodo.org/records/17422679](https://zenodo.org/records/17422679)
 
-[https://doi.org/10.5281/zenodo.17424079](https://doi.org/10.5281/zenodo.17424079)
-
-
----
-
-## biigle/biigle4beginners: v0.1.0
-
-Martin Zurowietz
-
-Published 2026-06-02
-
-Licensed cc-by-4.0
-
-
-
-Pre-release.
-Full Changelog: https://github.com/biigle/biigle4beginners/commits/v0.1.0
-
-[https://zenodo.org/records/20505832](https://zenodo.org/records/20505832)
-
-[https://doi.org/10.5281/zenodo.20505832](https://doi.org/10.5281/zenodo.20505832)
+[https://doi.org/10.5281/zenodo.17422679](https://doi.org/10.5281/zenodo.17422679)
 
 
 ---
 
-## biigle/biigle4beginners: v1.0.0
+## biigle/laravel-aruna-driver: v1.1
 
 Martin Zurowietz
 
-Published 2026-06-16
+Published 2023-05-17
 
-Licensed cc-by-4.0
+Licensed mit-license
 
 
 
-Full Changelog: https://github.com/biigle/biigle4beginners/compare/v0.1.0...v1.0.0
+Full Changelog: https://github.com/biigle/laravel-aruna-driver/compare/v1.0...v1.1
 
-[https://zenodo.org/records/20718316](https://zenodo.org/records/20718316)
+[https://zenodo.org/records/8059145](https://zenodo.org/records/8059145)
 
-[https://doi.org/10.5281/zenodo.20718316](https://doi.org/10.5281/zenodo.20718316)
+[https://doi.org/10.5281/zenodo.8059145](https://doi.org/10.5281/zenodo.8059145)
 
 
 ---

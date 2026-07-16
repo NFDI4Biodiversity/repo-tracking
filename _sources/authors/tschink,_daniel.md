@@ -1,4 +1,4 @@
-# Tschink, daniel (16)
+# Tschink, daniel (17)
 ## DMPs as part of local organisation, for FAIRness and policy compliance
 
 Linares Jimena, Tschink, Daniel
@@ -14,6 +14,25 @@ The first step in the data life cycle involves planning. A data management plan 
 [https://zenodo.org/records/7638635](https://zenodo.org/records/7638635)
 
 [https://doi.org/10.5281/zenodo.7638635](https://doi.org/10.5281/zenodo.7638635)
+
+
+---
+
+## DMPs as part of local organization for FAIRnes and policy compliance
+
+Linares, Jimena, Tschink, Daniel, Timmermann, Britta
+
+Published 2022-12-20
+
+Licensed cc-by-4.0
+
+
+
+DMPs as part of the Data Cycle and to assess FAIRness in Research Data Management
+
+[https://zenodo.org/records/7462136](https://zenodo.org/records/7462136)
+
+[https://doi.org/10.5281/zenodo.7462136](https://doi.org/10.5281/zenodo.7462136)
 
 
 ---
@@ -39,19 +58,20 @@ DMPs as part of the Data Cycle and to assess FAIRness in Research Data Managemen
 
 ## Data Management and Data Literacy
 
-Kostadinov, Ivaylo, Tschink, Daniel
+Kostadinov, Ivaylo, Tschink, Daniel, Linares Gómez, Jimena
 
-Published 2023-11-06
+Published 2025-04-02
 
 Licensed cc-by-4.0
 
 
 
-This presentation at the NFDI4Biodiversity &amp; GfÖ Winter School 2022 focused on the fundamentals of Data Management and Data Literacy in the context of biodiversity research. Attendees gained insights into best practices for data collection, storage, sharing, and preservation. Further, the presentation emphasized the vital roles of NFDI4Biodiversity and GFBio services in fostering data-driven research, supporting data curation, and promoting a culture of data literacy within the biodiversity community.
+This lecture was part of&nbsp;the NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science introduces key principles of data management and data literacy, emphasizing best practices for organizing, storing, and handling data according to FAIR principles. You will explore various data types in biodiversity and environmental science and learn how to align your research data management (RDM) strategies with funding requirements and institutional policies.
+The&nbsp;NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science&nbsp;was a collaboration between the&nbsp;German Centre for Integrative Biodiversity Research (iDiv)&nbsp;and the&nbsp;NFDI4Biodiversity consortium. This course offered cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combined direct knowledge transfer with practical lessons to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
 
-[https://zenodo.org/records/10075417](https://zenodo.org/records/10075417)
+[https://zenodo.org/records/15124025](https://zenodo.org/records/15124025)
 
-[https://doi.org/10.5281/zenodo.10075417](https://doi.org/10.5281/zenodo.10075417)
+[https://doi.org/10.5281/zenodo.15124025](https://doi.org/10.5281/zenodo.15124025)
 
 
 ---
@@ -133,9 +153,9 @@ The NFDI4Biodiversity Training and Education Report presents a comprehensive ove
 
 Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
 
-[https://zenodo.org/records/8271924](https://zenodo.org/records/8271924)
+[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
 
-[https://doi.org/10.5281/zenodo.8271924](https://doi.org/10.5281/zenodo.8271924)
+[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
 
 
 ---
@@ -307,9 +327,9 @@ By sharing insights, lessons learned, and practical guidance, this publication s
 
 The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
 
-[https://zenodo.org/records/8272156](https://zenodo.org/records/8272156)
+[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
 
-[https://doi.org/10.5281/zenodo.8272156](https://doi.org/10.5281/zenodo.8272156)
+[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
 
 
 ---

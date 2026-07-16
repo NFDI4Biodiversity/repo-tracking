@@ -1,4 +1,4 @@
-# Ebert, barbara (15)
+# Ebert, barbara (16)
 ## A framework for the Research Data Commons infrastructure
 
 Ebert, Barbara, Zurowietz, Martin
@@ -14,6 +14,26 @@ A framework and set of rules for the Research Data Commons is being developed in
 [https://zenodo.org/records/11082542](https://zenodo.org/records/11082542)
 
 [https://doi.org/10.5281/zenodo.11082542](https://doi.org/10.5281/zenodo.11082542)
+
+
+---
+
+## Biodata Interest Group Workshop Report:  Strategic Alignment and Infrastructure Integration
+
+Ebert, Barbara, Ewert, Frank, Förstner, Konrad U., Glöckner, Frank Oliver, Keller, Christin, McHardy, Alice Carolyn, von Suchodoletz, Dirk, Weidtkamp-Peters, Stefanie, Baldenius, Marie Tovelill, Boße, Sophie, Ebeling, Mary-Ann, Engel, Judith, Gerber, Anja, Gillis, Rosalind, Hoffmann, Carsten, Mühlhaus, Timo, Röder, Juliane, Schmale Rodrigues, Cristina, Schmidt, Christian, Scholz, Uwe, Specka, Xenia, Vandendorpe, Justine, Wetzker, Cornelia
+
+Published 2026-07-13
+
+Licensed cc-by-4.0
+
+
+
+The NFDI&mdash;German National Research Data Infrastructure&mdash;consortia DataPLANT, FAIRagro, NFDI4Biodiversity, NFDI4BIOIMAGE, NFDI4Microbiota, and NFDI4Objects convened on April 15&ndash;16, 2026, at the Julius K&uuml;hn Institute in Berlin for the Biodata Interest Group workshop. The workshop served to operationalize the group's Memorandum of Understanding by identifying synergies in services, training, and infrastructure. Workshop discussions facilitated the exchange of perspectives on a potential strategic roadmap for 2026&ndash;2035, the exploration of functional data modalities for cross-consortial integration, and the identification of areas for future coordination to support a more sustainable and collaborative research data infrastructure in the biological sciences.
+This report summarizes the workshop&rsquo;s collaborative mapping, discussion sessions, and the resulting shared interests for the Biodata Interest Group.
+
+[https://zenodo.org/records/21235788](https://zenodo.org/records/21235788)
+
+[https://doi.org/10.5281/zenodo.21235788](https://doi.org/10.5281/zenodo.21235788)
 
 
 ---
@@ -180,9 +200,9 @@ The NFDI4Biodiversity Training and Education Report presents a comprehensive ove
 
 Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
 
-[https://zenodo.org/records/8271924](https://zenodo.org/records/8271924)
+[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
 
-[https://doi.org/10.5281/zenodo.8271924](https://doi.org/10.5281/zenodo.8271924)
+[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
 
 
 ---

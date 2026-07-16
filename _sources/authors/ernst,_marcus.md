@@ -22,7 +22,7 @@ A poster about the Bioschemas White Paper for the NFDI4Biodiversity project. It 
 
 Ernst, Marcus, Fichtmueller, David
 
-Published 2025-10-02
+Published 2025-09-29
 
 Licensed cc-by-4.0
 
@@ -33,9 +33,9 @@ Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside
 The second table shows recommended properties that should ideally contain information about a Dataset but are not strictly required, particularly in situations where such information may be unavailable or inappropriate. The mapping analysis reveals that the vast majority of recommended Bioschemas elements can be accommodated, with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn) remaining uncovered by the current mapping approach.
 The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas properties, detailing their sub-elements such as Text or URI in the second column. The accompanying notes column provides detailed explanations regarding the necessity and relevance of these mappings within the context of dataset search use cases. It was found that only two elements have a potential benefit that might be considered relevant for dataset search applications, though this benefit remains limited and somewhat ambiguous.
 
-[https://zenodo.org/records/17253705](https://zenodo.org/records/17253705)
+[https://zenodo.org/records/17225216](https://zenodo.org/records/17225216)
 
-[https://doi.org/10.5281/zenodo.17253705](https://doi.org/10.5281/zenodo.17253705)
+[https://doi.org/10.5281/zenodo.17225216](https://doi.org/10.5281/zenodo.17225216)
 
 
 ---

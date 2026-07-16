@@ -1,4 +1,4 @@
-# Glöckner, frank oliver (9)
+# Glöckner, frank oliver (10)
 ## Berlin Declaration on NFDI Cross-Cutting Topics
 
 Glöckner, Frank Oliver, Diepenbroek, Michael, Felden, Janine, Overmann, Jörg, Bonn, Aletta, Gemeinholzer, Birgit, Güntsch, Anton, König-Ries, Birgitta, Seeger, Bernhard, Pollex-Krüger, Annette, Fluck, Juliane, Pigeot, Iris, Kirsten Toralf, Mühlhaus, Timo, Wolf, Christof, Heinrich, Uwe, Steinbeck, Christoph, Koepler, Oliver, Stegle, Oliver, Weimann, Joachim, Schörner-Sadenius, Thomas, Gutt, Christian, Stahl, Florian, Wagemann, Kurt, Schrade, Torsten, Schmitt, Robert, Eberl, Chris, Gauterin, Frank, Schultz, Martin, Bernard, Lars
@@ -14,6 +14,26 @@ In the spirit of our common interest to build what could become an international
 [https://zenodo.org/records/3457213](https://zenodo.org/records/3457213)
 
 [https://doi.org/10.5281/zenodo.3457213](https://doi.org/10.5281/zenodo.3457213)
+
+
+---
+
+## Biodata Interest Group Workshop Report:  Strategic Alignment and Infrastructure Integration
+
+Ebert, Barbara, Ewert, Frank, Förstner, Konrad U., Glöckner, Frank Oliver, Keller, Christin, McHardy, Alice Carolyn, von Suchodoletz, Dirk, Weidtkamp-Peters, Stefanie, Baldenius, Marie Tovelill, Boße, Sophie, Ebeling, Mary-Ann, Engel, Judith, Gerber, Anja, Gillis, Rosalind, Hoffmann, Carsten, Mühlhaus, Timo, Röder, Juliane, Schmale Rodrigues, Cristina, Schmidt, Christian, Scholz, Uwe, Specka, Xenia, Vandendorpe, Justine, Wetzker, Cornelia
+
+Published 2026-07-13
+
+Licensed cc-by-4.0
+
+
+
+The NFDI&mdash;German National Research Data Infrastructure&mdash;consortia DataPLANT, FAIRagro, NFDI4Biodiversity, NFDI4BIOIMAGE, NFDI4Microbiota, and NFDI4Objects convened on April 15&ndash;16, 2026, at the Julius K&uuml;hn Institute in Berlin for the Biodata Interest Group workshop. The workshop served to operationalize the group's Memorandum of Understanding by identifying synergies in services, training, and infrastructure. Workshop discussions facilitated the exchange of perspectives on a potential strategic roadmap for 2026&ndash;2035, the exploration of functional data modalities for cross-consortial integration, and the identification of areas for future coordination to support a more sustainable and collaborative research data infrastructure in the biological sciences.
+This report summarizes the workshop&rsquo;s collaborative mapping, discussion sessions, and the resulting shared interests for the Biodata Interest Group.
+
+[https://zenodo.org/records/21235788](https://zenodo.org/records/21235788)
+
+[https://doi.org/10.5281/zenodo.21235788](https://doi.org/10.5281/zenodo.21235788)
 
 
 ---

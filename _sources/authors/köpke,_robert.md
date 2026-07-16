@@ -32,9 +32,9 @@ In spring 2023, the German Centre for Integrative Biodiversity Research (iDiv) H
 
 This Zenodo publication contains the exhibition catalogue which documents the residency, the exhibition and the artworks.
 
-[https://zenodo.org/records/8335238](https://zenodo.org/records/8335238)
+[https://zenodo.org/records/8263199](https://zenodo.org/records/8263199)
 
-[https://doi.org/10.5281/zenodo.8335238](https://doi.org/10.5281/zenodo.8335238)
+[https://doi.org/10.5281/zenodo.8263199](https://doi.org/10.5281/zenodo.8263199)
 
 
 ---

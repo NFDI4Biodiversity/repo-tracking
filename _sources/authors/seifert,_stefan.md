@@ -114,9 +114,9 @@ Licensed cc-by-4.0
 
 Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
 
-[https://zenodo.org/records/8268840](https://zenodo.org/records/8268840)
+[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
 
-[https://doi.org/10.5281/zenodo.8268840](https://doi.org/10.5281/zenodo.8268840)
+[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
 
 
 ---

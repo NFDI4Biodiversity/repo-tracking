@@ -88,7 +88,7 @@ The &nbsp;&bdquo;Software as a Service (SaaS )&ldquo; and &bdquo;Virtual Researc
 
 Weibulat, Tanja Melanie, Triebel, Dagmar
 
-Published 2025-07-24
+Published 2025-07-22
 
 Licensed cc-by-4.0
 
@@ -96,9 +96,9 @@ Licensed cc-by-4.0
 
 This lecture was part of the agenda of the 17th meeting of the participant nodes from GBIF Europe and Central Asia (GBIF ECA) and held by German node staff members in Waterford, Ireland (20 May 2025 - 23 May 2025). It describes the situation of the Global Information Facility (GBIF) in Germany in relation to a distributed national network of established data centers at recognized life and nature science organisations. The federated GBIF-D Node system in Germany works technically and organizationally closely together with the German National Research Data Infrastructure (NFDI), GFBio e.V. and NFDI4Biodiversity consortium (supported by the German Research Foundation DFG under the grant agreement number 442032008). This cooperation started in 2013 and facilitates activities in data hosting, data mobilisation and preservation. It is strengthening the efforts of the node to train data management and build informatics capacity, e.g., at the International Training Centre &nbsp;for Environmental Research, ITCER Kenya.
 
-[https://zenodo.org/records/16412325](https://zenodo.org/records/16412325)
+[https://zenodo.org/records/16332169](https://zenodo.org/records/16332169)
 
-[https://doi.org/10.5281/zenodo.16412325](https://doi.org/10.5281/zenodo.16412325)
+[https://doi.org/10.5281/zenodo.16332169](https://doi.org/10.5281/zenodo.16332169)
 
 
 ---
@@ -225,9 +225,9 @@ Licensed cc-by-4.0
 
 Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
 
-[https://zenodo.org/records/8268840](https://zenodo.org/records/8268840)
+[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
 
-[https://doi.org/10.5281/zenodo.8268840](https://doi.org/10.5281/zenodo.8268840)
+[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
 
 
 ---

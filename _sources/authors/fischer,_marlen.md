@@ -135,9 +135,9 @@ By sharing insights, lessons learned, and practical guidance, this publication s
 
 The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
 
-[https://zenodo.org/records/8272156](https://zenodo.org/records/8272156)
+[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
 
-[https://doi.org/10.5281/zenodo.8272156](https://doi.org/10.5281/zenodo.8272156)
+[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
 
 
 ---
