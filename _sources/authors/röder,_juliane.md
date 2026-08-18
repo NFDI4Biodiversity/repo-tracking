@@ -1,4 +1,4 @@
-# Röder, juliane (18)
+# Röder, juliane (20)
 ## A (very brief) introduction to research data management
 
 Röder, Juliane
@@ -86,6 +86,27 @@ This poster was presented at the 2nd Conference on Research Data Infrastructure 
 
 ---
 
+## Forschungsdatenmanagement lernen, anwenden und weitergeben
+
+Röder, Juliane
+
+Published 2026-07-21
+
+Licensed cc-by-4.0
+
+
+
+Welches Wissen braucht es eigentlich f&uuml;r den Einstieg ins Forschungsdatenmanagement? Und wie klappt FDM im Alltag und bleibt nicht nur ein guter Vorsatz?
+NFDI4Biodiversity f&ouml;rdert die Datenkompetenz bei Forschenden, Lehrenden und Studierenden mit einem breiten Angebot an Bildungsangeboten und Ressourcen. Von kurzen Einf&uuml;hrungen &uuml;ber praxisnahe Workshops bis hin zur einw&ouml;chigen Seasonal School: Es gibt etwas f&uuml;r alle Ebenen &ndash; ob gerade erst am Anfang oder schon in der praktischen Anwendung und bereit f&uuml;r eine Weiterentwicklung.
+Zus&auml;tzlich stehen umfangreiche, frei zug&auml;ngliche Materialien online bereit: digitale Lernmodule, interaktive Jupyter Notebooks, Videos und der Podcast Rechtsdschungel. Alle Inhalte sind mit offenen Lizenzen nutzbar, anpassbar und weiterverteilbar. Sie decken den gesamten Lebenszyklus von Forschungsdaten ab &ndash; von der Planung und Datenerhebung &uuml;ber transparente Analysen bis zur Archivierung. Insbesondere die Selbstlerneinheit erlaubt es, sich dem Thema Datenmanagement in der Biologischen Forschung im eigenen Tempo zu n&auml;hern. Sie wird sukzessive erweitert, und bietet die M&ouml;glichkeit zum Mitentwickeln.Juliane R&ouml;der zeigt, wie Sie die Ressourcen einfach finden, nutzen und sogar gemeinsam weiterentwickelen k&ouml;nnen &ndash; f&uuml;r eine nachhaltige, FAIR-orientierte Forschungspraxis.
+
+[https://zenodo.org/records/21476367](https://zenodo.org/records/21476367)
+
+[https://doi.org/10.5281/zenodo.21476367](https://doi.org/10.5281/zenodo.21476367)
+
+
+---
+
 ## Introduction to NFDI4Biodiversity, the eResearch Center of Marburg University, and their tools and services
 
 Röder, Juliane
@@ -123,6 +144,25 @@ For further details on research data management for biodiversity data, feel free
 [https://zenodo.org/records/11235458](https://zenodo.org/records/11235458)
 
 [https://doi.org/10.5281/zenodo.11235458](https://doi.org/10.5281/zenodo.11235458)
+
+
+---
+
+## NFDI, NFDI4Biodiversity & eResearch support your research data management
+
+Röder, Juliane
+
+Published 2026-02-13
+
+Licensed cc-by-4.0
+
+
+
+Data management has become increasingly important in recent years, with funders and journals setting higher and higher standards for data availability, quality, and transparency. To meet these requirements, researchers have access to more resources and services than ever before. If you need help managing your data, the German NFDI consortia offer discipline-specific training and solutions, such as NFDI4Biodiversity for biodiversity data. Additionally, the Marburg University eResearch Service Center provides training and solutions for generic RDM needs. In this presentation, you can find a short overview of the structures of NFDI, NFDI4Biodiversity, HeFDI and the Marburg University eResearch Service Center. Furthermore, their respective training opportunities, support and services are introduced.
+
+[https://zenodo.org/records/21106131](https://zenodo.org/records/21106131)
+
+[https://doi.org/10.17192/openumr/534](https://doi.org/10.17192/openumr/534)
 
 
 ---

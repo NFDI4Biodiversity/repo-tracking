@@ -1,23 +1,4 @@
 # Recently added (10)
-## Archival Preservation of Digital Databases - Teilautomatisierung oder Standardformat?
-
-Puchta, Michael, Schmalzl, Markus
-
-Published 2023-07-10
-
-Licensed cc-by-4.0
-
-
-
-Vortrag zur digitalen Langzeitarchivierung von Datenbanken im Rahmen der Veranstaltung &quot;Database History - Histories of Datebasing and Databasing of History&quot;: Vergleich zweier Archivierungskonzepte.
-
-[https://zenodo.org/records/8131546](https://zenodo.org/records/8131546)
-
-[https://doi.org/10.5281/zenodo.8131546](https://doi.org/10.5281/zenodo.8131546)
-
-
----
-
 ## DMPs as part of local organization for FAIRnes and policy compliance
 
 Linares, Jimena, Tschink, Daniel, Timmermann, Britta
@@ -80,92 +61,102 @@ The final table identifies ABCD elements that cannot be adequately mapped to Bio
 
 ---
 
-## FROM THE PERSPECTIVE OF THE SAFETY NET. Documentation of the art residency and exhibition 2023 organised by iDiv, UFZ and NFDI4Biodiversity
+## FU Berlin Arnica montana reference genome sampling and vouchering team
 
-Köpke, Robert, Wolf, Sophie, Koppernock, Maximilian, Engel,Thore
+Reichel, Katja
 
-Published 2023-09-06
+Published 2026-07-13
 
 Licensed cc-by-4.0
 
 
 
-In spring 2023, the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig and the Helmholtz Center for Environmental Research (UFZ) invited four transdisciplinary conceptual artists &ndash; Snow Paik, Steph Joyce, Nike K&uuml;hn, and Julie Hart &ndash; to delve deeper into their artistic exploration of biodiversity and ecological research during a three-month artist residency. The exhibition &ldquo;From the Perspective of the Safety Net&rdquo; showcased the results of the collaboration between the residency artists and various iDiv scientists from multiple research fields, spanning investigations into physical and mental health benefits of biodiversity on humans to global macroecology of invasive plant species. The project was enabled by NFDI4Biodiversity.
+List of persons who contributed to Sample handling, Cytology, Barcoding, Vouchering and Biobanking for the Arnica montana subsp. montana reference genome.
+The table includes the full name of the persons, their ORCIDs, their institutional affiliation, the ROR of the institution, their primary role in the project and a details for the role.
 
-This Zenodo publication contains the exhibition catalogue which documents the residency, the exhibition and the artworks.
+[https://zenodo.org/records/21341899](https://zenodo.org/records/21341899)
 
-[https://zenodo.org/records/8263199](https://zenodo.org/records/8263199)
-
-[https://doi.org/10.5281/zenodo.8263199](https://doi.org/10.5281/zenodo.8263199)
+[https://doi.org/10.5281/zenodo.21341899](https://doi.org/10.5281/zenodo.21341899)
 
 
 ---
 
-## NFDI4Biodiversity - Training and Education Report
+## Forschungsdatenmanagement lernen, anwenden und weitergeben
 
-Tschink, Daniel, Ebert, Barbara, Brand, Ortrun
+Röder, Juliane
 
-Published 2023-08-11
+Published 2026-07-21
 
 Licensed cc-by-4.0
 
 
 
-The NFDI4Biodiversity Training and Education Report presents a comprehensive overview of the advancements and achievements made by the NFDI4Biodiversity consortia in their mission to enhance training and education in the realm of biodiversity and environmental research. As part of the National Research Data Infrastructure, this report showcases the consortium&#39;s dedication to promoting knowledge dissemination, skill development, and collaboration within the vibrant field of biodiversity and environmental science.&nbsp;Over the project years 2020 to 2023, our unwavering commitment to fostering data management excellence, forging collaborations, and raising awareness has driven a profound cultural shift towards more effective data management practices in biodiversity research.
+Welches Wissen braucht es eigentlich f&uuml;r den Einstieg ins Forschungsdatenmanagement? Und wie klappt FDM im Alltag und bleibt nicht nur ein guter Vorsatz?
+NFDI4Biodiversity f&ouml;rdert die Datenkompetenz bei Forschenden, Lehrenden und Studierenden mit einem breiten Angebot an Bildungsangeboten und Ressourcen. Von kurzen Einf&uuml;hrungen &uuml;ber praxisnahe Workshops bis hin zur einw&ouml;chigen Seasonal School: Es gibt etwas f&uuml;r alle Ebenen &ndash; ob gerade erst am Anfang oder schon in der praktischen Anwendung und bereit f&uuml;r eine Weiterentwicklung.
+Zus&auml;tzlich stehen umfangreiche, frei zug&auml;ngliche Materialien online bereit: digitale Lernmodule, interaktive Jupyter Notebooks, Videos und der Podcast Rechtsdschungel. Alle Inhalte sind mit offenen Lizenzen nutzbar, anpassbar und weiterverteilbar. Sie decken den gesamten Lebenszyklus von Forschungsdaten ab &ndash; von der Planung und Datenerhebung &uuml;ber transparente Analysen bis zur Archivierung. Insbesondere die Selbstlerneinheit erlaubt es, sich dem Thema Datenmanagement in der Biologischen Forschung im eigenen Tempo zu n&auml;hern. Sie wird sukzessive erweitert, und bietet die M&ouml;glichkeit zum Mitentwickeln.Juliane R&ouml;der zeigt, wie Sie die Ressourcen einfach finden, nutzen und sogar gemeinsam weiterentwickelen k&ouml;nnen &ndash; f&uuml;r eine nachhaltige, FAIR-orientierte Forschungspraxis.
 
-Readers are invited to explore the multifaceted strategies and milestones reached by the consortium through two documents: the full-text report and an overview slide. The report illuminates the diverse range of activities undertaken to nurture a culture of learning and expertise exchange, fostering a dynamic network of researchers, educators, and learners passionate about biodiversity preservation and exploration.
+[https://zenodo.org/records/21476367](https://zenodo.org/records/21476367)
 
-[https://zenodo.org/records/8239319](https://zenodo.org/records/8239319)
-
-[https://doi.org/10.5281/zenodo.8239319](https://doi.org/10.5281/zenodo.8239319)
+[https://doi.org/10.5281/zenodo.21476367](https://doi.org/10.5281/zenodo.21476367)
 
 
 ---
 
-## Template for the NFDI4Biodiversity & GfÖ Winter School
+## NFDI, NFDI4Biodiversity & eResearch support your research data management
 
-Röder, Juliane, Fischer, Marlen, Tschink, Daniel, Brand, Ortrun
+Röder, Juliane
 
-Published 2023-08-08
+Published 2026-02-13
 
 Licensed cc-by-4.0
 
 
 
-This&nbsp;publication showcases the NFDI4Biodiversity &amp; Gf&Ouml; Winter School 2022, a transformative one-week course program designed to equip young scientists with essential Research Data Management (RDM) skills tailored for biodiversity and environmental data. Organized by the NFDI4Biodiversity consortium, the Winter School&nbsp;fostered&nbsp;data literacy and promoted sustainable research practices within the ecological and environmental science communities.
+Data management has become increasingly important in recent years, with funders and journals setting higher and higher standards for data availability, quality, and transparency. To meet these requirements, researchers have access to more resources and services than ever before. If you need help managing your data, the German NFDI consortia offer discipline-specific training and solutions, such as NFDI4Biodiversity for biodiversity data. Additionally, the Marburg University eResearch Service Center provides training and solutions for generic RDM needs. In this presentation, you can find a short overview of the structures of NFDI, NFDI4Biodiversity, HeFDI and the Marburg University eResearch Service Center. Furthermore, their respective training opportunities, support and services are introduced.
 
-The publication offers an&nbsp;overview of the Winter School&#39;s structure, curriculum, and highlights. Throughout the course, participants engaged in a series of expert-led lectures and hands-on practical sessions, delivered by renowned academics, data specialists, and research institutions in the biodiversity domain. These sessions covered critical aspects of RDM, encompassing data collection, curation, analysis, visualization, and long-term preservation.
+[https://zenodo.org/records/21106131](https://zenodo.org/records/21106131)
 
-The curriculum extensively explored state-of-the-art software tools for data handling, including Jupyter notebook, R, Python, RightField, and OpenRefine. By providing hands-on training with these tools, the Winter School empowered participants to enhance their data management workflows and produce robust research outcomes.
-
-Targeting PhD students&nbsp;and Early-Career Researchers, the Winter School nurtured the next generation of scientists, equipping them with the necessary skills to navigate the challenges posed by increasingly complex and diverse ecological datasets.
-
-By sharing insights, lessons learned, and practical guidance, this publication serves as an invaluable reference and guide for organizers, educators, and researchers seeking to create impactful and inclusive training programs in research data management for biodiversity and related studies.
-
-The Winter School&#39;s legacy lies not only in the skills acquired by participants but also in the&nbsp;collaboration&nbsp;across the biodiversity and environmental science community. It exemplifies the commitment of NFDI4Biodiversity to advance data-driven research and&nbsp;contribute to a more sustainable and biodiverse planet.
-
-[https://zenodo.org/records/8221511](https://zenodo.org/records/8221511)
-
-[https://doi.org/10.5281/zenodo.8221511](https://doi.org/10.5281/zenodo.8221511)
+[https://doi.org/10.17192/openumr/534](https://doi.org/10.17192/openumr/534)
 
 
 ---
 
-## Was haben Mehltaupilze mit digitaler Langzeitarchivierung zu tun?
+## OpenRefine I: Cleaning Messy Data with Ease
 
-Weibulat, Tanja, Schwartz, Anna Lisa, Seifert, Stefan, Schmalzl, Markus, Triebel, Dagmar
+Fichtmueller, David
 
-Published 2023-07-25
+Published 2025-11-25
 
 Licensed cc-by-4.0
 
 
 
-Vorstellung eines NFDI4Biodiversity-Kooperationsprojekts zwischen der Generaldirektion der staatlichen Archive Bayerns (GDA) und den Staatlichen Naturwissenschaftlichen Sammlungen Bayerns (SNSB) &uuml;ber die Langzeitarchivierung einer Datenbank der SNSB zum Management der Sammlung von Mehltaupilz-Objekten.
+The presentation for an online training course on OpenRefine, given as part of the WiNoDa Winter School 2025.&nbsp;
+This is course focuses on the core features of OpenRefine. Features that use data enhancement from external sources are covered by the following course OpenRefine II: Enriching Data (https://doi.org/10.5281/zenodo.18348535), presented by Frederik Berger.
 
-[https://zenodo.org/records/8182883](https://zenodo.org/records/8182883)
+[https://zenodo.org/records/18712731](https://zenodo.org/records/18712731)
 
-[https://doi.org/10.5281/zenodo.8182883](https://doi.org/10.5281/zenodo.8182883)
+[https://doi.org/10.5281/zenodo.18712731](https://doi.org/10.5281/zenodo.18712731)
+
+
+---
+
+## Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben
+
+Engel, Judith, Ernst, Marcus, Pauli, Matthias, Penzlin, Anke, Rach, Birgit, Weibulat, Tanja Melanie
+
+Published 2026-05-15
+
+Licensed cc-by-4.0
+
+
+
+Artvorkommensdaten sind georeferenzierte Angaben dar&uuml;ber, wo und wann eine bestimmte Art (z. B. eine Pflanze, ein Tier oder ein Pilz) beobachtet oder gesammelt wurde. Diese Workshop-&Uuml;bung dient dazu, auf einige h&auml;ufige Probleme und Herausforderungen bei der Aufnahme und der Auswertung von Artvorkommensdaten aus Feldstudien aufmerksam zu machen. Sie erlaubt es den Teilnehmenden in die Rolle von Datenkurator:innen zu schl&uuml;pfen und ist als niederschwelliges Beispiel gedacht, deckt dabei aber nat&uuml;rlich nicht alle m&ouml;glichen Fehlerarten ab.
+Der (Meta)datenstandard, der der &Uuml;bung zugrunde liegt, ist DarwinCore (https://dwc.tdwg.org/). DarwinCore wird prim&auml;r zur Beschreibung von Arten (species) und ihrem Vorkommen in der Natur genutzt und ist der haupts&auml;chlich verwendete Standard in GBIF (Global Biodiversity Information Facility, https://www.gbif.org/).
+
+[https://zenodo.org/records/20202055](https://zenodo.org/records/20202055)
+
+[https://doi.org/10.5281/zenodo.20202055](https://doi.org/10.5281/zenodo.20202055)
 
 
 ---

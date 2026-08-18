@@ -1,4 +1,4 @@
-# Weibulat, tanja melanie (5)
+# Weibulat, tanja melanie (6)
 ## Continuation of partnership Germany-Kenya with two workshops in 2023
 
 Weibulat, Tanja Melanie, Triebel, Dagmar
@@ -96,6 +96,26 @@ Die Kooperation soll in der laufenden Phase sowie Phase 2 von NFDI4Biodiversity 
 [https://zenodo.org/records/12531195](https://zenodo.org/records/12531195)
 
 [https://doi.org/10.5281/zenodo.12531195](https://doi.org/10.5281/zenodo.12531195)
+
+
+---
+
+## Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben
+
+Engel, Judith, Ernst, Marcus, Pauli, Matthias, Penzlin, Anke, Rach, Birgit, Weibulat, Tanja Melanie
+
+Published 2026-05-15
+
+Licensed cc-by-4.0
+
+
+
+Artvorkommensdaten sind georeferenzierte Angaben dar&uuml;ber, wo und wann eine bestimmte Art (z. B. eine Pflanze, ein Tier oder ein Pilz) beobachtet oder gesammelt wurde. Diese Workshop-&Uuml;bung dient dazu, auf einige h&auml;ufige Probleme und Herausforderungen bei der Aufnahme und der Auswertung von Artvorkommensdaten aus Feldstudien aufmerksam zu machen. Sie erlaubt es den Teilnehmenden in die Rolle von Datenkurator:innen zu schl&uuml;pfen und ist als niederschwelliges Beispiel gedacht, deckt dabei aber nat&uuml;rlich nicht alle m&ouml;glichen Fehlerarten ab.
+Der (Meta)datenstandard, der der &Uuml;bung zugrunde liegt, ist DarwinCore (https://dwc.tdwg.org/). DarwinCore wird prim&auml;r zur Beschreibung von Arten (species) und ihrem Vorkommen in der Natur genutzt und ist der haupts&auml;chlich verwendete Standard in GBIF (Global Biodiversity Information Facility, https://www.gbif.org/).
+
+[https://zenodo.org/records/20202055](https://zenodo.org/records/20202055)
+
+[https://doi.org/10.5281/zenodo.20202055](https://doi.org/10.5281/zenodo.20202055)
 
 
 ---

@@ -1,4 +1,4 @@
-# Fichtmueller, david (8)
+# Fichtmueller, david (9)
 ## Assessment of NFDI4Biodiversity involvement in cross-cutting activities and recommendations for additional focus areas
 
 Sauerland, Kristin, Fichtmueller, David, Güntsch, Anton
@@ -106,6 +106,26 @@ The workshop was held during the LAND Community Workshop in February 2025 in Lei
 [https://zenodo.org/records/14732682](https://zenodo.org/records/14732682)
 
 [https://doi.org/10.5281/zenodo.14732682](https://doi.org/10.5281/zenodo.14732682)
+
+
+---
+
+## OpenRefine I: Cleaning Messy Data with Ease
+
+Fichtmueller, David
+
+Published 2025-11-25
+
+Licensed cc-by-4.0
+
+
+
+The presentation for an online training course on OpenRefine, given as part of the WiNoDa Winter School 2025.&nbsp;
+This is course focuses on the core features of OpenRefine. Features that use data enhancement from external sources are covered by the following course OpenRefine II: Enriching Data (https://doi.org/10.5281/zenodo.18348535), presented by Frederik Berger.
+
+[https://zenodo.org/records/18712731](https://zenodo.org/records/18712731)
+
+[https://doi.org/10.5281/zenodo.18712731](https://doi.org/10.5281/zenodo.18712731)
 
 
 ---

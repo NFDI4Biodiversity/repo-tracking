@@ -1,4 +1,4 @@
-# Engel, judith (9)
+# Engel, judith (10)
 ## Biodata Interest Group Workshop Report:  Strategic Alignment and Infrastructure Integration
 
 Ebert, Barbara, Ewert, Frank, Förstner, Konrad U., Glöckner, Frank Oliver, Keller, Christin, McHardy, Alice Carolyn, von Suchodoletz, Dirk, Weidtkamp-Peters, Stefanie, Baldenius, Marie Tovelill, Boße, Sophie, Ebeling, Mary-Ann, Engel, Judith, Gerber, Anja, Gillis, Rosalind, Hoffmann, Carsten, Mühlhaus, Timo, Röder, Juliane, Schmale Rodrigues, Cristina, Schmidt, Christian, Scholz, Uwe, Specka, Xenia, Vandendorpe, Justine, Wetzker, Cornelia
@@ -171,6 +171,26 @@ Support is an essential component of an efficient infrastructure for research da
 [https://zenodo.org/records/14035822](https://zenodo.org/records/14035822)
 
 [https://doi.org/10.5281/zenodo.14035822](https://doi.org/10.5281/zenodo.14035822)
+
+
+---
+
+## Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben
+
+Engel, Judith, Ernst, Marcus, Pauli, Matthias, Penzlin, Anke, Rach, Birgit, Weibulat, Tanja Melanie
+
+Published 2026-05-15
+
+Licensed cc-by-4.0
+
+
+
+Artvorkommensdaten sind georeferenzierte Angaben dar&uuml;ber, wo und wann eine bestimmte Art (z. B. eine Pflanze, ein Tier oder ein Pilz) beobachtet oder gesammelt wurde. Diese Workshop-&Uuml;bung dient dazu, auf einige h&auml;ufige Probleme und Herausforderungen bei der Aufnahme und der Auswertung von Artvorkommensdaten aus Feldstudien aufmerksam zu machen. Sie erlaubt es den Teilnehmenden in die Rolle von Datenkurator:innen zu schl&uuml;pfen und ist als niederschwelliges Beispiel gedacht, deckt dabei aber nat&uuml;rlich nicht alle m&ouml;glichen Fehlerarten ab.
+Der (Meta)datenstandard, der der &Uuml;bung zugrunde liegt, ist DarwinCore (https://dwc.tdwg.org/). DarwinCore wird prim&auml;r zur Beschreibung von Arten (species) und ihrem Vorkommen in der Natur genutzt und ist der haupts&auml;chlich verwendete Standard in GBIF (Global Biodiversity Information Facility, https://www.gbif.org/).
+
+[https://zenodo.org/records/20202055](https://zenodo.org/records/20202055)
+
+[https://doi.org/10.5281/zenodo.20202055](https://doi.org/10.5281/zenodo.20202055)
 
 
 ---
