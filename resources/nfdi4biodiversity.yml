@@ -6121,3 +6121,42 @@ resources:
   - https://zenodo.org/records/18712731
   - https://doi.org/10.5281/zenodo.18712731
 
+- authors:
+  - Engel, Thore
+  - Bosch, Maya
+  description: 'This repository contains R scripts that harmonize and merge Odonata
+    (dragonfly and damselfly) occurrence data from the German federal states. The
+    records were compiled for the DRAGON project, which analyses distribution trends
+    of European Odonata. Because the German source data are particularly heterogeneous
+    — regional databases differing in schema, spatial resolution, date conventions
+    and taxonomic naming — they were cleaned and harmonized separately before being
+    integrated into the DRAGON database alongside other European countries. A subset
+    was also made available for the German national Red List of Odonata.
+
+    The occurrence data themselves are not included in this archive. Data sharing
+    beyond the DRAGON project was not permitted by the contributing data providers,
+    and the compiled dataset is held under restricted access. What is published here
+    is the harmonization code, released so that comparable data mobilization efforts
+    can build on this work rather than start from scratch.
+
+    The scripts/data_cleaning folder holds one script per federal state, each mapping
+    that dataset onto a common target schema and documenting its particularities in
+    inline comments; data for Berlin were obtained from GBIF rather than a regional
+    database. merging.R combines the cleaned datasets into a single harmonized table
+    and maps their spatial coverage, and Rote Liste export.R produces the subset used
+    for the national Red List.
+
+    The data were compiled from regional databases with the help of the Gesellschaft
+    deutschsprachiger Odonatologen e.V. (GdO) and the German National Research Data
+    Infrastructure for Biodiversity (NFDI4Biodiversity); the full list of contributing
+    providers is given in the README. This work was supported by the Deutsche Forschungsgemeinschaft
+    (DFG) under grant agreement 442032008 (NFDI4Biodiversity), part of the National
+    Research Data Infrastructure (NFDI) programme in Germany.'
+  license: mit-license
+  name: R scripts for harmonizing Odonata occurrence data from German federal states
+  num_downloads: 11
+  publication_date: '2026-08-26'
+  submission_date: '2026-09-08T17:50:51.242554'
+  url:
+  - https://zenodo.org/records/22108644
+  - https://doi.org/10.5281/zenodo.22108644
