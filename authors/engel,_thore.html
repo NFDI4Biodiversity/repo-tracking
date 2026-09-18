@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Engel, thore (5) &#8212; NFDI4Biodiversity Materials</title>
+    <title>Engel, thore (6) &#8212; NFDI4Biodiversity Materials</title>
   
   
   
@@ -238,8 +238,8 @@
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (175)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (175)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/doi.org.html">Doi.org (176)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../domain/zenodo.org.html">Zenodo.org (176)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -427,7 +427,7 @@
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Engel, thore (5)</h1>
+    <h1>Engel, thore (6)</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -442,6 +442,7 @@
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lebendiger-atlas-natur-deutschland-poster-nfdi4biodiversity-all-hands-conference-2024">Lebendiger Atlas - Natur Deutschland (Poster, NFDI4Biodiversity All-Hands-Conference 2024)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mobilisation-of-historical-animal-observation-data-the-bavarian-survey-of-1845">Mobilisation of Historical Animal Observation Data - The Bavarian Survey of 1845</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4biodiversity-status-report-use-case-projects">NFDI4Biodiversity - Status Report Use Case Projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">R scripts for harmonizing Odonata occurrence data from German federal states</a></li>
 </ul>
             </nav>
         </div>
@@ -453,8 +454,8 @@
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="engel-thore-5">
-<h1>Engel, thore (5)<a class="headerlink" href="#engel-thore-5" title="Link to this heading">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="engel-thore-6">
+<h1>Engel, thore (6)<a class="headerlink" href="#engel-thore-6" title="Link to this heading">#</a></h1>
 <section id="cross-community-workshop-nfdi4biodiversity-smon-22-24-januar-2024">
 <h2>Cross-Community Workshop NFDI4Biodiversity / sMon  22. - 24. Januar 2024<a class="headerlink" href="#cross-community-workshop-nfdi4biodiversity-smon-22-24-januar-2024" title="Link to this heading">#</a></h2>
 <p>Friedrichs-Manthey, Martin, Engel, Thore, Fischer, Sarah, Schomburg, Christoph, Güntsch, Anton, Holetschek, Jörg, König-Ries, Birgitta, Köpke, Robert, Grünberger, Tom, Hüllbusch, Elisabeth, Bonn, Aletta</p>
@@ -508,6 +509,19 @@ The data is the result of an interdisciplinary collaboration between scientists 
 <p>This report outlines NFDI4Biodiversity’s efforts to strengthen Germany’s biodiversity data network through user engagement, underscoring the importance of collaboration in biodiversity understanding and conservation.</p>
 <p><a class="reference external" href="https://zenodo.org/records/8328322">https://zenodo.org/records/8328322</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.8328322">https://doi.org/10.5281/zenodo.8328322</a></p>
+</section>
+<hr class="docutils" />
+<section id="r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">
+<h2>R scripts for harmonizing Odonata occurrence data from German federal states<a class="headerlink" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states" title="Link to this heading">#</a></h2>
+<p>Engel, Thore, Bosch, Maya</p>
+<p>Published 2026-08-26</p>
+<p>Licensed mit-license</p>
+<p>This repository contains R scripts that harmonize and merge Odonata (dragonfly and damselfly) occurrence data from the German federal states. The records were compiled for the DRAGON project, which analyses distribution trends of European Odonata. Because the German source data are particularly heterogeneous — regional databases differing in schema, spatial resolution, date conventions and taxonomic naming — they were cleaned and harmonized separately before being integrated into the DRAGON database alongside other European countries. A subset was also made available for the German national Red List of Odonata.
+The occurrence data themselves are not included in this archive. Data sharing beyond the DRAGON project was not permitted by the contributing data providers, and the compiled dataset is held under restricted access. What is published here is the harmonization code, released so that comparable data mobilization efforts can build on this work rather than start from scratch.
+The scripts/data_cleaning folder holds one script per federal state, each mapping that dataset onto a common target schema and documenting its particularities in inline comments; data for Berlin were obtained from GBIF rather than a regional database. merging.R combines the cleaned datasets into a single harmonized table and maps their spatial coverage, and Rote Liste export.R produces the subset used for the national Red List.
+The data were compiled from regional databases with the help of the Gesellschaft deutschsprachiger Odonatologen e.V. (GdO) and the German National Research Data Infrastructure for Biodiversity (NFDI4Biodiversity); the full list of contributing providers is given in the README. This work was supported by the Deutsche Forschungsgemeinschaft (DFG) under grant agreement 442032008 (NFDI4Biodiversity), part of the National Research Data Infrastructure (NFDI) programme in Germany.</p>
+<p><a class="reference external" href="https://zenodo.org/records/22108644">https://zenodo.org/records/22108644</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.22108644">https://doi.org/10.5281/zenodo.22108644</a></p>
 <hr class="docutils" />
 </section>
 </section>
@@ -565,6 +579,7 @@ The data is the result of an interdisciplinary collaboration between scientists 
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lebendiger-atlas-natur-deutschland-poster-nfdi4biodiversity-all-hands-conference-2024">Lebendiger Atlas - Natur Deutschland (Poster, NFDI4Biodiversity All-Hands-Conference 2024)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mobilisation-of-historical-animal-observation-data-the-bavarian-survey-of-1845">Mobilisation of Historical Animal Observation Data - The Bavarian Survey of 1845</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi4biodiversity-status-report-use-case-projects">NFDI4Biodiversity - Status Report Use Case Projects</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">R scripts for harmonizing Odonata occurrence data from German federal states</a></li>
 </ul>
   </nav></div>
 

@@ -238,8 +238,8 @@
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">By domain</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="domain/doi.org.html">Doi.org (175)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="domain/zenodo.org.html">Zenodo.org (175)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="domain/doi.org.html">Doi.org (176)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="domain/zenodo.org.html">Zenodo.org (176)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul class="nav bd-sidenav">
@@ -444,9 +444,9 @@
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#forschungsdatenmanagement-lernen-anwenden-und-weitergeben">Forschungsdatenmanagement lernen, anwenden und weitergeben</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi-nfdi4biodiversity-eresearch-support-your-research-data-management">NFDI, NFDI4Biodiversity &amp; eResearch support your research data management</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#openrefine-i-cleaning-messy-data-with-ease">OpenRefine I: Cleaning Messy Data with Ease</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">R scripts for harmonizing Odonata occurrence data from German federal states</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-ubung-artvorkommensdaten-strukturieren-und-beschreiben">Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#yellow-dice-snakes-at-vrana-lake-in-croatia">Yellow Dice Snakes at Vrana Lake in Croatia</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#biigle-laravel-aruna-driver-v1-1">biigle/laravel-aruna-driver: v1.1</a></li>
 </ul>
             </nav>
         </div>
@@ -539,6 +539,19 @@ This is course focuses on the core features of OpenRefine. Features that use dat
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.18712731">https://doi.org/10.5281/zenodo.18712731</a></p>
 </section>
 <hr class="docutils" />
+<section id="r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">
+<h2>R scripts for harmonizing Odonata occurrence data from German federal states<a class="headerlink" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states" title="Link to this heading">#</a></h2>
+<p>Engel, Thore, Bosch, Maya</p>
+<p>Published 2026-08-26</p>
+<p>Licensed mit-license</p>
+<p>This repository contains R scripts that harmonize and merge Odonata (dragonfly and damselfly) occurrence data from the German federal states. The records were compiled for the DRAGON project, which analyses distribution trends of European Odonata. Because the German source data are particularly heterogeneous — regional databases differing in schema, spatial resolution, date conventions and taxonomic naming — they were cleaned and harmonized separately before being integrated into the DRAGON database alongside other European countries. A subset was also made available for the German national Red List of Odonata.
+The occurrence data themselves are not included in this archive. Data sharing beyond the DRAGON project was not permitted by the contributing data providers, and the compiled dataset is held under restricted access. What is published here is the harmonization code, released so that comparable data mobilization efforts can build on this work rather than start from scratch.
+The scripts/data_cleaning folder holds one script per federal state, each mapping that dataset onto a common target schema and documenting its particularities in inline comments; data for Berlin were obtained from GBIF rather than a regional database. merging.R combines the cleaned datasets into a single harmonized table and maps their spatial coverage, and Rote Liste export.R produces the subset used for the national Red List.
+The data were compiled from regional databases with the help of the Gesellschaft deutschsprachiger Odonatologen e.V. (GdO) and the German National Research Data Infrastructure for Biodiversity (NFDI4Biodiversity); the full list of contributing providers is given in the README. This work was supported by the Deutsche Forschungsgemeinschaft (DFG) under grant agreement 442032008 (NFDI4Biodiversity), part of the National Research Data Infrastructure (NFDI) programme in Germany.</p>
+<p><a class="reference external" href="https://zenodo.org/records/22108644">https://zenodo.org/records/22108644</a></p>
+<p><a class="reference external" href="https://doi.org/10.5281/zenodo.22108644">https://doi.org/10.5281/zenodo.22108644</a></p>
+</section>
+<hr class="docutils" />
 <section id="workshop-ubung-artvorkommensdaten-strukturieren-und-beschreiben">
 <h2>Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben<a class="headerlink" href="#workshop-ubung-artvorkommensdaten-strukturieren-und-beschreiben" title="Link to this heading">#</a></h2>
 <p>Engel, Judith, Ernst, Marcus, Pauli, Matthias, Penzlin, Anke, Rach, Birgit, Weibulat, Tanja Melanie</p>
@@ -559,16 +572,6 @@ Der (Meta)datenstandard, der der Übung zugrunde liegt, ist DarwinCore (<a class
 <p>Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). This version serves the purpose of digital archiving and free accessibility for scientific and natural history audiences. The original article is available on Zenodo under DOI: 10.5281/zenodo.17410521.</p>
 <p><a class="reference external" href="https://zenodo.org/records/17422679">https://zenodo.org/records/17422679</a></p>
 <p><a class="reference external" href="https://doi.org/10.5281/zenodo.17422679">https://doi.org/10.5281/zenodo.17422679</a></p>
-</section>
-<hr class="docutils" />
-<section id="biigle-laravel-aruna-driver-v1-1">
-<h2>biigle/laravel-aruna-driver: v1.1<a class="headerlink" href="#biigle-laravel-aruna-driver-v1-1" title="Link to this heading">#</a></h2>
-<p>Martin Zurowietz</p>
-<p>Published 2023-05-17</p>
-<p>Licensed mit-license</p>
-<p>Full Changelog: <a class="reference external" href="https://github.com/biigle/laravel-aruna-driver/compare/v1.0...v1.1">https://github.com/biigle/laravel-aruna-driver/compare/v1.0…v1.1</a></p>
-<p><a class="reference external" href="https://zenodo.org/records/8059145">https://zenodo.org/records/8059145</a></p>
-<p><a class="reference external" href="https://doi.org/10.5281/zenodo.8059145">https://doi.org/10.5281/zenodo.8059145</a></p>
 <hr class="docutils" />
 </section>
 </section>
@@ -646,9 +649,9 @@ Der (Meta)datenstandard, der der Übung zugrunde liegt, ist DarwinCore (<a class
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#forschungsdatenmanagement-lernen-anwenden-und-weitergeben">Forschungsdatenmanagement lernen, anwenden und weitergeben</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#nfdi-nfdi4biodiversity-eresearch-support-your-research-data-management">NFDI, NFDI4Biodiversity &amp; eResearch support your research data management</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#openrefine-i-cleaning-messy-data-with-ease">OpenRefine I: Cleaning Messy Data with Ease</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#r-scripts-for-harmonizing-odonata-occurrence-data-from-german-federal-states">R scripts for harmonizing Odonata occurrence data from German federal states</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-ubung-artvorkommensdaten-strukturieren-und-beschreiben">Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#yellow-dice-snakes-at-vrana-lake-in-croatia">Yellow Dice Snakes at Vrana Lake in Croatia</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#biigle-laravel-aruna-driver-v1-1">biigle/laravel-aruna-driver: v1.1</a></li>
 </ul>
   </nav></div>
 
