@@ -6161,3 +6161,32 @@ resources:
   - https://zenodo.org/records/22108644
   - https://doi.org/10.5281/zenodo.22108644
 
+- authors:
+  - Müller, Wolfgang
+  description: This is a course on cleaning data with openRefine for a given fileset
+    of the "Seasonal School on Data Management in Biodiversity and Environmental Science"
+    in October 2026. In the end there are some slides on making an Excel file with
+    selection lists (instead of free text fields) using a Jupyter Notebook.
+  license: cc-by-4.0
+  name: Tabular data work/play with openRefine and Python
+  num_downloads: 1
+  publication_date: '2026-10-06'
+  submission_date: '2026-10-06T19:21:48.619669'
+  url:
+  - https://zenodo.org/records/23189499
+  - https://doi.org/10.5281/zenodo.23189499
+- authors:
+  - Singson, Lea Sophie
+  description: This presentation was held during the NFDI4Biodiversity Seasonal School
+    2025. It was a session of 90 minutes with interactive elements. Topics were the
+    Nagoya Protocol as well as data rights and obligations posed by law and licenses
+    when creating and using research data.
+  license: cc-by-4.0
+  name: '''Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity
+    Seasonal School 2025'
+  num_downloads: 83
+  publication_date: '2026-10-06'
+  submission_date: '2026-10-06T19:21:48.619708'
+  url:
+  - https://zenodo.org/records/23190301
+  - https://doi.org/10.5281/zenodo.23190301
