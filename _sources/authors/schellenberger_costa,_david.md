@@ -3,17 +3,18 @@
 
 Schellenberger Costa, David
 
-Published 2024-11-26
+Published 2026-10-06
 
 Licensed cc-by-4.0
 
 
 
-The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was created for the NFDI Seasonal School 2024.
+The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was initially created for the NFDI Seasonal School 2024. The 2026 update features adaptations and improvements to the jupyter notebooks, reflecting changes in the GBIF API and/or rgbif R package (now using v2 of the species endpoint) and comments from users.
+For those not wanting to use jupyter notebooks the html files provide the same content as the ipynb files including results of computations, they are just not interactive.
 
-[https://zenodo.org/records/14224726](https://zenodo.org/records/14224726)
+[https://zenodo.org/records/23189795](https://zenodo.org/records/23189795)
 
-[https://doi.org/10.5281/zenodo.14224726](https://doi.org/10.5281/zenodo.14224726)
+[https://doi.org/10.5281/zenodo.23189795](https://doi.org/10.5281/zenodo.23189795)
 
 
 ---

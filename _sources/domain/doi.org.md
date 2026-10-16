@@ -1,4 +1,4 @@
-# Doi.org (176)
+# Doi.org (178)
 ## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2025
 
 Singson, Lea Sophie
@@ -14,6 +14,25 @@ This presentation was held during the NFDI4Biodiversity Seasonal School 2025. It
 [https://zenodo.org/records/17628099](https://zenodo.org/records/17628099)
 
 [https://doi.org/10.5281/zenodo.17628099](https://doi.org/10.5281/zenodo.17628099)
+
+
+---
+
+## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2026
+
+Singson, Lea Sophie
+
+Published 2026-10-06
+
+Licensed cc-by-4.0
+
+
+
+This presentation was held during the NFDI4Biodiversity Seasonal School 2026. It was a session of 90 minutes with interactive elements. Topics were the Nagoya Protocol as well as data rights and obligations posed by law and licenses when creating and using research data.
+
+[https://zenodo.org/records/23190301](https://zenodo.org/records/23190301)
+
+[https://doi.org/10.5281/zenodo.23190301](https://doi.org/10.5281/zenodo.23190301)
 
 
 ---
@@ -1410,17 +1429,18 @@ The final table identifies ABCD elements that cannot be adequately mapped to Bio
 
 Signer, Johannes
 
-Published 2024-12-02
+Published 2026-10-09
 
 Licensed cc-by-4.0
 
 
 
-Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity Seasonal School 2024.&nbsp;
+Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity Seasonal School 2026.&nbsp;
+Slides for an exercise with Jupyter, git, GitHuB and binder.&nbsp;
 
-[https://zenodo.org/records/14262125](https://zenodo.org/records/14262125)
+[https://zenodo.org/records/23270698](https://zenodo.org/records/23270698)
 
-[https://doi.org/10.5281/zenodo.14262125](https://doi.org/10.5281/zenodo.14262125)
+[https://doi.org/10.5281/zenodo.23270698](https://doi.org/10.5281/zenodo.23270698)
 
 
 ---
@@ -3385,6 +3405,25 @@ The poster was presented on the NFDI4Biodiversity All Hands Conference in Munich
 
 ---
 
+## Tabular data work/play with openRefine and Python
+
+Müller, Wolfgang
+
+Published 2026-10-06
+
+Licensed cc-by-4.0
+
+
+
+This is a course on cleaning data with openRefine for a given fileset of the "Seasonal School on Data Management in Biodiversity and Environmental Science" in October 2026. In the end there are some slides on making an Excel file with selection lists (instead of free text fields) using a Jupyter Notebook.
+
+[https://zenodo.org/records/23189499](https://zenodo.org/records/23189499)
+
+[https://doi.org/10.5281/zenodo.23189499](https://doi.org/10.5281/zenodo.23189499)
+
+
+---
+
 ## Taxonomic Harmonization: a problem you didn't know you had!
 
 Matthias Grenié
@@ -3429,17 +3468,18 @@ An up-to-date version of this material is also available on GitHub: https://gith
 
 Schellenberger Costa, David
 
-Published 2024-11-26
+Published 2026-10-06
 
 Licensed cc-by-4.0
 
 
 
-The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was created for the NFDI Seasonal School 2024.
+The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was initially created for the NFDI Seasonal School 2024. The 2026 update features adaptations and improvements to the jupyter notebooks, reflecting changes in the GBIF API and/or rgbif R package (now using v2 of the species endpoint) and comments from users.
+For those not wanting to use jupyter notebooks the html files provide the same content as the ipynb files including results of computations, they are just not interactive.
 
-[https://zenodo.org/records/14224726](https://zenodo.org/records/14224726)
+[https://zenodo.org/records/23189795](https://zenodo.org/records/23189795)
 
-[https://doi.org/10.5281/zenodo.14224726](https://doi.org/10.5281/zenodo.14224726)
+[https://doi.org/10.5281/zenodo.23189795](https://doi.org/10.5281/zenodo.23189795)
 
 
 ---

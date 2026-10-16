@@ -1,62 +1,39 @@
 # Recently added (10)
-## DMPs as part of local organization for FAIRnes and policy compliance
+## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2026
 
-Linares, Jimena, Tschink, Daniel, Timmermann, Britta
+Singson, Lea Sophie
 
-Published 2022-12-20
+Published 2026-10-06
 
 Licensed cc-by-4.0
 
 
 
-DMPs as part of the Data Cycle and to assess FAIRness in Research Data Management
+This presentation was held during the NFDI4Biodiversity Seasonal School 2026. It was a session of 90 minutes with interactive elements. Topics were the Nagoya Protocol as well as data rights and obligations posed by law and licenses when creating and using research data.
 
-[https://zenodo.org/records/7462136](https://zenodo.org/records/7462136)
+[https://zenodo.org/records/23190301](https://zenodo.org/records/23190301)
 
-[https://doi.org/10.5281/zenodo.7462136](https://doi.org/10.5281/zenodo.7462136)
+[https://doi.org/10.5281/zenodo.23190301](https://doi.org/10.5281/zenodo.23190301)
 
 
 ---
 
-## Dataset of Württemberg's 19th-century fauna
+## FAIR tools and processes: Getting started withJupyter & Git(Hub)
 
-Teich, Maximilian C.
+Signer, Johannes
 
-Published 2025-10-06
-
-Licensed cc-by-4.0
-
-
-
-The southern German kingdom of W&uuml;rttemberg was administratively divided into districts, called "Ober&auml;mter" in German. Between 1824 and 1886, the royal statistical office published one regional study on each of the districts, including text descriptions of the local fauna.
-The CSV data represent all species documented in these sources, with the name of the district, the year of publication, the original text, the species names as given in the original text, information on the presence of the species, a normalized species name, and a GBIF identifier.
-To reference the provided district names geographically, the GeoJSON data show the borders of the districts as they appeared around 1848 in a map by Franz von Mittnacht.
-
-[https://zenodo.org/records/17277242](https://zenodo.org/records/17277242)
-
-[https://doi.org/10.5281/zenodo.17277242](https://doi.org/10.5281/zenodo.17277242)
-
-
----
-
-## Extended data for F1000 publication "Advancing FAIR Biodiversity Data: Bioschemas Implementation in NFDI4Biodiversity"
-
-Ernst, Marcus, Fichtmueller, David
-
-Published 2025-09-29
+Published 2026-10-09
 
 Licensed cc-by-4.0
 
 
 
-Bioschemas profiles for data types establish comprehensive guidelines that categorize properties into three distinct levels of implementation requirements: Compulsory elements that must contain information, recommended properties that should ideally be included, and optional attributes that may be added based on specific use cases or data availability.
-Table 1 presents all mandatory Bioschemas elements of its Dataset type alongside their assigned values within the current mapping version or their equivalent ABCD 2.06 counterparts. These ABCD 2.06 elements are represented using XPath notation. Notably, the comprehensive mapping demonstrates that all mandatory Bioschemas elements can be successfully addressed through direct mappings from the ABCD 2.06 standard.
-The second table shows recommended properties that should ideally contain information about a Dataset but are not strictly required, particularly in situations where such information may be unavailable or inappropriate. The mapping analysis reveals that the vast majority of recommended Bioschemas elements can be accommodated, with only three specific elements (alternateName, includedInDataCatalog, and isBasedOn) remaining uncovered by the current mapping approach.
-The final table identifies ABCD elements that cannot be adequately mapped to Bioschemas properties, detailing their sub-elements such as Text or URI in the second column. The accompanying notes column provides detailed explanations regarding the necessity and relevance of these mappings within the context of dataset search use cases. It was found that only two elements have a potential benefit that might be considered relevant for dataset search applications, though this benefit remains limited and somewhat ambiguous.
+Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity Seasonal School 2026.&nbsp;
+Slides for an exercise with Jupyter, git, GitHuB and binder.&nbsp;
 
-[https://zenodo.org/records/17225216](https://zenodo.org/records/17225216)
+[https://zenodo.org/records/23270698](https://zenodo.org/records/23270698)
 
-[https://doi.org/10.5281/zenodo.17225216](https://doi.org/10.5281/zenodo.17225216)
+[https://doi.org/10.5281/zenodo.23270698](https://doi.org/10.5281/zenodo.23270698)
 
 
 ---
@@ -163,6 +140,45 @@ The data were compiled from regional databases with the help of the Gesellschaft
 
 ---
 
+## Tabular data work/play with openRefine and Python
+
+Müller, Wolfgang
+
+Published 2026-10-06
+
+Licensed cc-by-4.0
+
+
+
+This is a course on cleaning data with openRefine for a given fileset of the "Seasonal School on Data Management in Biodiversity and Environmental Science" in October 2026. In the end there are some slides on making an Excel file with selection lists (instead of free text fields) using a Jupyter Notebook.
+
+[https://zenodo.org/records/23189499](https://zenodo.org/records/23189499)
+
+[https://doi.org/10.5281/zenodo.23189499](https://doi.org/10.5281/zenodo.23189499)
+
+
+---
+
+## Taxonomic name harmonization
+
+Schellenberger Costa, David
+
+Published 2026-10-06
+
+Licensed cc-by-4.0
+
+
+
+The presentations and scripts give an introduction to taxonomic name harmonization, the process of cleaning and resolving scientific names to work with organismic data from different sources.This resource was initially created for the NFDI Seasonal School 2024. The 2026 update features adaptations and improvements to the jupyter notebooks, reflecting changes in the GBIF API and/or rgbif R package (now using v2 of the species endpoint) and comments from users.
+For those not wanting to use jupyter notebooks the html files provide the same content as the ipynb files including results of computations, they are just not interactive.
+
+[https://zenodo.org/records/23189795](https://zenodo.org/records/23189795)
+
+[https://doi.org/10.5281/zenodo.23189795](https://doi.org/10.5281/zenodo.23189795)
+
+
+---
+
 ## Workshop-Übung: Artvorkommensdaten strukturieren und beschreiben
 
 Engel, Judith, Ernst, Marcus, Pauli, Matthias, Penzlin, Anke, Rach, Birgit, Weibulat, Tanja Melanie
@@ -179,30 +195,6 @@ Der (Meta)datenstandard, der der &Uuml;bung zugrunde liegt, ist DarwinCore (http
 [https://zenodo.org/records/20202055](https://zenodo.org/records/20202055)
 
 [https://doi.org/10.5281/zenodo.20202055](https://doi.org/10.5281/zenodo.20202055)
-
-
----
-
-## Yellow Dice Snakes at Vrana Lake in Croatia
-
-Wilms, Michael
-
-Published 2025-10-23
-
-Licensed cc-by-sa-4.0
-
-
-
-
-The article describes an unusual color morph of the dice snake (Natrix tessellata var. flavescens) at Vrana Lake in Croatia. This variant displays a yellowish base coloration, intense black speckling, and red eyes and tongue. Based on personal field-herpetological observations and photographic documentation, the distribution, morphology, and possible genetic stability of this form are discussed. In addition, historical descriptions and taxonomic classifications from the scientific literature are referenced to trace the development of knowledge regarding the &ldquo;flavescens&rdquo; color morph. The contribution highlights the herpetological significance of the habitat and points to open questions concerning genetics and species conservation.
-
-Originally published in TERRARIA/elaphe 66 (2017) in German (ISSN 2363-9474). This version serves the purpose of digital archiving and free accessibility for scientific and natural history audiences. The original article is available on Zenodo under DOI: 10.5281/zenodo.17410521.
-
-
-
-[https://zenodo.org/records/17422679](https://zenodo.org/records/17422679)
-
-[https://doi.org/10.5281/zenodo.17422679](https://doi.org/10.5281/zenodo.17422679)
 
 
 ---

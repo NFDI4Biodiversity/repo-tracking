@@ -3,17 +3,18 @@
 
 Signer, Johannes
 
-Published 2024-12-02
+Published 2026-10-09
 
 Licensed cc-by-4.0
 
 
 
-Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity Seasonal School 2024.&nbsp;
+Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity Seasonal School 2026.&nbsp;
+Slides for an exercise with Jupyter, git, GitHuB and binder.&nbsp;
 
-[https://zenodo.org/records/14262125](https://zenodo.org/records/14262125)
+[https://zenodo.org/records/23270698](https://zenodo.org/records/23270698)
 
-[https://doi.org/10.5281/zenodo.14262125](https://doi.org/10.5281/zenodo.14262125)
+[https://doi.org/10.5281/zenodo.23270698](https://doi.org/10.5281/zenodo.23270698)
 
 
 ---
