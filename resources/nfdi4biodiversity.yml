@@ -6161,3 +6161,66 @@ resources:
   - https://zenodo.org/records/22108644
   - https://doi.org/10.5281/zenodo.22108644
 
+- authors:
+  - Signer, Johannes
+  description: 'Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity
+    Seasonal School 2026.&nbsp;
+
+    Slides for an exercise with Jupyter, git, GitHuB and binder.&nbsp;'
+  license: cc-by-4.0
+  name: 'FAIR tools and processes: Getting started withJupyter & Git(Hub)'
+  num_downloads: 130
+  publication_date: '2026-10-09'
+  submission_date: '2026-10-13T20:08:48.294870'
+  url:
+  - https://zenodo.org/records/23270698
+  - https://doi.org/10.5281/zenodo.23270698
+- authors:
+  - Schellenberger Costa, David
+  description: 'The presentations and scripts give an introduction to taxonomic name
+    harmonization, the process of cleaning and resolving scientific names to work
+    with organismic data from different sources.This resource was initially created
+    for the NFDI Seasonal School 2024. The 2026 update features adaptations and improvements
+    to the jupyter notebooks, reflecting changes in the GBIF API and/or rgbif R package
+    (now using v2 of the species endpoint) and comments from users.
+
+    For those not wanting to use jupyter notebooks the html files provide the same
+    content as the ipynb files including results of computations, they are just not
+    interactive.'
+  license: cc-by-4.0
+  name: Taxonomic name harmonization
+  num_downloads: 2325
+  publication_date: '2026-10-06'
+  submission_date: '2026-10-13T20:08:48.294911'
+  url:
+  - https://zenodo.org/records/23189795
+  - https://doi.org/10.5281/zenodo.23189795
+- authors:
+  - Müller, Wolfgang
+  description: This is a course on cleaning data with openRefine for a given fileset
+    of the "Seasonal School on Data Management in Biodiversity and Environmental Science"
+    in October 2026. In the end there are some slides on making an Excel file with
+    selection lists (instead of free text fields) using a Jupyter Notebook.
+  license: cc-by-4.0
+  name: Tabular data work/play with openRefine and Python
+  num_downloads: 104
+  publication_date: '2026-10-06'
+  submission_date: '2026-10-13T20:08:48.294935'
+  url:
+  - https://zenodo.org/records/23189499
+  - https://doi.org/10.5281/zenodo.23189499
+- authors:
+  - Singson, Lea Sophie
+  description: This presentation was held during the NFDI4Biodiversity Seasonal School
+    2026. It was a session of 90 minutes with interactive elements. Topics were the
+    Nagoya Protocol as well as data rights and obligations posed by law and licenses
+    when creating and using research data.
+  license: cc-by-4.0
+  name: '''Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity
+    Seasonal School 2026'
+  num_downloads: 94
+  publication_date: '2026-10-06'
+  submission_date: '2026-10-13T20:08:48.294955'
+  url:
+  - https://zenodo.org/records/23190301
+  - https://doi.org/10.5281/zenodo.23190301
