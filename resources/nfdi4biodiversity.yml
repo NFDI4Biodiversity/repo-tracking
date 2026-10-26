@@ -6224,3 +6224,13 @@ resources:
   url:
   - https://zenodo.org/records/23190301
   - https://doi.org/10.5281/zenodo.23190301
+- authors:
+  - JulianeRoeder
+  - Johannes Signer
+  description: ''
+  name: SeasonalSchool2026
+  publication_date: '2026-06-25'
+  submission_date: '2026-10-26T17:07:36.537840'
+  type: software
+  url:
+  - https://github.com/NFDI4Biodiversity/SeasonalSchool2026
