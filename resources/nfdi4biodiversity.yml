@@ -6224,3 +6224,30 @@ resources:
   url:
   - https://zenodo.org/records/23190301
   - https://doi.org/10.5281/zenodo.23190301
+- authors:
+  - Linares Gómez, Jimena
+  description: 'In this presentation, you learn why and how to create a data management
+    plan (DMP), and the topics covered by a good data mangement plan. In the hands-on
+    part, you are introduced to the GFBio DMP-Tool and you create your own data management
+    plan.
+
+    This lecture was part of the NFDI4Biodiversity and iDiv Seasonal School 2026.
+    It was a session of 120 minutes with interactive elements.
+
+    The NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity
+    and Environmental Science 2026 was organized by Marburg University, the German
+    Federation for Biological Data (GFBio), the German Centre for Integrative Biodiversity
+    Research (iDiv), and supported by 14 lecturers from 13 NFDI4Biodiversity partner
+    institutions. This course offeres cutting-edge skills and knowledge essential
+    for handling scientific data throughout its life cycle. The intensive five-day
+    program combines interactive lectures with hands-on sessions to introduce participants
+    to fundamental and advanced tools in research data management (RDM), tailored
+    to enhance their future careers.'
+  license: cc-by-4.0
+  name: Create a Data Management Plan (DMP)
+  num_downloads: 0
+  publication_date: '2026-11-10'
+  submission_date: '2026-11-10T20:45:02.748884'
+  url:
+  - https://zenodo.org/records/24104725
+  - https://doi.org/10.5281/zenodo.24104725
