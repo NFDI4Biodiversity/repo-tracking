@@ -1,4 +1,4 @@
-# Weibulat, tanja melanie (6)
+# Weibulat, tanja melanie (7)
 ## Continuation of partnership Germany-Kenya with two workshops in 2023
 
 Weibulat, Tanja Melanie, Triebel, Dagmar
@@ -36,6 +36,27 @@ The &nbsp;&bdquo;Software as a Service (SaaS )&ldquo; and &bdquo;Virtual Researc
 [https://zenodo.org/records/12802893](https://zenodo.org/records/12802893)
 
 [https://doi.org/10.5281/zenodo.12802893](https://doi.org/10.5281/zenodo.12802893)
+
+
+---
+
+## GBIF Data Papers in Peer-Reviewed Journals
+
+Weibulat, Tanja Melanie
+
+Published 2025-02-01
+
+Licensed cc-by-4.0
+
+
+
+A GBIF Data Paper provides a framework for the scientific documentation and publication of biodiversity data. It enables datasets to become more visible, discoverable, citable, and reusable by providing detailed information on data collection, processing methods, and data quality.
+An important objective of GBIF Data Papers is to ensure that researchers receive appropriate academic recognition for the work involved in collecting, curating, and publishing biodiversity data. Unlike a simple data publication, a Data Paper is a peer-reviewed scientific publication that can be formally cited and acknowledged as a scholarly contribution, thereby increasing the recognition and visibility of data providers within the scientific community.
+This presentation introduces the concept and relevance of GBIF Data Papers, outlining the process from data collection and preparation to publication. Using a practical example, it highlights key requirements and steps involved, including metadata, data standards, quality control, and the publication workflow. The aim is to demonstrate the value of Data Papers in promoting the long-term accessibility, scientific recognition, and reuse of biodiversity data through the Global Biodiversity Information Facility (GBIF).
+
+[https://zenodo.org/records/24146320](https://zenodo.org/records/24146320)
+
+[https://doi.org/10.5281/zenodo.24146320](https://doi.org/10.5281/zenodo.24146320)
 
 
 ---

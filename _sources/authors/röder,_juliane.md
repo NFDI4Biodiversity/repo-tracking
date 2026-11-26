@@ -131,19 +131,19 @@ For further details on the projects, feel free to take a look at the available&n
 
 Röder, Juliane
 
-Published 2024-05-21
+Published 2026-11-10
 
 Licensed cc-by-4.0
 
 
 
-In this 1 h talk, Juliane R&ouml;der introduced students of the "Biodiversity and Conservation" master's program of the Philipps University of Marburg to basic aspects of research data management.
-The first part discusses motivations and solutions for improved research data management specific for ecological and biodiversity data. The second part gives an overview of simple, hands-on improvements of research data management along the data life cycle. Many of the discipline specific tools and services presented in the talk are provided by the NFDI4Biodiversity consortium. Included is also an overview of generic tools and services provided by the local eResearch Center of the Philipps University of Marburg in close collaboration with the Hessian Research Data Infrastructures (HeFDI).
-For further details on research data management for biodiversity data, feel free to take a look at the available NFDI4Biodiversity training resources as well as information on the HeFDI initiative and the eResearch Center of the University of Marburg.
+This lecture gives a brief introduction to basic concepts of research data management. The first part discusses motivations and solutions for improved research data management specific for ecological and biodiversity data, and introduces the large support networks provided by NFDI, NFDI4Biodversity, and federal research data infrastructures. The second part gives an overview of simple, hands-on improvements of research data management along the data life cycle. The final part shows where to find training resources and the helpdesk, and showcases a selction of NFDI4Biodiversity tools and services.
+This lecture was part of the NFDI4Biodiversity and iDiv Seasonal School 2026. It was a session of 90 minutes with interactive elements.&nbsp;
+The NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science 2026 was organized by Marburg University, the German Federation for Biological Data (GFBio), the German Centre for Integrative Biodiversity Research (iDiv), and supported by 14 lecturers from 13 NFDI4Biodiversity partner institutions. This course offered cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combined interactive lectures with hands-on sessions to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
 
-[https://zenodo.org/records/11235458](https://zenodo.org/records/11235458)
+[https://zenodo.org/records/24115822](https://zenodo.org/records/24115822)
 
-[https://doi.org/10.5281/zenodo.11235458](https://doi.org/10.5281/zenodo.11235458)
+[https://doi.org/10.5281/zenodo.24115822](https://doi.org/10.5281/zenodo.24115822)
 
 
 ---

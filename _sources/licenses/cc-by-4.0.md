@@ -1,4 +1,4 @@
-# Cc-by-4.0 (167)
+# Cc-by-4.0 (169)
 ## 'Tis the Season for Legal Reason - Resource Sharing and Data Rights NFDI4Biodiversity Seasonal School 2025
 
 Singson, Lea Sophie
@@ -938,6 +938,27 @@ The scientific partnership between the GBIF Participant Nodes of Germany and Ken
 
 ---
 
+## Create a Data Management Plan (DMP)
+
+Linares Gómez, Jimena
+
+Published 2026-11-10
+
+Licensed cc-by-4.0
+
+
+
+In this presentation, you learn why and how to create a data management plan (DMP), and the topics covered by a good data mangement plan. In the hands-on part, you are introduced to the GFBio DMP-Tool and you create your own data management plan.
+This lecture was part of the NFDI4Biodiversity and iDiv Seasonal School 2026. It was a session of 120 minutes with interactive elements.
+The NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science 2026 was organized by Marburg University, the German Federation for Biological Data (GFBio), the German Centre for Integrative Biodiversity Research (iDiv), and supported by 14 lecturers from 13 NFDI4Biodiversity partner institutions. This course offeres cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combines interactive lectures with hands-on sessions to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
+
+[https://zenodo.org/records/24104725](https://zenodo.org/records/24104725)
+
+[https://doi.org/10.5281/zenodo.24104725](https://doi.org/10.5281/zenodo.24104725)
+
+
+---
+
 ## Cross-Community Workshop NFDI4Biodiversity / sMon  22. - 24. Januar 2024
 
 Friedrichs-Manthey, Martin, Engel, Thore, Fischer, Sarah, Schomburg, Christoph, Güntsch, Anton, Holetschek, Jörg, König-Ries, Birgitta, Köpke, Robert, Grünberger, Tom, Hüllbusch, Elisabeth, Bonn, Aletta
@@ -1591,6 +1612,27 @@ The poster was presented on the NFDI4Biodiversity All Hands Conference in Munich
 
 ---
 
+## GBIF Data Papers in Peer-Reviewed Journals
+
+Weibulat, Tanja Melanie
+
+Published 2025-02-01
+
+Licensed cc-by-4.0
+
+
+
+A GBIF Data Paper provides a framework for the scientific documentation and publication of biodiversity data. It enables datasets to become more visible, discoverable, citable, and reusable by providing detailed information on data collection, processing methods, and data quality.
+An important objective of GBIF Data Papers is to ensure that researchers receive appropriate academic recognition for the work involved in collecting, curating, and publishing biodiversity data. Unlike a simple data publication, a Data Paper is a peer-reviewed scientific publication that can be formally cited and acknowledged as a scholarly contribution, thereby increasing the recognition and visibility of data providers within the scientific community.
+This presentation introduces the concept and relevance of GBIF Data Papers, outlining the process from data collection and preparation to publication. Using a practical example, it highlights key requirements and steps involved, including metadata, data standards, quality control, and the publication workflow. The aim is to demonstrate the value of Data Papers in promoting the long-term accessibility, scientific recognition, and reuse of biodiversity data through the Global Biodiversity Information Facility (GBIF).
+
+[https://zenodo.org/records/24146320](https://zenodo.org/records/24146320)
+
+[https://doi.org/10.5281/zenodo.24146320](https://doi.org/10.5281/zenodo.24146320)
+
+
+---
+
 ## GBIF Germany Activities 2025
 
 Weibulat, Tanja Melanie, Triebel, Dagmar
@@ -1912,19 +1954,19 @@ Contact: forschungsdaten@uni-kassel.de&nbsp;
 
 Röder, Juliane
 
-Published 2024-05-21
+Published 2026-11-10
 
 Licensed cc-by-4.0
 
 
 
-In this 1 h talk, Juliane R&ouml;der introduced students of the "Biodiversity and Conservation" master's program of the Philipps University of Marburg to basic aspects of research data management.
-The first part discusses motivations and solutions for improved research data management specific for ecological and biodiversity data. The second part gives an overview of simple, hands-on improvements of research data management along the data life cycle. Many of the discipline specific tools and services presented in the talk are provided by the NFDI4Biodiversity consortium. Included is also an overview of generic tools and services provided by the local eResearch Center of the Philipps University of Marburg in close collaboration with the Hessian Research Data Infrastructures (HeFDI).
-For further details on research data management for biodiversity data, feel free to take a look at the available NFDI4Biodiversity training resources as well as information on the HeFDI initiative and the eResearch Center of the University of Marburg.
+This lecture gives a brief introduction to basic concepts of research data management. The first part discusses motivations and solutions for improved research data management specific for ecological and biodiversity data, and introduces the large support networks provided by NFDI, NFDI4Biodversity, and federal research data infrastructures. The second part gives an overview of simple, hands-on improvements of research data management along the data life cycle. The final part shows where to find training resources and the helpdesk, and showcases a selction of NFDI4Biodiversity tools and services.
+This lecture was part of the NFDI4Biodiversity and iDiv Seasonal School 2026. It was a session of 90 minutes with interactive elements.&nbsp;
+The NFDI4Biodiversity &amp; iDiv Seasonal School on Data Management in Biodiversity and Environmental Science 2026 was organized by Marburg University, the German Federation for Biological Data (GFBio), the German Centre for Integrative Biodiversity Research (iDiv), and supported by 14 lecturers from 13 NFDI4Biodiversity partner institutions. This course offered cutting-edge skills and knowledge essential for handling scientific data throughout its life cycle. The intensive five-day program combined interactive lectures with hands-on sessions to introduce participants to fundamental and advanced tools in research data management (RDM), tailored to enhance their future careers.
 
-[https://zenodo.org/records/11235458](https://zenodo.org/records/11235458)
+[https://zenodo.org/records/24115822](https://zenodo.org/records/24115822)
 
-[https://doi.org/10.5281/zenodo.11235458](https://doi.org/10.5281/zenodo.11235458)
+[https://doi.org/10.5281/zenodo.24115822](https://doi.org/10.5281/zenodo.24115822)
 
 
 ---
