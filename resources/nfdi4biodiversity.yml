@@ -6250,6 +6250,9 @@ resources:
   num_downloads: 5
   publication_date: '2025-02-01'
   submission_date: '2026-11-17T22:06:39.988254'
+  num_downloads: 17
+  publication_date: '2025-02-01'
+  submission_date: '2026-11-24T23:26:05.979581'
   url:
   - https://zenodo.org/records/24146320
   - https://doi.org/10.5281/zenodo.24146320
@@ -6281,6 +6284,9 @@ resources:
   num_downloads: 1327
   publication_date: '2026-11-10'
   submission_date: '2026-11-17T22:06:39.988293'
+  num_downloads: 1364
+  publication_date: '2026-11-10'
+  submission_date: '2026-11-24T23:26:05.979620'
   url:
   - https://zenodo.org/records/24115822
   - https://doi.org/10.5281/zenodo.24115822
@@ -6308,6 +6314,9 @@ resources:
   num_downloads: 28
   publication_date: '2026-11-10'
   submission_date: '2026-11-17T22:06:39.988317'
+  num_downloads: 37
+  publication_date: '2026-11-10'
+  submission_date: '2026-11-24T23:26:05.979643'
   url:
   - https://zenodo.org/records/24104725
   - https://doi.org/10.5281/zenodo.24104725
