@@ -6247,6 +6247,9 @@ resources:
     Facility (GBIF).'
   license: cc-by-4.0
   name: GBIF Data Papers in Peer-Reviewed Journals
+  num_downloads: 5
+  publication_date: '2025-02-01'
+  submission_date: '2026-11-17T22:06:39.988254'
   num_downloads: 17
   publication_date: '2025-02-01'
   submission_date: '2026-11-24T23:26:05.979581'
@@ -6278,6 +6281,9 @@ resources:
     to enhance their future careers.'
   license: cc-by-4.0
   name: Introduction to research data management
+  num_downloads: 1327
+  publication_date: '2026-11-10'
+  submission_date: '2026-11-17T22:06:39.988293'
   num_downloads: 1364
   publication_date: '2026-11-10'
   submission_date: '2026-11-24T23:26:05.979620'
@@ -6305,6 +6311,9 @@ resources:
     to enhance their future careers.'
   license: cc-by-4.0
   name: Create a Data Management Plan (DMP)
+  num_downloads: 28
+  publication_date: '2026-11-10'
+  submission_date: '2026-11-17T22:06:39.988317'
   num_downloads: 37
   publication_date: '2026-11-10'
   submission_date: '2026-11-24T23:26:05.979643'
